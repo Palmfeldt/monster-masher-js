@@ -1,0 +1,409 @@
+# Italian translation of PACKAGE.
+# Copyright (C) 2004 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Riccardo Bozzo <riccardoNOSPAM@upweb.it>, 2004.
+# , fuzzy
+# 
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: monster masher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-10-09 14:35+0200\n"
+"PO-Revision-Date: 2004-07-14 12:41+0200\n"
+"Last-Translator: Riccardo Bozzo <riccardoNOSPAM@upweb.it>\n"
+"Language-Team: Italian <tp@lists.linux.it>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/game.cpp:108
+msgid "Level %1 cleared for monsters!"
+msgstr "Livello %1 ripulito dai mostri!"
+
+#: ../src/game.cpp:140
+msgid "And the last hero disappeared..."
+msgstr "L'ultimo eroe è scomparso..."
+
+#: ../src/game.cpp:151
+msgid "All levels liberated!"
+msgstr "Tutti i livelli ripuliti!"
+
+#: ../src/game.cpp:383
+msgid "Entering level %1..."
+msgstr "Stai entrando nel livello %1..."
+
+#: ../src/helpers.cpp:39
+msgid "Fatal error"
+msgstr "Errore fatale"
+
+#: ../src/helpers.cpp:52
+msgid ""
+"%1. Check your installation or report the problem to the distributor if you "
+"installed from a package."
+msgstr ""
+"%1. Controlla l'installazione o riporta il problema al distributore se "
+"installato da pacchetto."
+
+#: ../src/intro.cpp:79
+msgid ""
+"In the old days, before man entered the world, the gnomes were abundant."
+msgstr ""
+"Nelle antiche ere, prima che gli uomini comparissero nel mondo, regnavano "
+"gli gnomi."
+
+#: ../src/intro.cpp:82
+msgid ""
+"Through centuries of hard labour, only slightly eased by the levitational "
+"powers provided to them by their god, they bored out shafts and caves in the "
+"mountains."
+msgstr ""
+"Dopo secoli di duro lavoro, aiutati solamente dai poteri di levitazione "
+"donati loro dal loro dio, scavarono gallerie e cunicoli nella montagna."
+
+#: ../src/intro.cpp:88
+msgid "Always seeking the precious stones and valuable ore..."
+msgstr "Sempre alla ricerca di pietre preziose e metalli rari..."
+
+#: ../src/intro.cpp:91
+msgid ""
+"But one clan dug deeper than the others. Only its wealth was growing quicker "
+"than its greed."
+msgstr ""
+"Ma un clan scavò più in profondità degli altri. Solo la sua ricchezza "
+"cresceva più in fretta della sua ambizione."
+
+#: ../src/intro.cpp:95
+msgid ""
+"The years went by. The chief of the clan became the king of the gnomes. "
+"Thousands of men, women and children were sent to work in the deepest, most "
+"profitable mines."
+msgstr ""
+"Gli anni passavano. Il capoclan divenne il re degli gnomi. Migliaia di "
+"uomini, donne e bambini vennero mandati a lavorare nelle più ricche e "
+"profonde miniere."
+
+#: ../src/intro.cpp:101
+msgid "Then one day a large deposit of coal was found. Or so it was thought..."
+msgstr ""
+"Un giorno venne trovato un grosso deposito di carbone, o almeno così si "
+"pensava..."
+
+#: ../src/intro.cpp:104
+msgid "From the black carbon, a strange creature rose!"
+msgstr "Dal nero carbone emerse una strana creatura!"
+
+#: ../src/intro.cpp:107
+msgid ""
+"The first moments of surprise among the workers were replaced with horror as "
+"hundreds of other shapes broke out of the vein, crushing everything and "
+"everybody on their way."
+msgstr ""
+"Al primo attimo di sorpresa tra i minatori si sostituì l'orrore, quando "
+"videro centinaia di figure irrompere dalla vena,· chiacciando tutto e tutti "
+"sulla loro strada."
+
+#: ../src/intro.cpp:113
+msgid ""
+"For months, the clan fought the monsters. Only a handful of messengers sent "
+"out to warn the other clans survived."
+msgstr ""
+"Per mesi il clan combattè i mostri. Solo una manciata di messaggeri "
+"sopravvisse, per avvertire gli altri clan."
+
+#: ../src/intro.cpp:118
+msgid "The world of the gnomes was threatened..."
+msgstr "Il mondo degli gnomi era minacciato..."
+
+#: ../src/intro.cpp:121
+msgid ""
+"By the black monsters made of carbon harder than steel, mechanical in their "
+"stupidity; but deadly."
+msgstr ""
+"Dai mostri composti di un carbone più duro dell'acciaio, automi senza "
+"volontà, ma letali "
+
+#: ../src/intro.cpp:125
+msgid ""
+"By the armoured monsters so well-protected that only the bed-rock was hard "
+"enough to slay them."
+msgstr ""
+"Da mostri corazzati talmente ben protetti che solo la roccia più dura poteva "
+"scalfirli."
+
+#: ../src/intro.cpp:129
+msgid ""
+"By the seekers, sneaky and tricky, red from the gnome blood that their "
+"spikes had spilled."
+msgstr ""
+"Dai cercatori, viscidi ed ingannevoli, rossi del sangue degli gnomi che le "
+"loro lance avevano versato."
+
+#: ../src/intro.cpp:133
+msgid "And by the blue egg layers that multiplied their number by thousands."
+msgstr ""
+"E dagli strati di uova blu che moltiplicavano il loro numero di migliaia."
+
+#: ../src/intro.cpp:136
+msgid ""
+"The only remaining hope of the gnomes was a humble levitation worker. He had "
+"found a way to mash the monsters against the mountain rocks."
+msgstr ""
+"L'ultima speranza rimasta agli gnomi era un umile minatore con il potere "
+"della levitazione, che aveva trovato il modo di schiacciare i mostri contro "
+"le roccie della montagna."
+
+#: ../src/intro.cpp:141
+msgid "That hope is you."
+msgstr "Questa speranza sei tu."
+
+#: ../src/intro.cpp:143
+msgid ""
+"You must battle your way deep into the mountains, past each of the levels of "
+"the clan of the kings and clear the way for the rock summoners to block the "
+"vein."
+msgstr ""
+"Devi liberarti la strada in profondità attraverso la montagna, superare ogni "
+"livello del re dei clan ed aprire la strada agli evocatori di roccia che "
+"bloccheranno la vena."
+
+#: ../src/intro.cpp:149
+msgid "Only then can the gnomes survive..."
+msgstr "Solo così gli gnomi potranno sopravvivere..."
+
+#: ../src/main-window.cpp:72
+msgid "Monster Masher: cannot load the icon \"%1\".\n"
+msgstr "Monster Masher: impossibile caricare l'icona \"%1\" \n"
+
+#: ../src/main-window.cpp:158 ../src/ui.glade.h:24
+#, no-c-format
+msgid "Resurrections: %1"
+msgstr "Resurrezioni: %1"
+
+#: ../src/main-window.cpp:164 ../src/ui.glade.h:26
+#, no-c-format
+msgid "Score: %1"
+msgstr "Punteggio: %1"
+
+#: ../src/main-window.cpp:174 ../src/ui.glade.h:18
+#, no-c-format
+msgid "Level: %1"
+msgstr "Livello: %1"
+
+#: ../src/main-window.cpp:234
+msgid "_New game"
+msgstr "_Nuovo gioco"
+
+#: ../src/main-window.cpp:237
+msgid "_Introduction"
+msgstr "_Introduzione"
+
+#: ../src/main-window.cpp:240
+msgid "_Preferences"
+msgstr "Preferen_ze"
+
+#: ../src/main-window.cpp:243
+msgid "_About"
+msgstr "I_nformazioni"
+
+#: ../src/main-window.cpp:246
+msgid "_Quit"
+msgstr "_Esci"
+
+#: ../src/main-window.cpp:258
+msgid "_Resume game"
+msgstr "_Riprendi il gioco"
+
+#: ../src/main-window.cpp:261
+msgid "Re_start level"
+msgstr "Re_inizia livello"
+
+#: ../src/main-window.cpp:264
+msgid "_End game"
+msgstr "_Fine partita"
+
+#: ../src/main-window.cpp:407
+msgid ""
+"Fast-paced monster mashing game for GNOME. Splat the monsters before they "
+"roll over you and take over the world of the gnomes!"
+msgstr ""
+"Un veloce gioco arcade per GNOME. Schiaccia i mostri prima che ti travolgano "
+"e conquistino il mondo degli gnomi!"
+
+#: ../src/main-window.cpp:412 ../src/main.cpp:55 ../src/ui.glade.h:19
+#: ../monster-masher.desktop.in.h:2
+msgid "Monster Masher"
+msgstr "Monster Masher"
+
+#. %1 is the copyright symbol
+#: ../src/main-window.cpp:415
+#, fuzzy
+msgid "Copyright %1 2003 Ole Laursen"
+msgstr "Copyright (c) 2003 Ole Laursen"
+
+#. note to translators: please fill in your names and email addresses
+#: ../src/main-window.cpp:422
+msgid "translator-credits"
+msgstr "Riccardo BozzoriccardoNOSPAM@upweb.it"
+
+#. note to translators: resur. stands for resurrections; resurrections
+#. occur when the player is given life again after having died
+#. (the translation should preferably be short)
+#: ../src/new-game-window.cpp:170
+msgid "(resur.: %1)"
+msgstr "(resur.: %1)"
+
+#: ../src/persistent.cpp:160
+msgid ""
+"An error occurred while reading the file \"%1\". This may mean that the "
+"recordings of what levels you have passed are lost."
+msgstr ""
+"Si è· erificato un errore nella lettura del file \"%1\". Questo potrebbe "
+"significare che i salvataggi dei livelli superati sono andati perduti."
+
+#: ../src/persistent.cpp:167
+msgid "Load error"
+msgstr "Errore nel caricamento"
+
+#: ../src/persistent.cpp:235
+msgid ""
+"An error occurred while saving the file \"%1\". This may mean that the "
+"recordings of what levels you have passed are lost."
+msgstr ""
+"Si è verificato un errore nel· alvataggio del file \"%1\". Questo potrebbe "
+"significare che i salvataggi dei livelli superati sono andati perduti."
+
+#: ../src/persistent.cpp:242
+msgid "Save error"
+msgstr "Errore nel salvataggio"
+
+#: ../src/ui.glade.h:1
+msgid "<b>Difficulty</b>"
+msgstr "<b>Difficoltà</b>"
+
+#: ../src/ui.glade.h:2
+msgid "<b>Fullscreen</b>"
+msgstr "<b>Schermo Intero</b>"
+
+#: ../src/ui.glade.h:3
+msgid "<b>Level</b>"
+msgstr "<b>Livello</b>"
+
+#: ../src/ui.glade.h:4
+msgid "<b>Moving</b>"
+msgstr "<b>Movimenti</b>"
+
+#: ../src/ui.glade.h:5
+msgid "<b>Number of Players</b>"
+msgstr "<b>Numero di giocatori</b>"
+
+#: ../src/ui.glade.h:6
+msgid "<b>Pull block</b>"
+msgstr "<b>Trascinare i massi</b>"
+
+#: ../src/ui.glade.h:7
+msgid "Appearance"
+msgstr "Aspetto"
+
+#: ../src/ui.glade.h:8 ../monster-masher.schemas.in.h:1
+msgid "Key for activating pulling of blocks"
+msgstr "Tasto per azionare il trascinamento del masso"
+
+#: ../src/ui.glade.h:9 ../monster-masher.schemas.in.h:2
+msgid "Key for moving down"
+msgstr "Tasto per spostarsi in basso"
+
+#: ../src/ui.glade.h:10 ../monster-masher.schemas.in.h:3
+msgid "Key for moving to the left"
+msgstr "Tasto per spostarsi a sinistra"
+
+#: ../src/ui.glade.h:11 ../monster-masher.schemas.in.h:4
+msgid "Key for moving to the left and down"
+msgstr "Tasto per spostarsi in basso a sinistra"
+
+#: ../src/ui.glade.h:12 ../monster-masher.schemas.in.h:5
+msgid "Key for moving to the left and up"
+msgstr "Tasto per spostarsi in alto a sinistra"
+
+#: ../src/ui.glade.h:13 ../monster-masher.schemas.in.h:6
+msgid "Key for moving to the right"
+msgstr "Tasto per spostarsi a destra"
+
+#: ../src/ui.glade.h:14 ../monster-masher.schemas.in.h:7
+msgid "Key for moving to the right and down"
+msgstr "Tasto per spostarsi in basso a destra"
+
+#: ../src/ui.glade.h:15 ../monster-masher.schemas.in.h:8
+msgid "Key for moving to the right and up"
+msgstr "Tasto per spostarsi in alto a destra"
+
+#: ../src/ui.glade.h:16 ../monster-masher.schemas.in.h:9
+msgid "Key for moving up"
+msgstr "Tasto per spostarsi in alto"
+
+#: ../src/ui.glade.h:20
+msgid "Player 1 keys"
+msgstr "Tasti giocatore 1"
+
+#: ../src/ui.glade.h:21
+msgid "Player 2 keys"
+msgstr "Tasti giocatore 2"
+
+#: ../src/ui.glade.h:22
+msgid "Preferences"
+msgstr "Preferenze"
+
+#: ../src/ui.glade.h:27
+msgid "Start Game"
+msgstr "Inizia partita"
+
+#: ../src/ui.glade.h:28
+msgid "Start at _level:"
+msgstr "Inizia dal _livello:"
+
+#: ../src/ui.glade.h:29
+msgid "Use _fullscreen mode"
+msgstr "Usa _schermo intero"
+
+#: ../src/ui.glade.h:30
+msgid "_Easy"
+msgstr "_Facile"
+
+#: ../src/ui.glade.h:31
+msgid "_Hard"
+msgstr "_Difficile"
+
+#: ../src/ui.glade.h:32
+msgid "_Medium"
+msgstr "_Medio"
+
+#: ../src/ui.glade.h:33
+msgid "_One player"
+msgstr "_Un giocatore"
+
+#: ../src/ui.glade.h:34
+msgid "_Start"
+msgstr "_Inizio"
+
+#: ../src/ui.glade.h:35
+msgid "_Two players"
+msgstr "Du_e giocatori"
+
+#: ../monster-masher.desktop.in.h:1
+msgid "Mash monsters and save the gnomes"
+msgstr "Schiaccia i mostri e salva gli gnomi"
+
+#: ../monster-masher.schemas.in.h:10
+msgid ""
+"The string should be the GDK name of the key value to use (can be found in "
+"gdk/gdkkeynames.c)."
+msgstr ""
+"La stringa deve essere il nome GDK del valore del tasto da usare (reperibile "
+"nel file gdk/gdkkeyname.c)"
+
+#: ../monster-masher.schemas.in.h:11
+msgid "Use fullscreen"
+msgstr "Utilizza schermo intero"
+
+#~ msgid "        "
+#~ msgstr "        "

@@ -1,0 +1,368 @@
+# Irish (gaeilge) translations for monster-masher
+# Copyright (C)  2004 Alastair McKinstry <mckinstry@computer.org>
+# This file is distributed under the same license as the monster-masher package.
+# Alastair McKinstry <mckinstry@computer.org>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: monster-masher HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-10-09 14:35+0200\n"
+"PO-Revision-Date: 2004-03-15 08:01+0000\n"
+"Last-Translator: Alastair McKinstry <mckinstry@computer.org>\n"
+"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/game.cpp:108
+msgid "Level %1 cleared for monsters!"
+msgstr ""
+
+#: ../src/game.cpp:140
+msgid "And the last hero disappeared..."
+msgstr ""
+
+#: ../src/game.cpp:151
+msgid "All levels liberated!"
+msgstr ""
+
+#: ../src/game.cpp:383
+msgid "Entering level %1..."
+msgstr ""
+
+#: ../src/helpers.cpp:39
+msgid "Fatal error"
+msgstr ""
+
+#: ../src/helpers.cpp:52
+msgid ""
+"%1. Check your installation or report the problem to the distributor if you "
+"installed from a package."
+msgstr ""
+
+#: ../src/intro.cpp:79
+msgid ""
+"In the old days, before man entered the world, the gnomes were abundant."
+msgstr ""
+
+#: ../src/intro.cpp:82
+msgid ""
+"Through centuries of hard labour, only slightly eased by the levitational "
+"powers provided to them by their god, they bored out shafts and caves in the "
+"mountains."
+msgstr ""
+
+#: ../src/intro.cpp:88
+msgid "Always seeking the precious stones and valuable ore..."
+msgstr ""
+
+#: ../src/intro.cpp:91
+msgid ""
+"But one clan dug deeper than the others. Only its wealth was growing quicker "
+"than its greed."
+msgstr ""
+
+#: ../src/intro.cpp:95
+msgid ""
+"The years went by. The chief of the clan became the king of the gnomes. "
+"Thousands of men, women and children were sent to work in the deepest, most "
+"profitable mines."
+msgstr ""
+
+#: ../src/intro.cpp:101
+msgid "Then one day a large deposit of coal was found. Or so it was thought..."
+msgstr ""
+
+#: ../src/intro.cpp:104
+msgid "From the black carbon, a strange creature rose!"
+msgstr ""
+
+#: ../src/intro.cpp:107
+msgid ""
+"The first moments of surprise among the workers were replaced with horror as "
+"hundreds of other shapes broke out of the vein, crushing everything and "
+"everybody on their way."
+msgstr ""
+
+#: ../src/intro.cpp:113
+msgid ""
+"For months, the clan fought the monsters. Only a handful of messengers sent "
+"out to warn the other clans survived."
+msgstr ""
+
+#: ../src/intro.cpp:118
+msgid "The world of the gnomes was threatened..."
+msgstr ""
+
+#: ../src/intro.cpp:121
+msgid ""
+"By the black monsters made of carbon harder than steel, mechanical in their "
+"stupidity; but deadly."
+msgstr ""
+
+#: ../src/intro.cpp:125
+msgid ""
+"By the armoured monsters so well-protected that only the bed-rock was hard "
+"enough to slay them."
+msgstr ""
+
+#: ../src/intro.cpp:129
+msgid ""
+"By the seekers, sneaky and tricky, red from the gnome blood that their "
+"spikes had spilled."
+msgstr ""
+
+#: ../src/intro.cpp:133
+msgid "And by the blue egg layers that multiplied their number by thousands."
+msgstr ""
+
+#: ../src/intro.cpp:136
+msgid ""
+"The only remaining hope of the gnomes was a humble levitation worker. He had "
+"found a way to mash the monsters against the mountain rocks."
+msgstr ""
+
+#: ../src/intro.cpp:141
+msgid "That hope is you."
+msgstr ""
+
+#: ../src/intro.cpp:143
+msgid ""
+"You must battle your way deep into the mountains, past each of the levels of "
+"the clan of the kings and clear the way for the rock summoners to block the "
+"vein."
+msgstr ""
+
+#: ../src/intro.cpp:149
+msgid "Only then can the gnomes survive..."
+msgstr ""
+
+#: ../src/main-window.cpp:72
+msgid "Monster Masher: cannot load the icon \"%1\".\n"
+msgstr ""
+
+#: ../src/main-window.cpp:158 ../src/ui.glade.h:24
+#, no-c-format
+msgid "Resurrections: %1"
+msgstr ""
+
+#: ../src/main-window.cpp:164 ../src/ui.glade.h:26
+#, no-c-format
+msgid "Score: %1"
+msgstr "Scór: %1"
+
+#: ../src/main-window.cpp:174 ../src/ui.glade.h:18
+#, no-c-format
+msgid "Level: %1"
+msgstr ""
+
+#: ../src/main-window.cpp:234
+msgid "_New game"
+msgstr "Cluiche _Nua"
+
+#: ../src/main-window.cpp:237
+msgid "_Introduction"
+msgstr "_Eolas"
+
+#: ../src/main-window.cpp:240
+msgid "_Preferences"
+msgstr "_Roghnachais"
+
+#: ../src/main-window.cpp:243
+msgid "_About"
+msgstr "_Faoi"
+
+#: ../src/main-window.cpp:246
+msgid "_Quit"
+msgstr "_Ealu"
+
+#: ../src/main-window.cpp:258
+msgid "_Resume game"
+msgstr ""
+
+#: ../src/main-window.cpp:261
+msgid "Re_start level"
+msgstr ""
+
+#: ../src/main-window.cpp:264
+msgid "_End game"
+msgstr ""
+
+#: ../src/main-window.cpp:407
+msgid ""
+"Fast-paced monster mashing game for GNOME. Splat the monsters before they "
+"roll over you and take over the world of the gnomes!"
+msgstr ""
+
+#: ../src/main-window.cpp:412 ../src/main.cpp:55 ../src/ui.glade.h:19
+#: ../monster-masher.desktop.in.h:2
+msgid "Monster Masher"
+msgstr "Monster Masher"
+
+#. %1 is the copyright symbol
+#: ../src/main-window.cpp:415
+#, fuzzy
+msgid "Copyright %1 2003 Ole Laursen"
+msgstr "Cóipcheart (C) 2003 Ole Laursen"
+
+#. note to translators: please fill in your names and email addresses
+#: ../src/main-window.cpp:422
+msgid "translator-credits"
+msgstr "Alastair McKinstry <mckinstry@computer.org>"
+
+#. note to translators: resur. stands for resurrections; resurrections
+#. occur when the player is given life again after having died
+#. (the translation should preferably be short)
+#: ../src/new-game-window.cpp:170
+msgid "(resur.: %1)"
+msgstr ""
+
+#: ../src/persistent.cpp:160
+msgid ""
+"An error occurred while reading the file \"%1\". This may mean that the "
+"recordings of what levels you have passed are lost."
+msgstr ""
+
+#: ../src/persistent.cpp:167
+msgid "Load error"
+msgstr "Earraidh Lódáil"
+
+#: ../src/persistent.cpp:235
+msgid ""
+"An error occurred while saving the file \"%1\". This may mean that the "
+"recordings of what levels you have passed are lost."
+msgstr ""
+
+#: ../src/persistent.cpp:242
+msgid "Save error"
+msgstr "Earraidh Sábháil"
+
+#: ../src/ui.glade.h:1
+msgid "<b>Difficulty</b>"
+msgstr ""
+
+#: ../src/ui.glade.h:2
+msgid "<b>Fullscreen</b>"
+msgstr ""
+
+#: ../src/ui.glade.h:3
+msgid "<b>Level</b>"
+msgstr ""
+
+#: ../src/ui.glade.h:4
+msgid "<b>Moving</b>"
+msgstr ""
+
+#: ../src/ui.glade.h:5
+msgid "<b>Number of Players</b>"
+msgstr ""
+
+#: ../src/ui.glade.h:6
+msgid "<b>Pull block</b>"
+msgstr ""
+
+#: ../src/ui.glade.h:7
+msgid "Appearance"
+msgstr "Cuma"
+
+#: ../src/ui.glade.h:8 ../monster-masher.schemas.in.h:1
+msgid "Key for activating pulling of blocks"
+msgstr ""
+
+#: ../src/ui.glade.h:9 ../monster-masher.schemas.in.h:2
+msgid "Key for moving down"
+msgstr ""
+
+#: ../src/ui.glade.h:10 ../monster-masher.schemas.in.h:3
+msgid "Key for moving to the left"
+msgstr ""
+
+#: ../src/ui.glade.h:11 ../monster-masher.schemas.in.h:4
+msgid "Key for moving to the left and down"
+msgstr ""
+
+#: ../src/ui.glade.h:12 ../monster-masher.schemas.in.h:5
+msgid "Key for moving to the left and up"
+msgstr ""
+
+#: ../src/ui.glade.h:13 ../monster-masher.schemas.in.h:6
+msgid "Key for moving to the right"
+msgstr ""
+
+#: ../src/ui.glade.h:14 ../monster-masher.schemas.in.h:7
+msgid "Key for moving to the right and down"
+msgstr ""
+
+#: ../src/ui.glade.h:15 ../monster-masher.schemas.in.h:8
+msgid "Key for moving to the right and up"
+msgstr ""
+
+#: ../src/ui.glade.h:16 ../monster-masher.schemas.in.h:9
+msgid "Key for moving up"
+msgstr ""
+
+#: ../src/ui.glade.h:20
+msgid "Player 1 keys"
+msgstr ""
+
+#: ../src/ui.glade.h:21
+msgid "Player 2 keys"
+msgstr ""
+
+#: ../src/ui.glade.h:22
+msgid "Preferences"
+msgstr "Roghnachais"
+
+#: ../src/ui.glade.h:27
+msgid "Start Game"
+msgstr "Tosaigh Cluiche"
+
+#: ../src/ui.glade.h:28
+msgid "Start at _level:"
+msgstr ""
+
+#: ../src/ui.glade.h:29
+msgid "Use _fullscreen mode"
+msgstr ""
+
+#: ../src/ui.glade.h:30
+msgid "_Easy"
+msgstr ""
+
+#: ../src/ui.glade.h:31
+msgid "_Hard"
+msgstr "_Crua"
+
+#: ../src/ui.glade.h:32
+msgid "_Medium"
+msgstr "_Gnáth"
+
+#: ../src/ui.glade.h:33
+msgid "_One player"
+msgstr ""
+
+#: ../src/ui.glade.h:34
+msgid "_Start"
+msgstr "_Tósnaigh"
+
+#: ../src/ui.glade.h:35
+msgid "_Two players"
+msgstr ""
+
+#: ../monster-masher.desktop.in.h:1
+msgid "Mash monsters and save the gnomes"
+msgstr ""
+
+#: ../monster-masher.schemas.in.h:10
+msgid ""
+"The string should be the GDK name of the key value to use (can be found in "
+"gdk/gdkkeynames.c)."
+msgstr ""
+
+#: ../monster-masher.schemas.in.h:11
+msgid "Use fullscreen"
+msgstr ""
+
+#~ msgid "        "
+#~ msgstr "        "

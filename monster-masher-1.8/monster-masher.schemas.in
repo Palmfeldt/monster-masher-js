@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<gconfschemafile>
+  <schemalist>
+    <schema>
+      <key>/schemas/apps/monster-masher/fullscreen</key>
+      <applyto>/apps/monster-masher/fullscreen</applyto>
+      <owner>monster-masher</owner>
+      <type>bool</type>
+      <default>true</default>
+      <locale name="C">
+        <short>Use fullscreen</short>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/monster-masher/player1/left_key</key>
+      <applyto>/apps/monster-masher/player1/left_key</applyto>
+      <owner>monster-masher</owner>
+      <type>string</type>
+      <default>KP_Left</default>
+      <locale name="C">
+        <short>Key for moving to the left</short>
+        <long>The string should be the GDK name of the key value to use (can be found in gdk/gdkkeynames.c).</long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/monster-masher/player1/left_up_key</key>
+      <applyto>/apps/monster-masher/player1/left_up_key</applyto>
+      <owner>monster-masher</owner>
+      <type>string</type>
+      <default>KP_Home</default>
+      <locale name="C">
+        <short>Key for moving to the left and up</short>
+        <long>The string should be the GDK name of the key value to use (can be found in gdk/gdkkeynames.c).</long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/monster-masher/player1/up_key</key>
+      <applyto>/apps/monster-masher/player1/up_key</applyto>
+      <owner>monster-masher</owner>
+      <type>string</type>
+      <default>KP_Up</default>
+      <locale name="C">
+        <short>Key for moving up</short>
+        <long>The string should be the GDK name of the key value to use (can be found in gdk/gdkkeynames.c).</long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/monster-masher/player1/right_up_key</key>
+      <applyto>/apps/monster-masher/player1/right_up_key</applyto>
+      <owner>monster-masher</owner>
+      <type>string</type>
+      <default>KP_Page_Up</default>
+      <locale name="C">
+        <short>Key for moving to the right and up</short>
+        <long>The string should be the GDK name of the key value to use (can be found in gdk/gdkkeynames.c).</long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/monster-masher/player1/right_key</key>
+      <applyto>/apps/monster-masher/player1/right_key</applyto>
+      <owner>monster-masher</owner>
+      <type>string</type>
+      <default>KP_Right</default>
+      <locale name="C">
+        <short>Key for moving to the right</short>
+        <long>The string should be the GDK name of the key value to use (can be found in gdk/gdkkeynames.c).</long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/monster-masher/player1/right_down_key</key>
+      <applyto>/apps/monster-masher/player1/right_down_key</applyto>
+      <owner>monster-masher</owner>
+      <type>string</type>
+      <default>KP_Page_Down</default>
+      <locale name="C">
+        <short>Key for moving to the right and down</short>
+        <long>The string should be the GDK name of the key value to use (can be found in gdk/gdkkeynames.c).</long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/monster-masher/player1/down_key</key>
+      <applyto>/apps/monster-masher/player1/down_key</applyto>
+      <owner>monster-masher</owner>
+      <type>string</type>
+      <default>KP_Down</default>
+      <locale name="C">
+        <short>Key for moving down</short>
+        <long>The string should be the GDK name of the key value to use (can be found in gdk/gdkkeynames.c).</long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/monster-masher/player1/left_down_key</key>
+      <applyto>/apps/monster-masher/player1/left_down_key</applyto>
+      <owner>monster-masher</owner>
+      <type>string</type>
+      <default>KP_End</default>
+      <locale name="C">
+        <short>Key for moving to the left and down</short>
+        <long>The string should be the GDK name of the key value to use (can be found in gdk/gdkkeynames.c).</long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/monster-masher/player1/pull_key</key>
+      <applyto>/apps/monster-masher/player1/pull_key</applyto>
+      <owner>monster-masher</owner>
+      <type>string</type>
+      <default>Control_R</default>
+      <locale name="C">
+        <short>Key for activating pulling of blocks</short>
+        <long>The string should be the GDK name of the key value to use (can be found in gdk/gdkkeynames.c).</long>
+      </locale>
+    </schema>
+    
+    <schema>
+      <key>/schemas/apps/monster-masher/player2/left_key</key>
+      <applyto>/apps/monster-masher/player2/left_key</applyto>
+      <owner>monster-masher</owner>
+      <type>string</type>
+      <default>d</default>
+      <locale name="C">
+        <short>Key for moving to the left</short>
+        <long>The string should be the GDK name of the key value to use (can be found in gdk/gdkkeynames.c).</long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/monster-masher/player2/left_up_key</key>
+      <applyto>/apps/monster-masher/player2/left_up_key</applyto>
+      <owner>monster-masher</owner>
+      <type>string</type>
+      <default>e</default>
+      <locale name="C">
+        <short>Key for moving to the left and up</short>
+        <long>The string should be the GDK name of the key value to use (can be found in gdk/gdkkeynames.c).</long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/monster-masher/player2/up_key</key>
+      <applyto>/apps/monster-masher/player2/up_key</applyto>
+      <owner>monster-masher</owner>
+      <type>string</type>
+      <default>r</default>
+      <locale name="C">
+        <short>Key for moving up</short>
+        <long>The string should be the GDK name of the key value to use (can be found in gdk/gdkkeynames.c).</long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/monster-masher/player2/right_up_key</key>
+      <applyto>/apps/monster-masher/player2/right_up_key</applyto>
+      <owner>monster-masher</owner>
+      <type>string</type>
+      <default>t</default>
+      <locale name="C">
+        <short>Key for moving to the right and up</short>
+        <long>The string should be the GDK name of the key value to use (can be found in gdk/gdkkeynames.c).</long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/monster-masher/player2/right_key</key>
+      <applyto>/apps/monster-masher/player2/right_key</applyto>
+      <owner>monster-masher</owner>
+      <type>string</type>
+      <default>g</default>
+      <locale name="C">
+        <short>Key for moving to the right</short>
+        <long>The string should be the GDK name of the key value to use (can be found in gdk/gdkkeynames.c).</long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/monster-masher/player2/right_down_key</key>
+      <applyto>/apps/monster-masher/player2/right_down_key</applyto>
+      <owner>monster-masher</owner>
+      <type>string</type>
+      <default>b</default>
+      <locale name="C">
+        <short>Key for moving to the right and down</short>
+        <long>The string should be the GDK name of the key value to use (can be found in gdk/gdkkeynames.c).</long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/monster-masher/player2/down_key</key>
+      <applyto>/apps/monster-masher/player2/down_key</applyto>
+      <owner>monster-masher</owner>
+      <type>string</type>
+      <default>v</default>
+      <locale name="C">
+        <short>Key for moving down</short>
+        <long>The string should be the GDK name of the key value to use (can be found in gdk/gdkkeynames.c).</long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/monster-masher/player2/left_down_key</key>
+      <applyto>/apps/monster-masher/player2/left_down_key</applyto>
+      <owner>monster-masher</owner>
+      <type>string</type>
+      <default>c</default>
+      <locale name="C">
+        <short>Key for moving to the left and down</short>
+        <long>The string should be the GDK name of the key value to use (can be found in gdk/gdkkeynames.c).</long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/monster-masher/player2/pull_key</key>
+      <applyto>/apps/monster-masher/player2/pull_key</applyto>
+      <owner>monster-masher</owner>
+      <type>string</type>
+      <default>Control_L</default>
+      <locale name="C">
+        <short>Key for activating pulling of blocks</short>
+        <long>The string should be the GDK name of the key value to use (can be found in gdk/gdkkeynames.c).</long>
+      </locale>
+    </schema>
+  </schemalist>
+</gconfschemafile>

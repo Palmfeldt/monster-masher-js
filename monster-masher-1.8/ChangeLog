@@ -1,0 +1,390 @@
+2005-10-09  Ole Laursen  <olau@hardworking.dk>
+
+	* configure.ac: Reflect the new requirements. Bump version no.
+
+	* src/main-window.cpp, src/main-window.hpp, src/main.cpp,
+	src/ui.glade: Ported to gtkmm 2.6 which renders libgnomeui,
+	libgnomemm and libgnomeuimm superfluous.
+
+	* src/new-game-window.cpp (on_level_changed): Made the translator
+	note a little bit clearer.
+
+	* README: Fixed requirements.
+
+2005-07-23  Pawan Chitrakar  <pawan@nplinux.org>
+
+	* configure.ac: Added ne in ALL_LINGUAS
+
+2005-04-01  Steve Murphy  <murf@e-tools.com>
+
+        * configure.ac: Added "rw" to ALL_LINGUAS.
+
+2005-03-29  Alexander Shopov  <ash@contact.bg>
+
+	* configure.ac: Added "bg" (Bulgarian) to ALL_LINGUAS
+
+2005-02-15  Christophe Merlet  <redfox@redfoxcenter.org>
+
+	* configure.ac: Added fr to ALL_LINGUAS
+
+2004-11-05  Jordi Mallach  <jordi@sindominio.net>
+
+	* configure.ac (ALL_LINGUAS): Added "ca" (Catalan).
+
+2004-10-05	Amanpreet Singh Alam <amanpreetalam@yahoo.com>
+	
+	* configure.ac: Add pa (Punjabi) to ALL_LINGUAS
+
+2004-08-30  Maxim Dziumanenko <mvd@mylinux.com.ua>
+
+	* configure.ac: Added uk to ALL_LINGUAS
+
+2004-09-13  Jayaradha <njaya@redhat.com>
+
+	* configure.ac: Added ta to ALL_LINGUAS.
+2004-09-08  Ankit Patel <ankit@redhat.com>
+
+	* configure.ac: Added fi (Gujarati) to ALL_LINGUAS.
+
+2004-08-12  Jarkko Ranta  <jjranta@cc.joensuu.fi>
+
+	* configure.ac: Added fi to ALL_LINGUAS
+
+2004-07-10  Ole Laursen  <olau@hardworking.dk>
+
+	* src/Makefile.am: Removed annoying spaces.
+
+2004-07-09  Ole Laursen  <olau@hardworking.dk>
+
+	* src/ui.glade: Removed unnecessary string.
+
+	* src/new-game-window.cpp: Added a note to translators.
+
+	* src/intro.cpp: s/rised/rose/, and reformulated some of the other
+	messages (feedback from Sini S. Ruohomaa).
+
+2004-07-06  Ole Laursen  <olau@hardworking.dk>
+
+	* NEWS: Released version 1.7.
+
+2004-07-02  Ole Laursen  <olau@hardworking.dk>
+
+	* README: Updated the version no. requirement, corrected some
+	formulations.
+
+	* configure.ac: Bumped version no.
+
+	* autogen.sh: Create pixmaps/Makefile.povrules with old date so
+	that it exists but will be regenerated. Fixes bootstrap problem.
+
+2004-06-21  Ole Laursen  <olau@hardworking.dk>
+
+	* configure.ac, src/*.[ch]pp: Use gtkmm 2.4 and friends.
+
+	* src/ucompose.hpp: Updated to version 1.0.4.
+
+2004-06-16  Ole Laursen  <olau@hardworking.dk>
+
+	* src/Makefile.am: Use AM_CXXFLAGS instead of CXXFLAGS.
+
+	* src/new-game-window.cpp (on_level_changed): Fixed a bug with
+	assigning a reference to an address outside an array.
+
+2004-05-28  Ole Laursen  <olau@hardworking.dk>
+
+	* NEWS: Version 1.6.1 released!
+
+	* configure.ac: Bumped version no.
+
+	* src/main-window.cpp: Fixed wrong "splash.png" references.
+
+2004-05-27  Ole Laursen  <olau@hardworking.dk>
+
+	* NEWS: Version 1.6 released!
+
+	* configure.ac: Bumped version no.
+
+	* src/monsters.cpp: Fixed long-standing bug where two monsters
+	could occupy the same tile after an egg had been layed.
+
+	* src/ui.glade, src/main-window.cpp: Construct CanvasAA in
+	main-window.cpp to work around libglade bug.
+
+	* pixmaps/Makefile.am: Use JPEG to compress the splash image
+	instead of PNG. Saves 90% of the space.
+
+2004-05-24  Ole Laursen  <olau@hardworking.dk>
+
+	* Makefile.am: Add MAINTAINERS to EXTRA_DIST.
+
+2004-05-02  Ole Laursen  <olau@hardworking.dk>
+
+	* src/main-window.hpp, src/main-window.cpp, src/game.cpp:
+	Refactored a bit to use the splash background image.
+
+	* pixmaps/splash.pov, pixmaps/splash.png, pixmaps/splash-foot.png,
+	pixmaps/Makefile.am: Added splash background image.
+
+2004-04-22  Ole Laursen  <olau@hardworking.dk>
+
+	* NEWS: New version is out!
+
+	* configure.ac: Bumped the version no.
+
+2004-04-17  Ole Laursen  <olau@hardworking.dk>
+
+	* NEWS: New version is out!
+
+	* configure.ac: Bumped the version no.
+
+2004-04-08  Adam Weinberger  <adamw@gnome.org>
+
+	* configure.ac: Added en_CA to ALL_LINGUAS.
+
+2004-03-24  Gareth Owen  <gowen72@yahoo.com>
+
+	* configure.ac: Added en_GB to ALL_LINGUAS
+
+2004-03-21 Alastair McKinstry <mckinstry@debian.org>
+
+	* configure.ac: Added "ga" (Irish) to ALL_LINGUAS.
+
+2004-03-20  Ole Laursen  <olau@hardworking.dk>
+
+	* src/preferences-window.cpp: Added work-around for strange bug.
+
+2004-03-16  Iñaki Larrañaga  <dooteo@euskalgnu.org>
+
+	* configure.ac: Added "eu" (Basque) to ALL_LINGUAS.
+
+2004-03-15  Alessio Frusciante  <algol@firenze.linux.it>
+
+	* configure.ac: Added "it" (Italian) to ALL_LINGUAS.
+
+2004-03-11  Gustavo Maciel Dias Vieira  <gdvieira@zaz.com.br>
+
+	* configure.ac: Added pt_BR to ALL_LINGUAS.
+
+2004-02-07  Robert Sedak  <robert.sedak@sk.htnet.hr>
+
+	* configure.ac: Added "hr" (Croatian) to ALL_LINGUAS.
+
+2004-01-16  Kjartan Maraas  <kmaraas@gnome.org>
+
+	* configure.ac: Updated Norwegian translation.
+
+2004-01-12  Žygimantas Beručka  <uid0@tuxfamily.org>
+
+	* configure.ac: Added Lithuanian (lt) to ALL_LINGUAS.
+
+2004-01-10  Ole Laursen  <olau@hardworking.dk>
+
+	* src/pixbuf-drawing.hpp: Corrected an uninitialised xpos.
+
+2004-01-07  Ole Laursen  <olau@hardworking.dk>
+
+	* NEWS: New version is out!
+
+2004-01-03  Abel Cheung  <maddog@linux.org.hk>
+
+	* configure.ac: Added "tr" to ALL_LINGUAS.
+
+2004-01-03  Ole Laursen  <olau@hardworking.dk>
+
+	* pixmaps/Makefile.am: Fixed error with later versions of automake.
+
+	* autogen.sh: Switched to gnome-common autogen.sh.
+
+	* configure.ac: Bumped version no.
+
+	* src/game.cpp, src/hero.cpp, src/hero.hpp, monsters.cpp,
+	obstacles.cpp, obstacles.hpp: Replaced the points power-up with an
+	invisibility power-up.
+
+	* README: Updated to reflect the new power-up.
+
+	* pixmaps/Makefile.povrules.m4, pixmaps/Makefile.am,
+	pixmaps/invisible-hero.pov: Added invisible hero.
+
+2004-01-02  Ole Laursen  <olau@hardworking.dk>
+
+	* src/main-window.cpp, src/main-window.hpp,
+	src/preferences-window.cpp, src/preferences-window.hpp,
+	src/ui.glade, monster-masher.schemas.in: Added support for
+	fullscreen mode.
+
+2004-01-01  Ole Laursen  <olau@hardworking.dk>
+
+	* Makefile.am (desktopdir): Set to $(datadir)/applications.
+
+2003-12-16  Francisco Javier F. Serrador  <serrador@cvs.gnome.org>
+
+	* configure.ac: Added Spanish (es) to ALL_LINGUAS.
+
+2003-11-18  Christian Neumair  <chris@gnome-de.org>
+
+	* configure.ac: Added German (de) to ALL_LINGUAS.
+
+	* src/ui.glade: Fixed string.
+
+2003-11-04  Ole Laursen  <olau@hardworking.dk>
+
+	* NEWS: New version is out!
+
+	* README: Updated colour of point bonus.
+	
+	* src/main-window.cpp: Fixed calculation of canvas size to include
+	border walls.
+
+2003-11-02  Ole Laursen  <olau@hardworking.dk>
+
+	* configure.ac: Bumped version no.
+
+	* src/TODO: Updated.
+
+	* pixmaps/Makefile.am, pixmaps/Makefile.povrules.m4,
+	pixmaps/povray-helpers.m4: Use m4 to build Povray rules.
+
+	* src/game.cpp, src/game.hpp, src/hero.cpp, src/hero.hpp,
+	pixmaps/levitation.pov, pixmaps/hero.pov: Added much neater block
+	movement animation (on blocks instead of player).
+
+	* src/player.cpp: Adapted to new Arena interface.
+
+	* src/thing.cpp, src/arena.cpp, src/arena.hpp,
+	src/main-window.cpp, src/main-window.hpp, src/monsters.cpp,
+	src/movement.cpp, src/new-game-window.cpp, src/obstacles.cpp,
+	src/obstacles.hpp, src/splat-helpers.cpp: Support for multiple
+	tile sizes.
+
+2003-10-26  Metin Amiroff  <metin@karegen.com>
+
+	* configure.ac: Added az to ALL_LINGUAS.
+
+2003-10-11  Ole Laursen  <olau@hardworking.dk>
+
+	* src/main.cpp: Added exception handling.
+
+2003-10-08  Ole Laursen  <olau@hardworking.dk>
+
+	* configure.ac: Fixed dependency specification.
+
+2003-09-28  Artur Flinta  <aflinta@cvs.gnome.org>
+
+	* configure.ac: Added "pl" to ALL_LINGUAS.
+
+2003-09-25  Ole Laursen  <olau@hardworking.dk>
+
+	* NEWS: New version is out!
+
+2003-09-23  Abel Cheung  <maddog@linux.org.hk>
+
+	* configure.ac: Added "zh_TW" to ALL_LINGUAS.
+
+2003-09-20  Miloslav Trmac  <mitr@volny.cz>
+
+	* configure.ac: Added cs (Czech) to configure.in.
+
+2003-09-20  Ole Laursen  <olau@hardworking.dk>
+
+	* configure.ac: Bumped version no.
+
+	* src/TODO: Updated.
+
+	* pixmaps/Makefile.am, pixmaps/freeze-box.pov,
+	pixmaps/freeze-box.png: Added freeze box for freezing monsters.
+
+	* pixmaps/power-up-reward.pov, pixmaps/power-up-explode.pov,
+	pixmaps/power-up-freeze.pov, pixmaps/power-up.inc: Improved look.
+
+	* pixmaps/power-up-reward.png, pixmaps/power-up-explode.png,
+	pixmaps/power-up-freeze.png: Rerendered.
+	
+	* src/monsters.cpp (update): Changed freeze behaviour. Monsters
+	finish walking, then freeze immediately for as long as Game says
+	monsters are freezing.
+
+	* README: Cleaned up a bit.
+
+	* src/main-window.cpp, src/center-menu.cpp, center-menu.hpp:
+	Pressing a mnemonic without pressing Alt now works.
+
+	* src/Makefile.am: Pass icondir as GNOMEICONDIR to source.
+
+	* src/main-window.hpp, src/main-window.cpp: Added icon loading and
+	setting code.
+
+	* monster-masher.png: Rendered icon from seeker-monster.pov.
+	Perhaps not optimal yet, but better than the previous dummy globe.
+
+2003-09-16  Ole Laursen  <olau@hardworking.dk>
+
+	* src/TODO: Added suggestions from Sven Luther.
+
+2003-09-15  Christian Rose  <menthos@menthos.com>
+
+	* configure.ac: Added "sv" to ALL_LINGUAS.
+
+2003-09-14  Duarte Loreto <happyguy_pt@hotmail.com>
+
+	* configure.ac: Added Portuguese (pt) to ALL_LINGUAS.
+
+2003-09-14  Danilo Šegan  <dsegan@gmx.net>
+
+	* configure.ac: Added "cy" to ALL_LINGUAS.
+
+2003-09-14  Danilo Šegan  <dsegan@gmx.net>
+
+	* configure.ac: Added "sr" and "sr@Latn" to ALL_LINGUAS.
+
+2003-09-13  Ole Laursen  <olau@hardworking.dk>
+
+	* src/ui.glade: Sync'ed level string with string in source.
+
+2003-09-01  Ole Laursen  <olau@hardworking.dk>
+
+	* src/main-window.cpp: Added _() around translatable text. Doh.
+
+2003-08-27  Ole Laursen  <olau@hardworking.dk>
+
+	* sounds/clinck.wav: Added some silence in front of sound to sync
+	better with actual action.
+
+	* src/hero.cpp (cross_boundary): Added sound when a block is
+	pushed against a block or a wall.
+
+	* src/ui.glade: Adjusted the start canvas size to match that of
+	the in-game size.
+
+	* src/new-game-window.cpp (on_start_game_pressed): Adjusted game
+	field size, enlarging vertical size by 2 to make the window more
+	square.
+
+	* configure.ac: Bumped version number.
+
+2003-08-24  Ole Laursen  <olau@hardworking.dk>
+
+	* src/persistent.cpp: Removed references to non-existent high
+	score list.
+
+	* src/main-window.cpp (generate_background): Removed code for
+	generating a non-random background.
+
+2003-08-23  Ole Laursen  <olau@hardworking.dk>
+
+	* src/center-menu.cpp (CenterMenu): Made the menu entries normal
+	size instead of big.
+
+	* src/main-window.cpp (on_about_activated): Call
+	about->set_transient_for so that the dialog is centered upon the
+	window.
+
+	* src/monster-masher.glade: Renamed to ui.glade.
+	
+	* src/main-window.hpp, src/monster-masher.glade: Converted
+	main-window to Gtk::Window instead of Gnome::UI::App. Removes
+	dependency on libbonobomm.
+
+	* src/main-window.cpp, src/main-window.hpp: Removed ending game
+	confirmation.
+

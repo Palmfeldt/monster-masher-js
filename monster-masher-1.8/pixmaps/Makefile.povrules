@@ -1,0 +1,1370 @@
+
+
+
+
+
+
+
+
+# monster rules
+
+plain-monster-32-01.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf1 +ef1 +w32 +h32 $< 
+plain-monster-32-02.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf2 +ef2 +w32 +h32 $< 
+plain-monster-32-03.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf3 +ef3 +w32 +h32 $< 
+plain-monster-32-04.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf4 +ef4 +w32 +h32 $< 
+plain-monster-32-05.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf5 +ef5 +w32 +h32 $< 
+plain-monster-32-06.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf6 +ef6 +w32 +h32 $< 
+plain-monster-32-07.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf7 +ef7 +w32 +h32 $< 
+plain-monster-32-08.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf8 +ef8 +w32 +h32 $< 
+plain-monster-32-09.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf9 +ef9 +w32 +h32 $< 
+plain-monster-32-10.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf10 +ef10 +w32 +h32 $< 
+plain-monster-32-11.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf11 +ef11 +w32 +h32 $< 
+plain-monster-32-12.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf12 +ef12 +w32 +h32 $< 
+plain-monster-32-13.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf13 +ef13 +w32 +h32 $< 
+plain-monster-32-14.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf14 +ef14 +w32 +h32 $< 
+plain-monster-32-15.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf15 +ef15 +w32 +h32 $< 
+plain-monster-32-16.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf16 +ef16 +w32 +h32 $< 
+plain-monster-32-17.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf17 +ef17 +w32 +h32 $< 
+plain-monster-32-18.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf18 +ef18 +w32 +h32 $< 
+plain-monster-32-19.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf19 +ef19 +w32 +h32 $< 
+plain-monster-32-20.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf20 +ef20 +w32 +h32 $< 
+plain-monster-32-21.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf21 +ef21 +w32 +h32 $< 
+plain-monster-32-22.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf22 +ef22 +w32 +h32 $< 
+plain-monster-32-23.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf23 +ef23 +w32 +h32 $< 
+plain-monster-32-24.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf24 +ef24 +w32 +h32 $< 
+plain-monster-32-25.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf25 +ef25 +w32 +h32 $< 
+plain-monster-32-26.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf26 +ef26 +w32 +h32 $< 
+plain-monster-32-27.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf27 +ef27 +w32 +h32 $< 
+plain-monster-32-28.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf28 +ef28 +w32 +h32 $< 
+plain-monster-32-29.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf29 +ef29 +w32 +h32 $< 
+plain-monster-32-30.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf30 +ef30 +w32 +h32 $< 
+plain-monster-32-31.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf31 +ef31 +w32 +h32 $< 
+plain-monster-32-32.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-32-.png +kfi1 +kff32 +sf32 +ef32 +w32 +h32 $< 
+
+plain-monster-32.png: plain-monster-32-01.png plain-monster-32-02.png plain-monster-32-03.png plain-monster-32-04.png plain-monster-32-05.png plain-monster-32-06.png plain-monster-32-07.png plain-monster-32-08.png plain-monster-32-09.png plain-monster-32-10.png plain-monster-32-11.png plain-monster-32-12.png plain-monster-32-13.png plain-monster-32-14.png plain-monster-32-15.png plain-monster-32-16.png plain-monster-32-17.png plain-monster-32-18.png plain-monster-32-19.png plain-monster-32-20.png plain-monster-32-21.png plain-monster-32-22.png plain-monster-32-23.png plain-monster-32-24.png plain-monster-32-25.png plain-monster-32-26.png plain-monster-32-27.png plain-monster-32-28.png plain-monster-32-29.png plain-monster-32-30.png plain-monster-32-31.png plain-monster-32-32.png 
+	convert +append $+ $@
+
+generated_images += plain-monster-32.png
+temporary_images += plain-monster-32-01.png plain-monster-32-02.png plain-monster-32-03.png plain-monster-32-04.png plain-monster-32-05.png plain-monster-32-06.png plain-monster-32-07.png plain-monster-32-08.png plain-monster-32-09.png plain-monster-32-10.png plain-monster-32-11.png plain-monster-32-12.png plain-monster-32-13.png plain-monster-32-14.png plain-monster-32-15.png plain-monster-32-16.png plain-monster-32-17.png plain-monster-32-18.png plain-monster-32-19.png plain-monster-32-20.png plain-monster-32-21.png plain-monster-32-22.png plain-monster-32-23.png plain-monster-32-24.png plain-monster-32-25.png plain-monster-32-26.png plain-monster-32-27.png plain-monster-32-28.png plain-monster-32-29.png plain-monster-32-30.png plain-monster-32-31.png plain-monster-32-32.png 
+
+
+plain-monster-24-01.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf1 +ef1 +w24 +h24 $< 
+plain-monster-24-02.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf2 +ef2 +w24 +h24 $< 
+plain-monster-24-03.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf3 +ef3 +w24 +h24 $< 
+plain-monster-24-04.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf4 +ef4 +w24 +h24 $< 
+plain-monster-24-05.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf5 +ef5 +w24 +h24 $< 
+plain-monster-24-06.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf6 +ef6 +w24 +h24 $< 
+plain-monster-24-07.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf7 +ef7 +w24 +h24 $< 
+plain-monster-24-08.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf8 +ef8 +w24 +h24 $< 
+plain-monster-24-09.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf9 +ef9 +w24 +h24 $< 
+plain-monster-24-10.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf10 +ef10 +w24 +h24 $< 
+plain-monster-24-11.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf11 +ef11 +w24 +h24 $< 
+plain-monster-24-12.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf12 +ef12 +w24 +h24 $< 
+plain-monster-24-13.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf13 +ef13 +w24 +h24 $< 
+plain-monster-24-14.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf14 +ef14 +w24 +h24 $< 
+plain-monster-24-15.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf15 +ef15 +w24 +h24 $< 
+plain-monster-24-16.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf16 +ef16 +w24 +h24 $< 
+plain-monster-24-17.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf17 +ef17 +w24 +h24 $< 
+plain-monster-24-18.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf18 +ef18 +w24 +h24 $< 
+plain-monster-24-19.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf19 +ef19 +w24 +h24 $< 
+plain-monster-24-20.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf20 +ef20 +w24 +h24 $< 
+plain-monster-24-21.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf21 +ef21 +w24 +h24 $< 
+plain-monster-24-22.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf22 +ef22 +w24 +h24 $< 
+plain-monster-24-23.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf23 +ef23 +w24 +h24 $< 
+plain-monster-24-24.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf24 +ef24 +w24 +h24 $< 
+plain-monster-24-25.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf25 +ef25 +w24 +h24 $< 
+plain-monster-24-26.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf26 +ef26 +w24 +h24 $< 
+plain-monster-24-27.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf27 +ef27 +w24 +h24 $< 
+plain-monster-24-28.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf28 +ef28 +w24 +h24 $< 
+plain-monster-24-29.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf29 +ef29 +w24 +h24 $< 
+plain-monster-24-30.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf30 +ef30 +w24 +h24 $< 
+plain-monster-24-31.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf31 +ef31 +w24 +h24 $< 
+plain-monster-24-32.png: plain-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-monster-24-.png +kfi1 +kff32 +sf32 +ef32 +w24 +h24 $< 
+
+plain-monster-24.png: plain-monster-24-01.png plain-monster-24-02.png plain-monster-24-03.png plain-monster-24-04.png plain-monster-24-05.png plain-monster-24-06.png plain-monster-24-07.png plain-monster-24-08.png plain-monster-24-09.png plain-monster-24-10.png plain-monster-24-11.png plain-monster-24-12.png plain-monster-24-13.png plain-monster-24-14.png plain-monster-24-15.png plain-monster-24-16.png plain-monster-24-17.png plain-monster-24-18.png plain-monster-24-19.png plain-monster-24-20.png plain-monster-24-21.png plain-monster-24-22.png plain-monster-24-23.png plain-monster-24-24.png plain-monster-24-25.png plain-monster-24-26.png plain-monster-24-27.png plain-monster-24-28.png plain-monster-24-29.png plain-monster-24-30.png plain-monster-24-31.png plain-monster-24-32.png 
+	convert +append $+ $@
+
+generated_images += plain-monster-24.png
+temporary_images += plain-monster-24-01.png plain-monster-24-02.png plain-monster-24-03.png plain-monster-24-04.png plain-monster-24-05.png plain-monster-24-06.png plain-monster-24-07.png plain-monster-24-08.png plain-monster-24-09.png plain-monster-24-10.png plain-monster-24-11.png plain-monster-24-12.png plain-monster-24-13.png plain-monster-24-14.png plain-monster-24-15.png plain-monster-24-16.png plain-monster-24-17.png plain-monster-24-18.png plain-monster-24-19.png plain-monster-24-20.png plain-monster-24-21.png plain-monster-24-22.png plain-monster-24-23.png plain-monster-24-24.png plain-monster-24-25.png plain-monster-24-26.png plain-monster-24-27.png plain-monster-24-28.png plain-monster-24-29.png plain-monster-24-30.png plain-monster-24-31.png plain-monster-24-32.png 
+
+
+plain-gore-32-1.png: plain-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-gore-32-1.png +w32 +h32 $< Declare=sval=1 
+plain-gore-32-2.png: plain-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-gore-32-2.png +w32 +h32 $< Declare=sval=2 
+plain-gore-32-3.png: plain-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-gore-32-3.png +w32 +h32 $< Declare=sval=3 
+plain-gore-32-4.png: plain-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-gore-32-4.png +w32 +h32 $< Declare=sval=4 
+plain-gore-32-5.png: plain-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-gore-32-5.png +w32 +h32 $< Declare=sval=5 
+plain-gore-32-6.png: plain-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-gore-32-6.png +w32 +h32 $< Declare=sval=6 
+plain-gore-32-7.png: plain-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-gore-32-7.png +w32 +h32 $< Declare=sval=7 
+plain-gore-32-8.png: plain-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-gore-32-8.png +w32 +h32 $< Declare=sval=8 
+
+plain-gore-32.png: plain-gore-32-1.png plain-gore-32-2.png plain-gore-32-3.png plain-gore-32-4.png plain-gore-32-5.png plain-gore-32-6.png plain-gore-32-7.png plain-gore-32-8.png 
+	convert +append $+ $@
+
+generated_images += plain-gore-32.png
+temporary_images += plain-gore-32-1.png plain-gore-32-2.png plain-gore-32-3.png plain-gore-32-4.png plain-gore-32-5.png plain-gore-32-6.png plain-gore-32-7.png plain-gore-32-8.png 
+
+
+plain-gore-24-1.png: plain-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-gore-24-1.png +w24 +h24 $< Declare=sval=1 
+plain-gore-24-2.png: plain-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-gore-24-2.png +w24 +h24 $< Declare=sval=2 
+plain-gore-24-3.png: plain-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-gore-24-3.png +w24 +h24 $< Declare=sval=3 
+plain-gore-24-4.png: plain-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-gore-24-4.png +w24 +h24 $< Declare=sval=4 
+plain-gore-24-5.png: plain-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-gore-24-5.png +w24 +h24 $< Declare=sval=5 
+plain-gore-24-6.png: plain-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-gore-24-6.png +w24 +h24 $< Declare=sval=6 
+plain-gore-24-7.png: plain-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-gore-24-7.png +w24 +h24 $< Declare=sval=7 
+plain-gore-24-8.png: plain-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-gore-24-8.png +w24 +h24 $< Declare=sval=8 
+
+plain-gore-24.png: plain-gore-24-1.png plain-gore-24-2.png plain-gore-24-3.png plain-gore-24-4.png plain-gore-24-5.png plain-gore-24-6.png plain-gore-24-7.png plain-gore-24-8.png 
+	convert +append $+ $@
+
+generated_images += plain-gore-24.png
+temporary_images += plain-gore-24-1.png plain-gore-24-2.png plain-gore-24-3.png plain-gore-24-4.png plain-gore-24-5.png plain-gore-24-6.png plain-gore-24-7.png plain-gore-24-8.png 
+
+
+
+hard-monster-32-01.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf1 +ef1 +w32 +h32 $< 
+hard-monster-32-02.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf2 +ef2 +w32 +h32 $< 
+hard-monster-32-03.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf3 +ef3 +w32 +h32 $< 
+hard-monster-32-04.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf4 +ef4 +w32 +h32 $< 
+hard-monster-32-05.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf5 +ef5 +w32 +h32 $< 
+hard-monster-32-06.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf6 +ef6 +w32 +h32 $< 
+hard-monster-32-07.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf7 +ef7 +w32 +h32 $< 
+hard-monster-32-08.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf8 +ef8 +w32 +h32 $< 
+hard-monster-32-09.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf9 +ef9 +w32 +h32 $< 
+hard-monster-32-10.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf10 +ef10 +w32 +h32 $< 
+hard-monster-32-11.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf11 +ef11 +w32 +h32 $< 
+hard-monster-32-12.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf12 +ef12 +w32 +h32 $< 
+hard-monster-32-13.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf13 +ef13 +w32 +h32 $< 
+hard-monster-32-14.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf14 +ef14 +w32 +h32 $< 
+hard-monster-32-15.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf15 +ef15 +w32 +h32 $< 
+hard-monster-32-16.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf16 +ef16 +w32 +h32 $< 
+hard-monster-32-17.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf17 +ef17 +w32 +h32 $< 
+hard-monster-32-18.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf18 +ef18 +w32 +h32 $< 
+hard-monster-32-19.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf19 +ef19 +w32 +h32 $< 
+hard-monster-32-20.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf20 +ef20 +w32 +h32 $< 
+hard-monster-32-21.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf21 +ef21 +w32 +h32 $< 
+hard-monster-32-22.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf22 +ef22 +w32 +h32 $< 
+hard-monster-32-23.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf23 +ef23 +w32 +h32 $< 
+hard-monster-32-24.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf24 +ef24 +w32 +h32 $< 
+hard-monster-32-25.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf25 +ef25 +w32 +h32 $< 
+hard-monster-32-26.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf26 +ef26 +w32 +h32 $< 
+hard-monster-32-27.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf27 +ef27 +w32 +h32 $< 
+hard-monster-32-28.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf28 +ef28 +w32 +h32 $< 
+hard-monster-32-29.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf29 +ef29 +w32 +h32 $< 
+hard-monster-32-30.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf30 +ef30 +w32 +h32 $< 
+hard-monster-32-31.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf31 +ef31 +w32 +h32 $< 
+hard-monster-32-32.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf32 +ef32 +w32 +h32 $< 
+hard-monster-32-33.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf33 +ef33 +w32 +h32 $< 
+hard-monster-32-34.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf34 +ef34 +w32 +h32 $< 
+hard-monster-32-35.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf35 +ef35 +w32 +h32 $< 
+hard-monster-32-36.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf36 +ef36 +w32 +h32 $< 
+hard-monster-32-37.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf37 +ef37 +w32 +h32 $< 
+hard-monster-32-38.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf38 +ef38 +w32 +h32 $< 
+hard-monster-32-39.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf39 +ef39 +w32 +h32 $< 
+hard-monster-32-40.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf40 +ef40 +w32 +h32 $< 
+hard-monster-32-41.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf41 +ef41 +w32 +h32 $< 
+hard-monster-32-42.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf42 +ef42 +w32 +h32 $< 
+hard-monster-32-43.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf43 +ef43 +w32 +h32 $< 
+hard-monster-32-44.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf44 +ef44 +w32 +h32 $< 
+hard-monster-32-45.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf45 +ef45 +w32 +h32 $< 
+hard-monster-32-46.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf46 +ef46 +w32 +h32 $< 
+hard-monster-32-47.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf47 +ef47 +w32 +h32 $< 
+hard-monster-32-48.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-32-.png +kfi1 +kff48 +sf48 +ef48 +w32 +h32 $< 
+
+hard-monster-32.png: hard-monster-32-01.png hard-monster-32-02.png hard-monster-32-03.png hard-monster-32-04.png hard-monster-32-05.png hard-monster-32-06.png hard-monster-32-07.png hard-monster-32-08.png hard-monster-32-09.png hard-monster-32-10.png hard-monster-32-11.png hard-monster-32-12.png hard-monster-32-13.png hard-monster-32-14.png hard-monster-32-15.png hard-monster-32-16.png hard-monster-32-17.png hard-monster-32-18.png hard-monster-32-19.png hard-monster-32-20.png hard-monster-32-21.png hard-monster-32-22.png hard-monster-32-23.png hard-monster-32-24.png hard-monster-32-25.png hard-monster-32-26.png hard-monster-32-27.png hard-monster-32-28.png hard-monster-32-29.png hard-monster-32-30.png hard-monster-32-31.png hard-monster-32-32.png hard-monster-32-33.png hard-monster-32-34.png hard-monster-32-35.png hard-monster-32-36.png hard-monster-32-37.png hard-monster-32-38.png hard-monster-32-39.png hard-monster-32-40.png hard-monster-32-41.png hard-monster-32-42.png hard-monster-32-43.png hard-monster-32-44.png hard-monster-32-45.png hard-monster-32-46.png hard-monster-32-47.png hard-monster-32-48.png 
+	convert +append $+ $@
+
+generated_images += hard-monster-32.png
+temporary_images += hard-monster-32-01.png hard-monster-32-02.png hard-monster-32-03.png hard-monster-32-04.png hard-monster-32-05.png hard-monster-32-06.png hard-monster-32-07.png hard-monster-32-08.png hard-monster-32-09.png hard-monster-32-10.png hard-monster-32-11.png hard-monster-32-12.png hard-monster-32-13.png hard-monster-32-14.png hard-monster-32-15.png hard-monster-32-16.png hard-monster-32-17.png hard-monster-32-18.png hard-monster-32-19.png hard-monster-32-20.png hard-monster-32-21.png hard-monster-32-22.png hard-monster-32-23.png hard-monster-32-24.png hard-monster-32-25.png hard-monster-32-26.png hard-monster-32-27.png hard-monster-32-28.png hard-monster-32-29.png hard-monster-32-30.png hard-monster-32-31.png hard-monster-32-32.png hard-monster-32-33.png hard-monster-32-34.png hard-monster-32-35.png hard-monster-32-36.png hard-monster-32-37.png hard-monster-32-38.png hard-monster-32-39.png hard-monster-32-40.png hard-monster-32-41.png hard-monster-32-42.png hard-monster-32-43.png hard-monster-32-44.png hard-monster-32-45.png hard-monster-32-46.png hard-monster-32-47.png hard-monster-32-48.png 
+
+
+hard-monster-24-01.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf1 +ef1 +w24 +h24 $< 
+hard-monster-24-02.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf2 +ef2 +w24 +h24 $< 
+hard-monster-24-03.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf3 +ef3 +w24 +h24 $< 
+hard-monster-24-04.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf4 +ef4 +w24 +h24 $< 
+hard-monster-24-05.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf5 +ef5 +w24 +h24 $< 
+hard-monster-24-06.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf6 +ef6 +w24 +h24 $< 
+hard-monster-24-07.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf7 +ef7 +w24 +h24 $< 
+hard-monster-24-08.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf8 +ef8 +w24 +h24 $< 
+hard-monster-24-09.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf9 +ef9 +w24 +h24 $< 
+hard-monster-24-10.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf10 +ef10 +w24 +h24 $< 
+hard-monster-24-11.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf11 +ef11 +w24 +h24 $< 
+hard-monster-24-12.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf12 +ef12 +w24 +h24 $< 
+hard-monster-24-13.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf13 +ef13 +w24 +h24 $< 
+hard-monster-24-14.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf14 +ef14 +w24 +h24 $< 
+hard-monster-24-15.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf15 +ef15 +w24 +h24 $< 
+hard-monster-24-16.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf16 +ef16 +w24 +h24 $< 
+hard-monster-24-17.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf17 +ef17 +w24 +h24 $< 
+hard-monster-24-18.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf18 +ef18 +w24 +h24 $< 
+hard-monster-24-19.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf19 +ef19 +w24 +h24 $< 
+hard-monster-24-20.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf20 +ef20 +w24 +h24 $< 
+hard-monster-24-21.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf21 +ef21 +w24 +h24 $< 
+hard-monster-24-22.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf22 +ef22 +w24 +h24 $< 
+hard-monster-24-23.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf23 +ef23 +w24 +h24 $< 
+hard-monster-24-24.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf24 +ef24 +w24 +h24 $< 
+hard-monster-24-25.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf25 +ef25 +w24 +h24 $< 
+hard-monster-24-26.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf26 +ef26 +w24 +h24 $< 
+hard-monster-24-27.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf27 +ef27 +w24 +h24 $< 
+hard-monster-24-28.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf28 +ef28 +w24 +h24 $< 
+hard-monster-24-29.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf29 +ef29 +w24 +h24 $< 
+hard-monster-24-30.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf30 +ef30 +w24 +h24 $< 
+hard-monster-24-31.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf31 +ef31 +w24 +h24 $< 
+hard-monster-24-32.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf32 +ef32 +w24 +h24 $< 
+hard-monster-24-33.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf33 +ef33 +w24 +h24 $< 
+hard-monster-24-34.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf34 +ef34 +w24 +h24 $< 
+hard-monster-24-35.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf35 +ef35 +w24 +h24 $< 
+hard-monster-24-36.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf36 +ef36 +w24 +h24 $< 
+hard-monster-24-37.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf37 +ef37 +w24 +h24 $< 
+hard-monster-24-38.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf38 +ef38 +w24 +h24 $< 
+hard-monster-24-39.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf39 +ef39 +w24 +h24 $< 
+hard-monster-24-40.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf40 +ef40 +w24 +h24 $< 
+hard-monster-24-41.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf41 +ef41 +w24 +h24 $< 
+hard-monster-24-42.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf42 +ef42 +w24 +h24 $< 
+hard-monster-24-43.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf43 +ef43 +w24 +h24 $< 
+hard-monster-24-44.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf44 +ef44 +w24 +h24 $< 
+hard-monster-24-45.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf45 +ef45 +w24 +h24 $< 
+hard-monster-24-46.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf46 +ef46 +w24 +h24 $< 
+hard-monster-24-47.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf47 +ef47 +w24 +h24 $< 
+hard-monster-24-48.png: hard-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-monster-24-.png +kfi1 +kff48 +sf48 +ef48 +w24 +h24 $< 
+
+hard-monster-24.png: hard-monster-24-01.png hard-monster-24-02.png hard-monster-24-03.png hard-monster-24-04.png hard-monster-24-05.png hard-monster-24-06.png hard-monster-24-07.png hard-monster-24-08.png hard-monster-24-09.png hard-monster-24-10.png hard-monster-24-11.png hard-monster-24-12.png hard-monster-24-13.png hard-monster-24-14.png hard-monster-24-15.png hard-monster-24-16.png hard-monster-24-17.png hard-monster-24-18.png hard-monster-24-19.png hard-monster-24-20.png hard-monster-24-21.png hard-monster-24-22.png hard-monster-24-23.png hard-monster-24-24.png hard-monster-24-25.png hard-monster-24-26.png hard-monster-24-27.png hard-monster-24-28.png hard-monster-24-29.png hard-monster-24-30.png hard-monster-24-31.png hard-monster-24-32.png hard-monster-24-33.png hard-monster-24-34.png hard-monster-24-35.png hard-monster-24-36.png hard-monster-24-37.png hard-monster-24-38.png hard-monster-24-39.png hard-monster-24-40.png hard-monster-24-41.png hard-monster-24-42.png hard-monster-24-43.png hard-monster-24-44.png hard-monster-24-45.png hard-monster-24-46.png hard-monster-24-47.png hard-monster-24-48.png 
+	convert +append $+ $@
+
+generated_images += hard-monster-24.png
+temporary_images += hard-monster-24-01.png hard-monster-24-02.png hard-monster-24-03.png hard-monster-24-04.png hard-monster-24-05.png hard-monster-24-06.png hard-monster-24-07.png hard-monster-24-08.png hard-monster-24-09.png hard-monster-24-10.png hard-monster-24-11.png hard-monster-24-12.png hard-monster-24-13.png hard-monster-24-14.png hard-monster-24-15.png hard-monster-24-16.png hard-monster-24-17.png hard-monster-24-18.png hard-monster-24-19.png hard-monster-24-20.png hard-monster-24-21.png hard-monster-24-22.png hard-monster-24-23.png hard-monster-24-24.png hard-monster-24-25.png hard-monster-24-26.png hard-monster-24-27.png hard-monster-24-28.png hard-monster-24-29.png hard-monster-24-30.png hard-monster-24-31.png hard-monster-24-32.png hard-monster-24-33.png hard-monster-24-34.png hard-monster-24-35.png hard-monster-24-36.png hard-monster-24-37.png hard-monster-24-38.png hard-monster-24-39.png hard-monster-24-40.png hard-monster-24-41.png hard-monster-24-42.png hard-monster-24-43.png hard-monster-24-44.png hard-monster-24-45.png hard-monster-24-46.png hard-monster-24-47.png hard-monster-24-48.png 
+
+
+hard-gore-32-1.png: hard-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-gore-32-1.png +w32 +h32 $< Declare=sval=1 
+hard-gore-32-2.png: hard-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-gore-32-2.png +w32 +h32 $< Declare=sval=2 
+hard-gore-32-3.png: hard-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-gore-32-3.png +w32 +h32 $< Declare=sval=3 
+hard-gore-32-4.png: hard-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-gore-32-4.png +w32 +h32 $< Declare=sval=4 
+hard-gore-32-5.png: hard-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-gore-32-5.png +w32 +h32 $< Declare=sval=5 
+hard-gore-32-6.png: hard-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-gore-32-6.png +w32 +h32 $< Declare=sval=6 
+hard-gore-32-7.png: hard-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-gore-32-7.png +w32 +h32 $< Declare=sval=7 
+hard-gore-32-8.png: hard-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-gore-32-8.png +w32 +h32 $< Declare=sval=8 
+
+hard-gore-32.png: hard-gore-32-1.png hard-gore-32-2.png hard-gore-32-3.png hard-gore-32-4.png hard-gore-32-5.png hard-gore-32-6.png hard-gore-32-7.png hard-gore-32-8.png 
+	convert +append $+ $@
+
+generated_images += hard-gore-32.png
+temporary_images += hard-gore-32-1.png hard-gore-32-2.png hard-gore-32-3.png hard-gore-32-4.png hard-gore-32-5.png hard-gore-32-6.png hard-gore-32-7.png hard-gore-32-8.png 
+
+
+hard-gore-24-1.png: hard-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-gore-24-1.png +w24 +h24 $< Declare=sval=1 
+hard-gore-24-2.png: hard-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-gore-24-2.png +w24 +h24 $< Declare=sval=2 
+hard-gore-24-3.png: hard-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-gore-24-3.png +w24 +h24 $< Declare=sval=3 
+hard-gore-24-4.png: hard-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-gore-24-4.png +w24 +h24 $< Declare=sval=4 
+hard-gore-24-5.png: hard-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-gore-24-5.png +w24 +h24 $< Declare=sval=5 
+hard-gore-24-6.png: hard-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-gore-24-6.png +w24 +h24 $< Declare=sval=6 
+hard-gore-24-7.png: hard-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-gore-24-7.png +w24 +h24 $< Declare=sval=7 
+hard-gore-24-8.png: hard-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-gore-24-8.png +w24 +h24 $< Declare=sval=8 
+
+hard-gore-24.png: hard-gore-24-1.png hard-gore-24-2.png hard-gore-24-3.png hard-gore-24-4.png hard-gore-24-5.png hard-gore-24-6.png hard-gore-24-7.png hard-gore-24-8.png 
+	convert +append $+ $@
+
+generated_images += hard-gore-24.png
+temporary_images += hard-gore-24-1.png hard-gore-24-2.png hard-gore-24-3.png hard-gore-24-4.png hard-gore-24-5.png hard-gore-24-6.png hard-gore-24-7.png hard-gore-24-8.png 
+
+
+
+seeker-monster-32-01.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf1 +ef1 +w32 +h32 $< 
+seeker-monster-32-02.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf2 +ef2 +w32 +h32 $< 
+seeker-monster-32-03.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf3 +ef3 +w32 +h32 $< 
+seeker-monster-32-04.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf4 +ef4 +w32 +h32 $< 
+seeker-monster-32-05.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf5 +ef5 +w32 +h32 $< 
+seeker-monster-32-06.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf6 +ef6 +w32 +h32 $< 
+seeker-monster-32-07.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf7 +ef7 +w32 +h32 $< 
+seeker-monster-32-08.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf8 +ef8 +w32 +h32 $< 
+seeker-monster-32-09.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf9 +ef9 +w32 +h32 $< 
+seeker-monster-32-10.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf10 +ef10 +w32 +h32 $< 
+seeker-monster-32-11.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf11 +ef11 +w32 +h32 $< 
+seeker-monster-32-12.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf12 +ef12 +w32 +h32 $< 
+seeker-monster-32-13.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf13 +ef13 +w32 +h32 $< 
+seeker-monster-32-14.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf14 +ef14 +w32 +h32 $< 
+seeker-monster-32-15.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf15 +ef15 +w32 +h32 $< 
+seeker-monster-32-16.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf16 +ef16 +w32 +h32 $< 
+seeker-monster-32-17.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf17 +ef17 +w32 +h32 $< 
+seeker-monster-32-18.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf18 +ef18 +w32 +h32 $< 
+seeker-monster-32-19.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf19 +ef19 +w32 +h32 $< 
+seeker-monster-32-20.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf20 +ef20 +w32 +h32 $< 
+seeker-monster-32-21.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf21 +ef21 +w32 +h32 $< 
+seeker-monster-32-22.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf22 +ef22 +w32 +h32 $< 
+seeker-monster-32-23.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf23 +ef23 +w32 +h32 $< 
+seeker-monster-32-24.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf24 +ef24 +w32 +h32 $< 
+seeker-monster-32-25.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf25 +ef25 +w32 +h32 $< 
+seeker-monster-32-26.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf26 +ef26 +w32 +h32 $< 
+seeker-monster-32-27.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf27 +ef27 +w32 +h32 $< 
+seeker-monster-32-28.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf28 +ef28 +w32 +h32 $< 
+seeker-monster-32-29.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf29 +ef29 +w32 +h32 $< 
+seeker-monster-32-30.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf30 +ef30 +w32 +h32 $< 
+seeker-monster-32-31.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf31 +ef31 +w32 +h32 $< 
+seeker-monster-32-32.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-32-.png +kfi1 +kff32 +sf32 +ef32 +w32 +h32 $< 
+
+seeker-monster-32.png: seeker-monster-32-01.png seeker-monster-32-02.png seeker-monster-32-03.png seeker-monster-32-04.png seeker-monster-32-05.png seeker-monster-32-06.png seeker-monster-32-07.png seeker-monster-32-08.png seeker-monster-32-09.png seeker-monster-32-10.png seeker-monster-32-11.png seeker-monster-32-12.png seeker-monster-32-13.png seeker-monster-32-14.png seeker-monster-32-15.png seeker-monster-32-16.png seeker-monster-32-17.png seeker-monster-32-18.png seeker-monster-32-19.png seeker-monster-32-20.png seeker-monster-32-21.png seeker-monster-32-22.png seeker-monster-32-23.png seeker-monster-32-24.png seeker-monster-32-25.png seeker-monster-32-26.png seeker-monster-32-27.png seeker-monster-32-28.png seeker-monster-32-29.png seeker-monster-32-30.png seeker-monster-32-31.png seeker-monster-32-32.png 
+	convert +append $+ $@
+
+generated_images += seeker-monster-32.png
+temporary_images += seeker-monster-32-01.png seeker-monster-32-02.png seeker-monster-32-03.png seeker-monster-32-04.png seeker-monster-32-05.png seeker-monster-32-06.png seeker-monster-32-07.png seeker-monster-32-08.png seeker-monster-32-09.png seeker-monster-32-10.png seeker-monster-32-11.png seeker-monster-32-12.png seeker-monster-32-13.png seeker-monster-32-14.png seeker-monster-32-15.png seeker-monster-32-16.png seeker-monster-32-17.png seeker-monster-32-18.png seeker-monster-32-19.png seeker-monster-32-20.png seeker-monster-32-21.png seeker-monster-32-22.png seeker-monster-32-23.png seeker-monster-32-24.png seeker-monster-32-25.png seeker-monster-32-26.png seeker-monster-32-27.png seeker-monster-32-28.png seeker-monster-32-29.png seeker-monster-32-30.png seeker-monster-32-31.png seeker-monster-32-32.png 
+
+
+seeker-monster-24-01.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf1 +ef1 +w24 +h24 $< 
+seeker-monster-24-02.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf2 +ef2 +w24 +h24 $< 
+seeker-monster-24-03.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf3 +ef3 +w24 +h24 $< 
+seeker-monster-24-04.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf4 +ef4 +w24 +h24 $< 
+seeker-monster-24-05.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf5 +ef5 +w24 +h24 $< 
+seeker-monster-24-06.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf6 +ef6 +w24 +h24 $< 
+seeker-monster-24-07.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf7 +ef7 +w24 +h24 $< 
+seeker-monster-24-08.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf8 +ef8 +w24 +h24 $< 
+seeker-monster-24-09.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf9 +ef9 +w24 +h24 $< 
+seeker-monster-24-10.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf10 +ef10 +w24 +h24 $< 
+seeker-monster-24-11.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf11 +ef11 +w24 +h24 $< 
+seeker-monster-24-12.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf12 +ef12 +w24 +h24 $< 
+seeker-monster-24-13.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf13 +ef13 +w24 +h24 $< 
+seeker-monster-24-14.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf14 +ef14 +w24 +h24 $< 
+seeker-monster-24-15.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf15 +ef15 +w24 +h24 $< 
+seeker-monster-24-16.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf16 +ef16 +w24 +h24 $< 
+seeker-monster-24-17.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf17 +ef17 +w24 +h24 $< 
+seeker-monster-24-18.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf18 +ef18 +w24 +h24 $< 
+seeker-monster-24-19.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf19 +ef19 +w24 +h24 $< 
+seeker-monster-24-20.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf20 +ef20 +w24 +h24 $< 
+seeker-monster-24-21.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf21 +ef21 +w24 +h24 $< 
+seeker-monster-24-22.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf22 +ef22 +w24 +h24 $< 
+seeker-monster-24-23.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf23 +ef23 +w24 +h24 $< 
+seeker-monster-24-24.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf24 +ef24 +w24 +h24 $< 
+seeker-monster-24-25.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf25 +ef25 +w24 +h24 $< 
+seeker-monster-24-26.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf26 +ef26 +w24 +h24 $< 
+seeker-monster-24-27.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf27 +ef27 +w24 +h24 $< 
+seeker-monster-24-28.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf28 +ef28 +w24 +h24 $< 
+seeker-monster-24-29.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf29 +ef29 +w24 +h24 $< 
+seeker-monster-24-30.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf30 +ef30 +w24 +h24 $< 
+seeker-monster-24-31.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf31 +ef31 +w24 +h24 $< 
+seeker-monster-24-32.png: seeker-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-monster-24-.png +kfi1 +kff32 +sf32 +ef32 +w24 +h24 $< 
+
+seeker-monster-24.png: seeker-monster-24-01.png seeker-monster-24-02.png seeker-monster-24-03.png seeker-monster-24-04.png seeker-monster-24-05.png seeker-monster-24-06.png seeker-monster-24-07.png seeker-monster-24-08.png seeker-monster-24-09.png seeker-monster-24-10.png seeker-monster-24-11.png seeker-monster-24-12.png seeker-monster-24-13.png seeker-monster-24-14.png seeker-monster-24-15.png seeker-monster-24-16.png seeker-monster-24-17.png seeker-monster-24-18.png seeker-monster-24-19.png seeker-monster-24-20.png seeker-monster-24-21.png seeker-monster-24-22.png seeker-monster-24-23.png seeker-monster-24-24.png seeker-monster-24-25.png seeker-monster-24-26.png seeker-monster-24-27.png seeker-monster-24-28.png seeker-monster-24-29.png seeker-monster-24-30.png seeker-monster-24-31.png seeker-monster-24-32.png 
+	convert +append $+ $@
+
+generated_images += seeker-monster-24.png
+temporary_images += seeker-monster-24-01.png seeker-monster-24-02.png seeker-monster-24-03.png seeker-monster-24-04.png seeker-monster-24-05.png seeker-monster-24-06.png seeker-monster-24-07.png seeker-monster-24-08.png seeker-monster-24-09.png seeker-monster-24-10.png seeker-monster-24-11.png seeker-monster-24-12.png seeker-monster-24-13.png seeker-monster-24-14.png seeker-monster-24-15.png seeker-monster-24-16.png seeker-monster-24-17.png seeker-monster-24-18.png seeker-monster-24-19.png seeker-monster-24-20.png seeker-monster-24-21.png seeker-monster-24-22.png seeker-monster-24-23.png seeker-monster-24-24.png seeker-monster-24-25.png seeker-monster-24-26.png seeker-monster-24-27.png seeker-monster-24-28.png seeker-monster-24-29.png seeker-monster-24-30.png seeker-monster-24-31.png seeker-monster-24-32.png 
+
+
+seeker-gore-32-1.png: seeker-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-gore-32-1.png +w32 +h32 $< Declare=sval=1 
+seeker-gore-32-2.png: seeker-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-gore-32-2.png +w32 +h32 $< Declare=sval=2 
+seeker-gore-32-3.png: seeker-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-gore-32-3.png +w32 +h32 $< Declare=sval=3 
+seeker-gore-32-4.png: seeker-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-gore-32-4.png +w32 +h32 $< Declare=sval=4 
+seeker-gore-32-5.png: seeker-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-gore-32-5.png +w32 +h32 $< Declare=sval=5 
+seeker-gore-32-6.png: seeker-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-gore-32-6.png +w32 +h32 $< Declare=sval=6 
+seeker-gore-32-7.png: seeker-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-gore-32-7.png +w32 +h32 $< Declare=sval=7 
+seeker-gore-32-8.png: seeker-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-gore-32-8.png +w32 +h32 $< Declare=sval=8 
+
+seeker-gore-32.png: seeker-gore-32-1.png seeker-gore-32-2.png seeker-gore-32-3.png seeker-gore-32-4.png seeker-gore-32-5.png seeker-gore-32-6.png seeker-gore-32-7.png seeker-gore-32-8.png 
+	convert +append $+ $@
+
+generated_images += seeker-gore-32.png
+temporary_images += seeker-gore-32-1.png seeker-gore-32-2.png seeker-gore-32-3.png seeker-gore-32-4.png seeker-gore-32-5.png seeker-gore-32-6.png seeker-gore-32-7.png seeker-gore-32-8.png 
+
+
+seeker-gore-24-1.png: seeker-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-gore-24-1.png +w24 +h24 $< Declare=sval=1 
+seeker-gore-24-2.png: seeker-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-gore-24-2.png +w24 +h24 $< Declare=sval=2 
+seeker-gore-24-3.png: seeker-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-gore-24-3.png +w24 +h24 $< Declare=sval=3 
+seeker-gore-24-4.png: seeker-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-gore-24-4.png +w24 +h24 $< Declare=sval=4 
+seeker-gore-24-5.png: seeker-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-gore-24-5.png +w24 +h24 $< Declare=sval=5 
+seeker-gore-24-6.png: seeker-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-gore-24-6.png +w24 +h24 $< Declare=sval=6 
+seeker-gore-24-7.png: seeker-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-gore-24-7.png +w24 +h24 $< Declare=sval=7 
+seeker-gore-24-8.png: seeker-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-gore-24-8.png +w24 +h24 $< Declare=sval=8 
+
+seeker-gore-24.png: seeker-gore-24-1.png seeker-gore-24-2.png seeker-gore-24-3.png seeker-gore-24-4.png seeker-gore-24-5.png seeker-gore-24-6.png seeker-gore-24-7.png seeker-gore-24-8.png 
+	convert +append $+ $@
+
+generated_images += seeker-gore-24.png
+temporary_images += seeker-gore-24-1.png seeker-gore-24-2.png seeker-gore-24-3.png seeker-gore-24-4.png seeker-gore-24-5.png seeker-gore-24-6.png seeker-gore-24-7.png seeker-gore-24-8.png 
+
+
+
+egg-layer-monster-32-01.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf1 +ef1 +w32 +h32 $< 
+egg-layer-monster-32-02.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf2 +ef2 +w32 +h32 $< 
+egg-layer-monster-32-03.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf3 +ef3 +w32 +h32 $< 
+egg-layer-monster-32-04.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf4 +ef4 +w32 +h32 $< 
+egg-layer-monster-32-05.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf5 +ef5 +w32 +h32 $< 
+egg-layer-monster-32-06.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf6 +ef6 +w32 +h32 $< 
+egg-layer-monster-32-07.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf7 +ef7 +w32 +h32 $< 
+egg-layer-monster-32-08.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf8 +ef8 +w32 +h32 $< 
+egg-layer-monster-32-09.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf9 +ef9 +w32 +h32 $< 
+egg-layer-monster-32-10.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf10 +ef10 +w32 +h32 $< 
+egg-layer-monster-32-11.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf11 +ef11 +w32 +h32 $< 
+egg-layer-monster-32-12.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf12 +ef12 +w32 +h32 $< 
+egg-layer-monster-32-13.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf13 +ef13 +w32 +h32 $< 
+egg-layer-monster-32-14.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf14 +ef14 +w32 +h32 $< 
+egg-layer-monster-32-15.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf15 +ef15 +w32 +h32 $< 
+egg-layer-monster-32-16.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf16 +ef16 +w32 +h32 $< 
+egg-layer-monster-32-17.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf17 +ef17 +w32 +h32 $< 
+egg-layer-monster-32-18.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf18 +ef18 +w32 +h32 $< 
+egg-layer-monster-32-19.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf19 +ef19 +w32 +h32 $< 
+egg-layer-monster-32-20.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf20 +ef20 +w32 +h32 $< 
+egg-layer-monster-32-21.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf21 +ef21 +w32 +h32 $< 
+egg-layer-monster-32-22.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf22 +ef22 +w32 +h32 $< 
+egg-layer-monster-32-23.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf23 +ef23 +w32 +h32 $< 
+egg-layer-monster-32-24.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf24 +ef24 +w32 +h32 $< 
+egg-layer-monster-32-25.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf25 +ef25 +w32 +h32 $< 
+egg-layer-monster-32-26.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf26 +ef26 +w32 +h32 $< 
+egg-layer-monster-32-27.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf27 +ef27 +w32 +h32 $< 
+egg-layer-monster-32-28.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf28 +ef28 +w32 +h32 $< 
+egg-layer-monster-32-29.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf29 +ef29 +w32 +h32 $< 
+egg-layer-monster-32-30.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf30 +ef30 +w32 +h32 $< 
+egg-layer-monster-32-31.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf31 +ef31 +w32 +h32 $< 
+egg-layer-monster-32-32.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf32 +ef32 +w32 +h32 $< 
+egg-layer-monster-32-33.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf33 +ef33 +w32 +h32 $< 
+egg-layer-monster-32-34.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf34 +ef34 +w32 +h32 $< 
+egg-layer-monster-32-35.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf35 +ef35 +w32 +h32 $< 
+egg-layer-monster-32-36.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf36 +ef36 +w32 +h32 $< 
+egg-layer-monster-32-37.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf37 +ef37 +w32 +h32 $< 
+egg-layer-monster-32-38.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf38 +ef38 +w32 +h32 $< 
+egg-layer-monster-32-39.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf39 +ef39 +w32 +h32 $< 
+egg-layer-monster-32-40.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf40 +ef40 +w32 +h32 $< 
+egg-layer-monster-32-41.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf41 +ef41 +w32 +h32 $< 
+egg-layer-monster-32-42.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf42 +ef42 +w32 +h32 $< 
+egg-layer-monster-32-43.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf43 +ef43 +w32 +h32 $< 
+egg-layer-monster-32-44.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf44 +ef44 +w32 +h32 $< 
+egg-layer-monster-32-45.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf45 +ef45 +w32 +h32 $< 
+egg-layer-monster-32-46.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf46 +ef46 +w32 +h32 $< 
+egg-layer-monster-32-47.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf47 +ef47 +w32 +h32 $< 
+egg-layer-monster-32-48.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-32-.png +kfi1 +kff48 +sf48 +ef48 +w32 +h32 $< 
+
+egg-layer-monster-32.png: egg-layer-monster-32-01.png egg-layer-monster-32-02.png egg-layer-monster-32-03.png egg-layer-monster-32-04.png egg-layer-monster-32-05.png egg-layer-monster-32-06.png egg-layer-monster-32-07.png egg-layer-monster-32-08.png egg-layer-monster-32-09.png egg-layer-monster-32-10.png egg-layer-monster-32-11.png egg-layer-monster-32-12.png egg-layer-monster-32-13.png egg-layer-monster-32-14.png egg-layer-monster-32-15.png egg-layer-monster-32-16.png egg-layer-monster-32-17.png egg-layer-monster-32-18.png egg-layer-monster-32-19.png egg-layer-monster-32-20.png egg-layer-monster-32-21.png egg-layer-monster-32-22.png egg-layer-monster-32-23.png egg-layer-monster-32-24.png egg-layer-monster-32-25.png egg-layer-monster-32-26.png egg-layer-monster-32-27.png egg-layer-monster-32-28.png egg-layer-monster-32-29.png egg-layer-monster-32-30.png egg-layer-monster-32-31.png egg-layer-monster-32-32.png egg-layer-monster-32-33.png egg-layer-monster-32-34.png egg-layer-monster-32-35.png egg-layer-monster-32-36.png egg-layer-monster-32-37.png egg-layer-monster-32-38.png egg-layer-monster-32-39.png egg-layer-monster-32-40.png egg-layer-monster-32-41.png egg-layer-monster-32-42.png egg-layer-monster-32-43.png egg-layer-monster-32-44.png egg-layer-monster-32-45.png egg-layer-monster-32-46.png egg-layer-monster-32-47.png egg-layer-monster-32-48.png 
+	convert +append $+ $@
+
+generated_images += egg-layer-monster-32.png
+temporary_images += egg-layer-monster-32-01.png egg-layer-monster-32-02.png egg-layer-monster-32-03.png egg-layer-monster-32-04.png egg-layer-monster-32-05.png egg-layer-monster-32-06.png egg-layer-monster-32-07.png egg-layer-monster-32-08.png egg-layer-monster-32-09.png egg-layer-monster-32-10.png egg-layer-monster-32-11.png egg-layer-monster-32-12.png egg-layer-monster-32-13.png egg-layer-monster-32-14.png egg-layer-monster-32-15.png egg-layer-monster-32-16.png egg-layer-monster-32-17.png egg-layer-monster-32-18.png egg-layer-monster-32-19.png egg-layer-monster-32-20.png egg-layer-monster-32-21.png egg-layer-monster-32-22.png egg-layer-monster-32-23.png egg-layer-monster-32-24.png egg-layer-monster-32-25.png egg-layer-monster-32-26.png egg-layer-monster-32-27.png egg-layer-monster-32-28.png egg-layer-monster-32-29.png egg-layer-monster-32-30.png egg-layer-monster-32-31.png egg-layer-monster-32-32.png egg-layer-monster-32-33.png egg-layer-monster-32-34.png egg-layer-monster-32-35.png egg-layer-monster-32-36.png egg-layer-monster-32-37.png egg-layer-monster-32-38.png egg-layer-monster-32-39.png egg-layer-monster-32-40.png egg-layer-monster-32-41.png egg-layer-monster-32-42.png egg-layer-monster-32-43.png egg-layer-monster-32-44.png egg-layer-monster-32-45.png egg-layer-monster-32-46.png egg-layer-monster-32-47.png egg-layer-monster-32-48.png 
+
+
+egg-layer-monster-24-01.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf1 +ef1 +w24 +h24 $< 
+egg-layer-monster-24-02.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf2 +ef2 +w24 +h24 $< 
+egg-layer-monster-24-03.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf3 +ef3 +w24 +h24 $< 
+egg-layer-monster-24-04.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf4 +ef4 +w24 +h24 $< 
+egg-layer-monster-24-05.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf5 +ef5 +w24 +h24 $< 
+egg-layer-monster-24-06.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf6 +ef6 +w24 +h24 $< 
+egg-layer-monster-24-07.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf7 +ef7 +w24 +h24 $< 
+egg-layer-monster-24-08.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf8 +ef8 +w24 +h24 $< 
+egg-layer-monster-24-09.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf9 +ef9 +w24 +h24 $< 
+egg-layer-monster-24-10.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf10 +ef10 +w24 +h24 $< 
+egg-layer-monster-24-11.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf11 +ef11 +w24 +h24 $< 
+egg-layer-monster-24-12.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf12 +ef12 +w24 +h24 $< 
+egg-layer-monster-24-13.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf13 +ef13 +w24 +h24 $< 
+egg-layer-monster-24-14.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf14 +ef14 +w24 +h24 $< 
+egg-layer-monster-24-15.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf15 +ef15 +w24 +h24 $< 
+egg-layer-monster-24-16.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf16 +ef16 +w24 +h24 $< 
+egg-layer-monster-24-17.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf17 +ef17 +w24 +h24 $< 
+egg-layer-monster-24-18.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf18 +ef18 +w24 +h24 $< 
+egg-layer-monster-24-19.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf19 +ef19 +w24 +h24 $< 
+egg-layer-monster-24-20.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf20 +ef20 +w24 +h24 $< 
+egg-layer-monster-24-21.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf21 +ef21 +w24 +h24 $< 
+egg-layer-monster-24-22.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf22 +ef22 +w24 +h24 $< 
+egg-layer-monster-24-23.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf23 +ef23 +w24 +h24 $< 
+egg-layer-monster-24-24.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf24 +ef24 +w24 +h24 $< 
+egg-layer-monster-24-25.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf25 +ef25 +w24 +h24 $< 
+egg-layer-monster-24-26.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf26 +ef26 +w24 +h24 $< 
+egg-layer-monster-24-27.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf27 +ef27 +w24 +h24 $< 
+egg-layer-monster-24-28.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf28 +ef28 +w24 +h24 $< 
+egg-layer-monster-24-29.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf29 +ef29 +w24 +h24 $< 
+egg-layer-monster-24-30.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf30 +ef30 +w24 +h24 $< 
+egg-layer-monster-24-31.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf31 +ef31 +w24 +h24 $< 
+egg-layer-monster-24-32.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf32 +ef32 +w24 +h24 $< 
+egg-layer-monster-24-33.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf33 +ef33 +w24 +h24 $< 
+egg-layer-monster-24-34.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf34 +ef34 +w24 +h24 $< 
+egg-layer-monster-24-35.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf35 +ef35 +w24 +h24 $< 
+egg-layer-monster-24-36.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf36 +ef36 +w24 +h24 $< 
+egg-layer-monster-24-37.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf37 +ef37 +w24 +h24 $< 
+egg-layer-monster-24-38.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf38 +ef38 +w24 +h24 $< 
+egg-layer-monster-24-39.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf39 +ef39 +w24 +h24 $< 
+egg-layer-monster-24-40.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf40 +ef40 +w24 +h24 $< 
+egg-layer-monster-24-41.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf41 +ef41 +w24 +h24 $< 
+egg-layer-monster-24-42.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf42 +ef42 +w24 +h24 $< 
+egg-layer-monster-24-43.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf43 +ef43 +w24 +h24 $< 
+egg-layer-monster-24-44.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf44 +ef44 +w24 +h24 $< 
+egg-layer-monster-24-45.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf45 +ef45 +w24 +h24 $< 
+egg-layer-monster-24-46.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf46 +ef46 +w24 +h24 $< 
+egg-layer-monster-24-47.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf47 +ef47 +w24 +h24 $< 
+egg-layer-monster-24-48.png: egg-layer-monster.pov monster-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-monster-24-.png +kfi1 +kff48 +sf48 +ef48 +w24 +h24 $< 
+
+egg-layer-monster-24.png: egg-layer-monster-24-01.png egg-layer-monster-24-02.png egg-layer-monster-24-03.png egg-layer-monster-24-04.png egg-layer-monster-24-05.png egg-layer-monster-24-06.png egg-layer-monster-24-07.png egg-layer-monster-24-08.png egg-layer-monster-24-09.png egg-layer-monster-24-10.png egg-layer-monster-24-11.png egg-layer-monster-24-12.png egg-layer-monster-24-13.png egg-layer-monster-24-14.png egg-layer-monster-24-15.png egg-layer-monster-24-16.png egg-layer-monster-24-17.png egg-layer-monster-24-18.png egg-layer-monster-24-19.png egg-layer-monster-24-20.png egg-layer-monster-24-21.png egg-layer-monster-24-22.png egg-layer-monster-24-23.png egg-layer-monster-24-24.png egg-layer-monster-24-25.png egg-layer-monster-24-26.png egg-layer-monster-24-27.png egg-layer-monster-24-28.png egg-layer-monster-24-29.png egg-layer-monster-24-30.png egg-layer-monster-24-31.png egg-layer-monster-24-32.png egg-layer-monster-24-33.png egg-layer-monster-24-34.png egg-layer-monster-24-35.png egg-layer-monster-24-36.png egg-layer-monster-24-37.png egg-layer-monster-24-38.png egg-layer-monster-24-39.png egg-layer-monster-24-40.png egg-layer-monster-24-41.png egg-layer-monster-24-42.png egg-layer-monster-24-43.png egg-layer-monster-24-44.png egg-layer-monster-24-45.png egg-layer-monster-24-46.png egg-layer-monster-24-47.png egg-layer-monster-24-48.png 
+	convert +append $+ $@
+
+generated_images += egg-layer-monster-24.png
+temporary_images += egg-layer-monster-24-01.png egg-layer-monster-24-02.png egg-layer-monster-24-03.png egg-layer-monster-24-04.png egg-layer-monster-24-05.png egg-layer-monster-24-06.png egg-layer-monster-24-07.png egg-layer-monster-24-08.png egg-layer-monster-24-09.png egg-layer-monster-24-10.png egg-layer-monster-24-11.png egg-layer-monster-24-12.png egg-layer-monster-24-13.png egg-layer-monster-24-14.png egg-layer-monster-24-15.png egg-layer-monster-24-16.png egg-layer-monster-24-17.png egg-layer-monster-24-18.png egg-layer-monster-24-19.png egg-layer-monster-24-20.png egg-layer-monster-24-21.png egg-layer-monster-24-22.png egg-layer-monster-24-23.png egg-layer-monster-24-24.png egg-layer-monster-24-25.png egg-layer-monster-24-26.png egg-layer-monster-24-27.png egg-layer-monster-24-28.png egg-layer-monster-24-29.png egg-layer-monster-24-30.png egg-layer-monster-24-31.png egg-layer-monster-24-32.png egg-layer-monster-24-33.png egg-layer-monster-24-34.png egg-layer-monster-24-35.png egg-layer-monster-24-36.png egg-layer-monster-24-37.png egg-layer-monster-24-38.png egg-layer-monster-24-39.png egg-layer-monster-24-40.png egg-layer-monster-24-41.png egg-layer-monster-24-42.png egg-layer-monster-24-43.png egg-layer-monster-24-44.png egg-layer-monster-24-45.png egg-layer-monster-24-46.png egg-layer-monster-24-47.png egg-layer-monster-24-48.png 
+
+
+egg-layer-gore-32-1.png: egg-layer-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-gore-32-1.png +w32 +h32 $< Declare=sval=1 
+egg-layer-gore-32-2.png: egg-layer-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-gore-32-2.png +w32 +h32 $< Declare=sval=2 
+egg-layer-gore-32-3.png: egg-layer-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-gore-32-3.png +w32 +h32 $< Declare=sval=3 
+egg-layer-gore-32-4.png: egg-layer-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-gore-32-4.png +w32 +h32 $< Declare=sval=4 
+egg-layer-gore-32-5.png: egg-layer-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-gore-32-5.png +w32 +h32 $< Declare=sval=5 
+egg-layer-gore-32-6.png: egg-layer-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-gore-32-6.png +w32 +h32 $< Declare=sval=6 
+egg-layer-gore-32-7.png: egg-layer-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-gore-32-7.png +w32 +h32 $< Declare=sval=7 
+egg-layer-gore-32-8.png: egg-layer-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-gore-32-8.png +w32 +h32 $< Declare=sval=8 
+
+egg-layer-gore-32.png: egg-layer-gore-32-1.png egg-layer-gore-32-2.png egg-layer-gore-32-3.png egg-layer-gore-32-4.png egg-layer-gore-32-5.png egg-layer-gore-32-6.png egg-layer-gore-32-7.png egg-layer-gore-32-8.png 
+	convert +append $+ $@
+
+generated_images += egg-layer-gore-32.png
+temporary_images += egg-layer-gore-32-1.png egg-layer-gore-32-2.png egg-layer-gore-32-3.png egg-layer-gore-32-4.png egg-layer-gore-32-5.png egg-layer-gore-32-6.png egg-layer-gore-32-7.png egg-layer-gore-32-8.png 
+
+
+egg-layer-gore-24-1.png: egg-layer-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-gore-24-1.png +w24 +h24 $< Declare=sval=1 
+egg-layer-gore-24-2.png: egg-layer-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-gore-24-2.png +w24 +h24 $< Declare=sval=2 
+egg-layer-gore-24-3.png: egg-layer-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-gore-24-3.png +w24 +h24 $< Declare=sval=3 
+egg-layer-gore-24-4.png: egg-layer-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-gore-24-4.png +w24 +h24 $< Declare=sval=4 
+egg-layer-gore-24-5.png: egg-layer-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-gore-24-5.png +w24 +h24 $< Declare=sval=5 
+egg-layer-gore-24-6.png: egg-layer-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-gore-24-6.png +w24 +h24 $< Declare=sval=6 
+egg-layer-gore-24-7.png: egg-layer-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-gore-24-7.png +w24 +h24 $< Declare=sval=7 
+egg-layer-gore-24-8.png: egg-layer-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-gore-24-8.png +w24 +h24 $< Declare=sval=8 
+
+egg-layer-gore-24.png: egg-layer-gore-24-1.png egg-layer-gore-24-2.png egg-layer-gore-24-3.png egg-layer-gore-24-4.png egg-layer-gore-24-5.png egg-layer-gore-24-6.png egg-layer-gore-24-7.png egg-layer-gore-24-8.png 
+	convert +append $+ $@
+
+generated_images += egg-layer-gore-24.png
+temporary_images += egg-layer-gore-24-1.png egg-layer-gore-24-2.png egg-layer-gore-24-3.png egg-layer-gore-24-4.png egg-layer-gore-24-5.png egg-layer-gore-24-6.png egg-layer-gore-24-7.png egg-layer-gore-24-8.png 
+
+
+# egg rules
+
+plain-egg-32-1.png: plain-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-egg-32-.png +kfi1 +kff4 +sf1 +ef1 +w32 +h32 $< Declare=sval=1
+plain-egg-32-2.png: plain-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-egg-32-.png +kfi1 +kff4 +sf2 +ef2 +w32 +h32 $< Declare=sval=1
+plain-egg-32-3.png: plain-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-egg-32-.png +kfi1 +kff4 +sf3 +ef3 +w32 +h32 $< Declare=sval=1
+plain-egg-32-4.png: plain-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-egg-32-.png +kfi1 +kff4 +sf4 +ef4 +w32 +h32 $< Declare=sval=1
+
+plain-egg-32.png: plain-egg-32-1.png plain-egg-32-2.png plain-egg-32-3.png plain-egg-32-4.png 
+	convert +append $+ $@
+
+generated_images += plain-egg-32.png
+temporary_images += plain-egg-32-1.png plain-egg-32-2.png plain-egg-32-3.png plain-egg-32-4.png 
+
+
+plain-egg-24-1.png: plain-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-egg-24-.png +kfi1 +kff4 +sf1 +ef1 +w24 +h24 $< Declare=sval=1
+plain-egg-24-2.png: plain-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-egg-24-.png +kfi1 +kff4 +sf2 +ef2 +w24 +h24 $< Declare=sval=1
+plain-egg-24-3.png: plain-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-egg-24-.png +kfi1 +kff4 +sf3 +ef3 +w24 +h24 $< Declare=sval=1
+plain-egg-24-4.png: plain-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oplain-egg-24-.png +kfi1 +kff4 +sf4 +ef4 +w24 +h24 $< Declare=sval=1
+
+plain-egg-24.png: plain-egg-24-1.png plain-egg-24-2.png plain-egg-24-3.png plain-egg-24-4.png 
+	convert +append $+ $@
+
+generated_images += plain-egg-24.png
+temporary_images += plain-egg-24-1.png plain-egg-24-2.png plain-egg-24-3.png plain-egg-24-4.png 
+
+
+hard-egg-32-1.png: hard-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-egg-32-.png +kfi1 +kff4 +sf1 +ef1 +w32 +h32 $< Declare=sval=2
+hard-egg-32-2.png: hard-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-egg-32-.png +kfi1 +kff4 +sf2 +ef2 +w32 +h32 $< Declare=sval=2
+hard-egg-32-3.png: hard-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-egg-32-.png +kfi1 +kff4 +sf3 +ef3 +w32 +h32 $< Declare=sval=2
+hard-egg-32-4.png: hard-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-egg-32-.png +kfi1 +kff4 +sf4 +ef4 +w32 +h32 $< Declare=sval=2
+
+hard-egg-32.png: hard-egg-32-1.png hard-egg-32-2.png hard-egg-32-3.png hard-egg-32-4.png 
+	convert +append $+ $@
+
+generated_images += hard-egg-32.png
+temporary_images += hard-egg-32-1.png hard-egg-32-2.png hard-egg-32-3.png hard-egg-32-4.png 
+
+
+hard-egg-24-1.png: hard-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-egg-24-.png +kfi1 +kff4 +sf1 +ef1 +w24 +h24 $< Declare=sval=2
+hard-egg-24-2.png: hard-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-egg-24-.png +kfi1 +kff4 +sf2 +ef2 +w24 +h24 $< Declare=sval=2
+hard-egg-24-3.png: hard-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-egg-24-.png +kfi1 +kff4 +sf3 +ef3 +w24 +h24 $< Declare=sval=2
+hard-egg-24-4.png: hard-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohard-egg-24-.png +kfi1 +kff4 +sf4 +ef4 +w24 +h24 $< Declare=sval=2
+
+hard-egg-24.png: hard-egg-24-1.png hard-egg-24-2.png hard-egg-24-3.png hard-egg-24-4.png 
+	convert +append $+ $@
+
+generated_images += hard-egg-24.png
+temporary_images += hard-egg-24-1.png hard-egg-24-2.png hard-egg-24-3.png hard-egg-24-4.png 
+
+
+seeker-egg-32-1.png: seeker-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-egg-32-.png +kfi1 +kff4 +sf1 +ef1 +w32 +h32 $< Declare=sval=3
+seeker-egg-32-2.png: seeker-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-egg-32-.png +kfi1 +kff4 +sf2 +ef2 +w32 +h32 $< Declare=sval=3
+seeker-egg-32-3.png: seeker-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-egg-32-.png +kfi1 +kff4 +sf3 +ef3 +w32 +h32 $< Declare=sval=3
+seeker-egg-32-4.png: seeker-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-egg-32-.png +kfi1 +kff4 +sf4 +ef4 +w32 +h32 $< Declare=sval=3
+
+seeker-egg-32.png: seeker-egg-32-1.png seeker-egg-32-2.png seeker-egg-32-3.png seeker-egg-32-4.png 
+	convert +append $+ $@
+
+generated_images += seeker-egg-32.png
+temporary_images += seeker-egg-32-1.png seeker-egg-32-2.png seeker-egg-32-3.png seeker-egg-32-4.png 
+
+
+seeker-egg-24-1.png: seeker-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-egg-24-.png +kfi1 +kff4 +sf1 +ef1 +w24 +h24 $< Declare=sval=3
+seeker-egg-24-2.png: seeker-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-egg-24-.png +kfi1 +kff4 +sf2 +ef2 +w24 +h24 $< Declare=sval=3
+seeker-egg-24-3.png: seeker-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-egg-24-.png +kfi1 +kff4 +sf3 +ef3 +w24 +h24 $< Declare=sval=3
+seeker-egg-24-4.png: seeker-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oseeker-egg-24-.png +kfi1 +kff4 +sf4 +ef4 +w24 +h24 $< Declare=sval=3
+
+seeker-egg-24.png: seeker-egg-24-1.png seeker-egg-24-2.png seeker-egg-24-3.png seeker-egg-24-4.png 
+	convert +append $+ $@
+
+generated_images += seeker-egg-24.png
+temporary_images += seeker-egg-24-1.png seeker-egg-24-2.png seeker-egg-24-3.png seeker-egg-24-4.png 
+
+
+egg-layer-egg-32-1.png: egg-layer-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-egg-32-.png +kfi1 +kff4 +sf1 +ef1 +w32 +h32 $< Declare=sval=4
+egg-layer-egg-32-2.png: egg-layer-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-egg-32-.png +kfi1 +kff4 +sf2 +ef2 +w32 +h32 $< Declare=sval=4
+egg-layer-egg-32-3.png: egg-layer-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-egg-32-.png +kfi1 +kff4 +sf3 +ef3 +w32 +h32 $< Declare=sval=4
+egg-layer-egg-32-4.png: egg-layer-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-egg-32-.png +kfi1 +kff4 +sf4 +ef4 +w32 +h32 $< Declare=sval=4
+
+egg-layer-egg-32.png: egg-layer-egg-32-1.png egg-layer-egg-32-2.png egg-layer-egg-32-3.png egg-layer-egg-32-4.png 
+	convert +append $+ $@
+
+generated_images += egg-layer-egg-32.png
+temporary_images += egg-layer-egg-32-1.png egg-layer-egg-32-2.png egg-layer-egg-32-3.png egg-layer-egg-32-4.png 
+
+
+egg-layer-egg-24-1.png: egg-layer-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-egg-24-.png +kfi1 +kff4 +sf1 +ef1 +w24 +h24 $< Declare=sval=4
+egg-layer-egg-24-2.png: egg-layer-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-egg-24-.png +kfi1 +kff4 +sf2 +ef2 +w24 +h24 $< Declare=sval=4
+egg-layer-egg-24-3.png: egg-layer-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-egg-24-.png +kfi1 +kff4 +sf3 +ef3 +w24 +h24 $< Declare=sval=4
+egg-layer-egg-24-4.png: egg-layer-egg.pov egg.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +oegg-layer-egg-24-.png +kfi1 +kff4 +sf4 +ef4 +w24 +h24 $< Declare=sval=4
+
+egg-layer-egg-24.png: egg-layer-egg-24-1.png egg-layer-egg-24-2.png egg-layer-egg-24-3.png egg-layer-egg-24-4.png 
+	convert +append $+ $@
+
+generated_images += egg-layer-egg-24.png
+temporary_images += egg-layer-egg-24-1.png egg-layer-egg-24-2.png egg-layer-egg-24-3.png egg-layer-egg-24-4.png 
+
+
+# hero
+hero-right-32.png: hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< Declare=hero_angle=0
+
+generated_images += hero-right-32.png
+
+hero-right-24.png: hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< Declare=hero_angle=0
+
+generated_images += hero-right-24.png
+
+hero-right-down-32.png: hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< Declare=hero_angle=45
+
+generated_images += hero-right-down-32.png
+
+hero-right-down-24.png: hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< Declare=hero_angle=45
+
+generated_images += hero-right-down-24.png
+
+hero-down-32.png: hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< Declare=hero_angle=90
+
+generated_images += hero-down-32.png
+
+hero-down-24.png: hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< Declare=hero_angle=90
+
+generated_images += hero-down-24.png
+
+hero-left-down-32.png: hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< Declare=hero_angle=135
+
+generated_images += hero-left-down-32.png
+
+hero-left-down-24.png: hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< Declare=hero_angle=135
+
+generated_images += hero-left-down-24.png
+
+hero-left-32.png: hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< Declare=hero_angle=180
+
+generated_images += hero-left-32.png
+
+hero-left-24.png: hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< Declare=hero_angle=180
+
+generated_images += hero-left-24.png
+
+hero-left-up-32.png: hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< Declare=hero_angle=225
+
+generated_images += hero-left-up-32.png
+
+hero-left-up-24.png: hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< Declare=hero_angle=225
+
+generated_images += hero-left-up-24.png
+
+hero-up-32.png: hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< Declare=hero_angle=270
+
+generated_images += hero-up-32.png
+
+hero-up-24.png: hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< Declare=hero_angle=270
+
+generated_images += hero-up-24.png
+
+hero-right-up-32.png: hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< Declare=hero_angle=315
+
+generated_images += hero-right-up-32.png
+
+hero-right-up-24.png: hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< Declare=hero_angle=315
+
+generated_images += hero-right-up-24.png
+
+
+invisible-hero-right-32.png: invisible-hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< Declare=hero_angle=0
+
+generated_images += invisible-hero-right-32.png
+
+invisible-hero-right-24.png: invisible-hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< Declare=hero_angle=0
+
+generated_images += invisible-hero-right-24.png
+
+invisible-hero-right-down-32.png: invisible-hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< Declare=hero_angle=45
+
+generated_images += invisible-hero-right-down-32.png
+
+invisible-hero-right-down-24.png: invisible-hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< Declare=hero_angle=45
+
+generated_images += invisible-hero-right-down-24.png
+
+invisible-hero-down-32.png: invisible-hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< Declare=hero_angle=90
+
+generated_images += invisible-hero-down-32.png
+
+invisible-hero-down-24.png: invisible-hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< Declare=hero_angle=90
+
+generated_images += invisible-hero-down-24.png
+
+invisible-hero-left-down-32.png: invisible-hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< Declare=hero_angle=135
+
+generated_images += invisible-hero-left-down-32.png
+
+invisible-hero-left-down-24.png: invisible-hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< Declare=hero_angle=135
+
+generated_images += invisible-hero-left-down-24.png
+
+invisible-hero-left-32.png: invisible-hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< Declare=hero_angle=180
+
+generated_images += invisible-hero-left-32.png
+
+invisible-hero-left-24.png: invisible-hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< Declare=hero_angle=180
+
+generated_images += invisible-hero-left-24.png
+
+invisible-hero-left-up-32.png: invisible-hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< Declare=hero_angle=225
+
+generated_images += invisible-hero-left-up-32.png
+
+invisible-hero-left-up-24.png: invisible-hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< Declare=hero_angle=225
+
+generated_images += invisible-hero-left-up-24.png
+
+invisible-hero-up-32.png: invisible-hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< Declare=hero_angle=270
+
+generated_images += invisible-hero-up-32.png
+
+invisible-hero-up-24.png: invisible-hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< Declare=hero_angle=270
+
+generated_images += invisible-hero-up-24.png
+
+invisible-hero-right-up-32.png: invisible-hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< Declare=hero_angle=315
+
+generated_images += invisible-hero-right-up-32.png
+
+invisible-hero-right-up-24.png: invisible-hero.pov hero.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< Declare=hero_angle=315
+
+generated_images += invisible-hero-right-up-24.png
+
+
+
+hero-gore-32-1.png: hero-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohero-gore-32-1.png +w32 +h32 $< Declare=sval=1 
+hero-gore-32-2.png: hero-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohero-gore-32-2.png +w32 +h32 $< Declare=sval=2 
+hero-gore-32-3.png: hero-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohero-gore-32-3.png +w32 +h32 $< Declare=sval=3 
+hero-gore-32-4.png: hero-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohero-gore-32-4.png +w32 +h32 $< Declare=sval=4 
+hero-gore-32-5.png: hero-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohero-gore-32-5.png +w32 +h32 $< Declare=sval=5 
+hero-gore-32-6.png: hero-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohero-gore-32-6.png +w32 +h32 $< Declare=sval=6 
+hero-gore-32-7.png: hero-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohero-gore-32-7.png +w32 +h32 $< Declare=sval=7 
+hero-gore-32-8.png: hero-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohero-gore-32-8.png +w32 +h32 $< Declare=sval=8 
+
+hero-gore-32.png: hero-gore-32-1.png hero-gore-32-2.png hero-gore-32-3.png hero-gore-32-4.png hero-gore-32-5.png hero-gore-32-6.png hero-gore-32-7.png hero-gore-32-8.png 
+	convert +append $+ $@
+
+generated_images += hero-gore-32.png
+temporary_images += hero-gore-32-1.png hero-gore-32-2.png hero-gore-32-3.png hero-gore-32-4.png hero-gore-32-5.png hero-gore-32-6.png hero-gore-32-7.png hero-gore-32-8.png 
+
+
+hero-gore-24-1.png: hero-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohero-gore-24-1.png +w24 +h24 $< Declare=sval=1 
+hero-gore-24-2.png: hero-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohero-gore-24-2.png +w24 +h24 $< Declare=sval=2 
+hero-gore-24-3.png: hero-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohero-gore-24-3.png +w24 +h24 $< Declare=sval=3 
+hero-gore-24-4.png: hero-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohero-gore-24-4.png +w24 +h24 $< Declare=sval=4 
+hero-gore-24-5.png: hero-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohero-gore-24-5.png +w24 +h24 $< Declare=sval=5 
+hero-gore-24-6.png: hero-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohero-gore-24-6.png +w24 +h24 $< Declare=sval=6 
+hero-gore-24-7.png: hero-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohero-gore-24-7.png +w24 +h24 $< Declare=sval=7 
+hero-gore-24-8.png: hero-gore.pov gore-blob.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +ohero-gore-24-8.png +w24 +h24 $< Declare=sval=8 
+
+hero-gore-24.png: hero-gore-24-1.png hero-gore-24-2.png hero-gore-24-3.png hero-gore-24-4.png hero-gore-24-5.png hero-gore-24-6.png hero-gore-24-7.png hero-gore-24-8.png 
+	convert +append $+ $@
+
+generated_images += hero-gore-24.png
+temporary_images += hero-gore-24-1.png hero-gore-24-2.png hero-gore-24-3.png hero-gore-24-4.png hero-gore-24-5.png hero-gore-24-6.png hero-gore-24-7.png hero-gore-24-8.png 
+
+
+# misc
+block-32.png: block.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< 
+
+generated_images += block-32.png
+
+block-24.png: block.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< 
+
+generated_images += block-24.png
+
+wall-32.png: wall.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< 
+
+generated_images += wall-32.png
+
+wall-24.png: wall.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< 
+
+generated_images += wall-24.png
+
+monster-wall-32.png: monster-wall.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< 
+
+generated_images += monster-wall-32.png
+
+monster-wall-24.png: monster-wall.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< 
+
+generated_images += monster-wall-24.png
+
+freeze-box-32.png: freeze-box.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< 
+
+generated_images += freeze-box-32.png
+
+freeze-box-24.png: freeze-box.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< 
+
+generated_images += freeze-box-24.png
+
+power-up-invisibility-32.png: power-up-invisibility.pov power-up.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< 
+
+generated_images += power-up-invisibility-32.png
+
+power-up-invisibility-24.png: power-up-invisibility.pov power-up.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< 
+
+generated_images += power-up-invisibility-24.png
+
+power-up-freeze-32.png: power-up-freeze.pov power-up.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< 
+
+generated_images += power-up-freeze-32.png
+
+power-up-freeze-24.png: power-up-freeze.pov power-up.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< 
+
+generated_images += power-up-freeze-24.png
+
+power-up-explode-32.png: power-up-explode.pov power-up.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w32 +h32 $< 
+
+generated_images += power-up-explode-32.png
+
+power-up-explode-24.png: power-up-explode.pov power-up.inc settings.inc
+	$(POVRAY) $(POVFLAGS) +o$@ +w24 +h24 $< 
+
+generated_images += power-up-explode-24.png
+
+
+levitation-32-1.png: levitation.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +olevitation-32-1.png +w32 +h32 $< Declare=sval=1 
+levitation-32-2.png: levitation.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +olevitation-32-2.png +w32 +h32 $< Declare=sval=2 
+levitation-32-3.png: levitation.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +olevitation-32-3.png +w32 +h32 $< Declare=sval=3 
+levitation-32-4.png: levitation.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +olevitation-32-4.png +w32 +h32 $< Declare=sval=4 
+levitation-32-5.png: levitation.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +olevitation-32-5.png +w32 +h32 $< Declare=sval=5 
+levitation-32-6.png: levitation.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +olevitation-32-6.png +w32 +h32 $< Declare=sval=6 
+levitation-32-7.png: levitation.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +olevitation-32-7.png +w32 +h32 $< Declare=sval=7 
+levitation-32-8.png: levitation.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +olevitation-32-8.png +w32 +h32 $< Declare=sval=8 
+
+levitation-32.png: levitation-32-1.png levitation-32-2.png levitation-32-3.png levitation-32-4.png levitation-32-5.png levitation-32-6.png levitation-32-7.png levitation-32-8.png 
+	convert +append $+ $@
+
+generated_images += levitation-32.png
+temporary_images += levitation-32-1.png levitation-32-2.png levitation-32-3.png levitation-32-4.png levitation-32-5.png levitation-32-6.png levitation-32-7.png levitation-32-8.png 
+
+
+levitation-24-1.png: levitation.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +olevitation-24-1.png +w24 +h24 $< Declare=sval=1 
+levitation-24-2.png: levitation.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +olevitation-24-2.png +w24 +h24 $< Declare=sval=2 
+levitation-24-3.png: levitation.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +olevitation-24-3.png +w24 +h24 $< Declare=sval=3 
+levitation-24-4.png: levitation.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +olevitation-24-4.png +w24 +h24 $< Declare=sval=4 
+levitation-24-5.png: levitation.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +olevitation-24-5.png +w24 +h24 $< Declare=sval=5 
+levitation-24-6.png: levitation.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +olevitation-24-6.png +w24 +h24 $< Declare=sval=6 
+levitation-24-7.png: levitation.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +olevitation-24-7.png +w24 +h24 $< Declare=sval=7 
+levitation-24-8.png: levitation.pov settings.inc
+	$(POVRAY) $(POVFLAGS) +olevitation-24-8.png +w24 +h24 $< Declare=sval=8 
+
+levitation-24.png: levitation-24-1.png levitation-24-2.png levitation-24-3.png levitation-24-4.png levitation-24-5.png levitation-24-6.png levitation-24-7.png levitation-24-8.png 
+	convert +append $+ $@
+
+generated_images += levitation-24.png
+temporary_images += levitation-24-1.png levitation-24-2.png levitation-24-3.png levitation-24-4.png levitation-24-5.png levitation-24-6.png levitation-24-7.png levitation-24-8.png 
+

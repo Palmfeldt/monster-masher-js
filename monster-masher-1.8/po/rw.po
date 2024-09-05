@@ -1,0 +1,479 @@
+# translation of monster-masher to Kinyarwanda.
+# Copyright (C) 2005 Free Software Foundation, Inc.
+# This file is distributed under the same license as the monster-masher package.
+# Steve Murphy <murf@e-tools.com>, 2005
+# Steve performed initial rough translation from compendium built from translations provided by the following translators:
+# Philibert Ndandali  <ndandali@yahoo.fr>, 2005.
+# Viateur MUGENZI <muvia1@yahoo.fr>, 2005.
+# Noëlla Mupole <s24211045@tuks.co.za>, 2005.
+# Carole Karema <karemacarole@hotmail.com>, 2005.
+# JEAN BAPTISTE NGENDAHAYO <ngenda_denis@yahoo.co.uk>, 2005.
+# Augustin KIBERWA  <akiberwa@yahoo.co.uk>, 2005.
+# Donatien NSENGIYUMVA <ndonatienuk@yahoo.co.uk>, 2005..
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: monster-masher HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-10-09 14:35+0200\n"
+"PO-Revision-Date: 2005-03-31 20:55-0700\n"
+"Last-Translator: Steve Murphy <murf@e-tools.com>\n"
+"Language-Team: Kinyarwanda <translation-team-rw@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"ULL NAME <EMAIL@ADDRESS>\n"
+
+#: ../src/game.cpp:108
+#, fuzzy
+msgid "Level %1 cleared for monsters!"
+msgstr "kugirango"
+
+#: ../src/game.cpp:140
+#, fuzzy
+msgid "And the last hero disappeared..."
+msgstr "i Iheruka"
+
+#: ../src/game.cpp:151
+#, fuzzy
+msgid "All levels liberated!"
+msgstr "Intera"
+
+#: ../src/game.cpp:383
+#, fuzzy
+msgid "Entering level %1..."
+msgstr "urwego"
+
+#: ../src/helpers.cpp:39
+#, fuzzy
+msgid "Fatal error"
+msgstr "Ikosa"
+
+#: ../src/helpers.cpp:52
+#, fuzzy
+msgid ""
+"%1. Check your installation or report the problem to the distributor if you "
+"installed from a package."
+msgstr ""
+"%1.Project- Id- Version: basctl\n"
+"POT- Creation- Date: 2003- 12- 07 17: 13+ 02\n"
+"PO- Revision- Date: 2004- 11- 04 10: 13- 0700\n"
+"Last- Translator: Language- Team:< en@ li. org> MIME- Version: 1. 0\n"
+"Content- Type: text/ plain; charset= UTF- 8\n"
+"Content- Transfer- Encoding: 8bit\n"
+"X- Generator: KBabel 1. 0\n"
+"."
+
+#: ../src/intro.cpp:79
+#, fuzzy
+msgid ""
+"In the old days, before man entered the world, the gnomes were abundant."
+msgstr "i ki/ bishaje Iminsi Mbere i i"
+
+#: ../src/intro.cpp:82
+#, fuzzy
+msgid ""
+"Through centuries of hard labour, only slightly eased by the levitational "
+"powers provided to them by their god, they bored out shafts and caves in the "
+"mountains."
+msgstr "Bya Ikomeye ku i Kuri ku Inyuma Na in i"
+
+#: ../src/intro.cpp:88
+#, fuzzy
+msgid "Always seeking the precious stones and valuable ore..."
+msgstr "i Na"
+
+#: ../src/intro.cpp:91
+#, fuzzy
+msgid ""
+"But one clan dug deeper than the others. Only its wealth was growing quicker "
+"than its greed."
+msgstr "i Ibindi"
+
+#: ../src/intro.cpp:95
+#, fuzzy
+msgid ""
+"The years went by. The chief of the clan became the king of the gnomes. "
+"Thousands of men, women and children were sent to work in the deepest, most "
+"profitable mines."
+msgstr "IMYAKA ku Bya i i Bya i Bya Na Yoherejwe: Kuri Akazi in i"
+
+#: ../src/intro.cpp:101
+#, fuzzy
+msgid "Then one day a large deposit of coal was found. Or so it was thought..."
+msgstr "UMUNSI a Binini Bya Byabonetse"
+
+#: ../src/intro.cpp:104
+#, fuzzy
+msgid "From the black carbon, a strange creature rose!"
+msgstr "i umukara a"
+
+#: ../src/intro.cpp:107
+#, fuzzy
+msgid ""
+"The first moments of surprise among the workers were replaced with horror as "
+"hundreds of other shapes broke out of the vein, crushing everything and "
+"everybody on their way."
+msgstr ""
+"Itangira Bya Ikitateguwe i Na: Nka Bya Ikindi Imisusire- shusho Inyuma Bya i "
+"Na ku"
+
+#: ../src/intro.cpp:113
+#, fuzzy
+msgid ""
+"For months, the clan fought the monsters. Only a handful of messengers sent "
+"out to warn the other clans survived."
+msgstr "Amezi i i a Bya Yoherejwe: Inyuma Kuri i Ikindi"
+
+#: ../src/intro.cpp:118
+#, fuzzy
+msgid "The world of the gnomes was threatened..."
+msgstr "Bya i"
+
+#: ../src/intro.cpp:121
+#, fuzzy
+msgid ""
+"By the black monsters made of carbon harder than steel, mechanical in their "
+"stupidity; but deadly."
+msgstr "i umukara Bya in"
+
+#: ../src/intro.cpp:125
+#, fuzzy
+msgid ""
+"By the armoured monsters so well-protected that only the bed-rock was hard "
+"enough to slay them."
+msgstr "i Birinzwe i Ikomeye Kuri"
+
+#: ../src/intro.cpp:129
+#, fuzzy
+msgid ""
+"By the seekers, sneaky and tricky, red from the gnome blood that their "
+"spikes had spilled."
+msgstr "i Na Umutuku Bivuye i"
+
+#: ../src/intro.cpp:133
+#, fuzzy
+msgid "And by the blue egg layers that multiplied their number by thousands."
+msgstr "ku i Ubururu Umubare ku"
+
+#: ../src/intro.cpp:136
+#, fuzzy
+msgid ""
+"The only remaining hope of the gnomes was a humble levitation worker. He had "
+"found a way to mash the monsters against the mountain rocks."
+msgstr "Bya i a Byabonetse a Kuri i i"
+
+#: ../src/intro.cpp:141
+#, fuzzy
+msgid "That hope is you."
+msgstr "ni"
+
+#: ../src/intro.cpp:143
+#, fuzzy
+msgid ""
+"You must battle your way deep into the mountains, past each of the levels of "
+"the clan of the kings and clear the way for the rock summoners to block the "
+"vein."
+msgstr ""
+"Njyakuzimu i Bya i Intera Bya i Bya i Na Gusiba i kugirango i Kuri Funga i"
+
+#: ../src/intro.cpp:149
+#, fuzzy
+msgid "Only then can the gnomes survive..."
+msgstr "Hanyuma i"
+
+#: ../src/main-window.cpp:72
+#, fuzzy
+msgid "Monster Masher: cannot load the icon \"%1\".\n"
+msgstr "Ibirimo i Agashushondanga"
+
+#: ../src/main-window.cpp:158 ../src/ui.glade.h:24
+#, no-c-format
+msgid "Resurrections: %1"
+msgstr ""
+
+#: ../src/main-window.cpp:164 ../src/ui.glade.h:26
+#, no-c-format
+msgid "Score: %1"
+msgstr ""
+
+# #-#-#-#-#  officecfg.pot (PACKAGE VERSION)  #-#-#-#-#
+# officecfg/registry\schema\org\openoffice\Office\Writer.xcs:....Insert.Caption.WriterObject.Table.Settings.Level.text
+# #-#-#-#-#  officecfg.pot (PACKAGE VERSION)  #-#-#-#-#
+# officecfg/registry\schema\org\openoffice\Office\Writer.xcs:....Insert.Caption.WriterObject.Frame.Settings.Level.text
+# #-#-#-#-#  officecfg.pot (PACKAGE VERSION)  #-#-#-#-#
+# officecfg/registry\schema\org\openoffice\Office\Writer.xcs:....Insert.Caption.WriterObject.Graphic.Settings.Level.text
+# #-#-#-#-#  officecfg.pot (PACKAGE VERSION)  #-#-#-#-#
+# officecfg/registry\schema\org\openoffice\Office\Writer.xcs:....Insert.Caption.OfficeObject.Calc.Settings.Level.text
+# #-#-#-#-#  officecfg.pot (PACKAGE VERSION)  #-#-#-#-#
+# officecfg/registry\schema\org\openoffice\Office\Writer.xcs:....Insert.Caption.OfficeObject.Draw.Settings.Level.text
+# #-#-#-#-#  officecfg.pot (PACKAGE VERSION)  #-#-#-#-#
+# officecfg/registry\schema\org\openoffice\Office\Writer.xcs:....Insert.Caption.OfficeObject.Chart.Settings.Level.text
+# #-#-#-#-#  officecfg.pot (PACKAGE VERSION)  #-#-#-#-#
+# officecfg/registry\schema\org\openoffice\Office\Writer.xcs:....Insert.Caption.OfficeObject.Image.Settings.Level.text
+# #-#-#-#-#  officecfg.pot (PACKAGE VERSION)  #-#-#-#-#
+# officecfg/registry\schema\org\openoffice\Office\Writer.xcs:....Insert.Caption.OfficeObject.Formula.Settings.Level.text
+# #-#-#-#-#  officecfg.pot (PACKAGE VERSION)  #-#-#-#-#
+# officecfg/registry\schema\org\openoffice\Office\Writer.xcs:....Insert.Caption.OfficeObject.Impress.Settings.Level.text
+# #-#-#-#-#  officecfg.pot (PACKAGE VERSION)  #-#-#-#-#
+# officecfg/registry\schema\org\openoffice\Office\Writer.xcs:....Insert.Caption.OfficeObject.OLEMisc.Settings.Level.text
+#: ../src/main-window.cpp:174 ../src/ui.glade.h:18
+#, fuzzy, no-c-format
+msgid "Level: %1"
+msgstr "urwego"
+
+#: ../src/main-window.cpp:234
+msgid "_New game"
+msgstr ""
+
+#: ../src/main-window.cpp:237
+#, fuzzy
+msgid "_Introduction"
+msgstr "Intangiriro"
+
+#: ../src/main-window.cpp:240
+#, fuzzy
+msgid "_Preferences"
+msgstr "Ibyahiswemo"
+
+#: ../src/main-window.cpp:243
+#, fuzzy
+msgid "_About"
+msgstr "Bigyanye"
+
+#: ../src/main-window.cpp:246
+#, fuzzy
+msgid "_Quit"
+msgstr "Kuvamo"
+
+#: ../src/main-window.cpp:258
+msgid "_Resume game"
+msgstr ""
+
+#: ../src/main-window.cpp:261
+#, fuzzy
+msgid "Re_start level"
+msgstr "urwego"
+
+#: ../src/main-window.cpp:264
+#, fuzzy
+msgid "_End game"
+msgstr "Impera"
+
+#: ../src/main-window.cpp:407
+#, fuzzy
+msgid ""
+"Fast-paced monster mashing game for GNOME. Splat the monsters before they "
+"roll over you and take over the world of the gnomes!"
+msgstr "kugirango i Mbere Kuzinga KURI Na KURI i Bya i"
+
+#: ../src/main-window.cpp:412 ../src/main.cpp:55 ../src/ui.glade.h:19
+#: ../monster-masher.desktop.in.h:2
+msgid "Monster Masher"
+msgstr ""
+
+#. %1 is the copyright symbol
+#: ../src/main-window.cpp:415
+#, fuzzy
+msgid "Copyright %1 2003 Ole Laursen"
+msgstr "C"
+
+#. note to translators: please fill in your names and email addresses
+#: ../src/main-window.cpp:422
+#, fuzzy
+msgid "translator-credits"
+msgstr "Umusemuzi"
+
+#. note to translators: resur. stands for resurrections; resurrections
+#. occur when the player is given life again after having died
+#. (the translation should preferably be short)
+#: ../src/new-game-window.cpp:170
+msgid "(resur.: %1)"
+msgstr ""
+
+#: ../src/persistent.cpp:160
+#, fuzzy
+msgid ""
+"An error occurred while reading the file \"%1\". This may mean that the "
+"recordings of what levels you have passed are lost."
+msgstr "Ikosa i IDOSIYE Gicurasi Impuzandengo- i Bya Intera"
+
+#: ../src/persistent.cpp:167
+#, fuzzy
+msgid "Load error"
+msgstr "Ikosa"
+
+#: ../src/persistent.cpp:235
+#, fuzzy
+msgid ""
+"An error occurred while saving the file \"%1\". This may mean that the "
+"recordings of what levels you have passed are lost."
+msgstr "Ikosa Mu kubika i IDOSIYE Gicurasi Impuzandengo- i Bya Intera"
+
+#: ../src/persistent.cpp:242
+#, fuzzy
+msgid "Save error"
+msgstr "Bika ikosa"
+
+#: ../src/ui.glade.h:1
+#, fuzzy
+msgid "<b>Difficulty</b>"
+msgstr "<B B"
+
+#: ../src/ui.glade.h:2
+#, fuzzy
+msgid "<b>Fullscreen</b>"
+msgstr "<B B"
+
+#: ../src/ui.glade.h:3
+#, fuzzy
+msgid "<b>Level</b>"
+msgstr "<B B"
+
+#: ../src/ui.glade.h:4
+#, fuzzy
+msgid "<b>Moving</b>"
+msgstr "<B B"
+
+#: ../src/ui.glade.h:5
+#, fuzzy
+msgid "<b>Number of Players</b>"
+msgstr "<B Bya B"
+
+#: ../src/ui.glade.h:6
+#, fuzzy
+msgid "<b>Pull block</b>"
+msgstr "<B Funga B"
+
+# offmgr/source\offapp\dialog\treeopt.src:RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.12.text
+#: ../src/ui.glade.h:7
+msgid "Appearance"
+msgstr "Imigaragarire"
+
+#: ../src/ui.glade.h:8 ../monster-masher.schemas.in.h:1
+#, fuzzy
+msgid "Key for activating pulling of blocks"
+msgstr "kugirango Bya"
+
+#: ../src/ui.glade.h:9 ../monster-masher.schemas.in.h:2
+#, fuzzy
+msgid "Key for moving down"
+msgstr "kugirango Hasi"
+
+#: ../src/ui.glade.h:10 ../monster-masher.schemas.in.h:3
+#, fuzzy
+msgid "Key for moving to the left"
+msgstr "kugirango Kuri i Ibumoso:"
+
+#: ../src/ui.glade.h:11 ../monster-masher.schemas.in.h:4
+#, fuzzy
+msgid "Key for moving to the left and down"
+msgstr "kugirango Kuri i Ibumoso: Na Hasi"
+
+#: ../src/ui.glade.h:12 ../monster-masher.schemas.in.h:5
+#, fuzzy
+msgid "Key for moving to the left and up"
+msgstr "kugirango Kuri i Ibumoso: Na Hejuru"
+
+#: ../src/ui.glade.h:13 ../monster-masher.schemas.in.h:6
+#, fuzzy
+msgid "Key for moving to the right"
+msgstr "kugirango Kuri i Iburyo:"
+
+#: ../src/ui.glade.h:14 ../monster-masher.schemas.in.h:7
+#, fuzzy
+msgid "Key for moving to the right and down"
+msgstr "kugirango Kuri i Iburyo: Na Hasi"
+
+#: ../src/ui.glade.h:15 ../monster-masher.schemas.in.h:8
+#, fuzzy
+msgid "Key for moving to the right and up"
+msgstr "kugirango Kuri i Iburyo: Na Hejuru"
+
+#: ../src/ui.glade.h:16 ../monster-masher.schemas.in.h:9
+#, fuzzy
+msgid "Key for moving up"
+msgstr "kugirango Hejuru"
+
+#: ../src/ui.glade.h:20
+#, fuzzy
+msgid "Player 1 keys"
+msgstr "1. Utubuto"
+
+#: ../src/ui.glade.h:21
+#, fuzzy
+msgid "Player 2 keys"
+msgstr "2. Utubuto"
+
+# extracted from content/PrefsWindow.xul
+# LOCALIZATION NOTE : FILE UI for the outer parts of the Prefs dialog
+#: ../src/ui.glade.h:22
+msgid "Preferences"
+msgstr "Ibyahisemo"
+
+#: ../src/ui.glade.h:27
+#, fuzzy
+msgid "Start Game"
+msgstr "Gutangira"
+
+#: ../src/ui.glade.h:28
+#, fuzzy
+msgid "Start at _level:"
+msgstr "Gutangira ku urwego"
+
+#: ../src/ui.glade.h:29
+#, fuzzy
+msgid "Use _fullscreen mode"
+msgstr "Ubwoko"
+
+#: ../src/ui.glade.h:30
+msgid "_Easy"
+msgstr ""
+
+#: ../src/ui.glade.h:31
+#, fuzzy
+msgid "_Hard"
+msgstr "Ikomeye"
+
+# officecfg/registry\schema\org\openoffice\Office\Math.xcs:....FontFormat.Weight..6.text
+#: ../src/ui.glade.h:32
+#, fuzzy
+msgid "_Medium"
+msgstr "biringaniye"
+
+#: ../src/ui.glade.h:33
+msgid "_One player"
+msgstr ""
+
+# #-#-#-#-#  sc.pot (PACKAGE VERSION)  #-#-#-#-#
+# sc/source\ui\navipi\navipi.src:RID_SCDLG_NAVIGATOR.TBX_CMD.IID_UP.text
+# #-#-#-#-#  sc.pot (PACKAGE VERSION)  #-#-#-#-#
+# sc/source\ui\src\scfuncs.src:RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_PROB.6.text
+# #-#-#-#-#  sc.pot (PACKAGE VERSION)  #-#-#-#-#
+# sc/source\ui\src\scfuncs.src:RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BETA_DIST.8.text
+# #-#-#-#-#  sc.pot (PACKAGE VERSION)  #-#-#-#-#
+# sc/source\ui\src\scfuncs.src:RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BETA_INV.8.text
+#: ../src/ui.glade.h:34
+#, fuzzy
+msgid "_Start"
+msgstr "Gutangira"
+
+#: ../src/ui.glade.h:35
+msgid "_Two players"
+msgstr ""
+
+#: ../monster-masher.desktop.in.h:1
+#, fuzzy
+msgid "Mash monsters and save the gnomes"
+msgstr "Na Kubika i"
+
+#: ../monster-masher.schemas.in.h:10
+#, fuzzy
+msgid ""
+"The string should be the GDK name of the key value to use (can be found in "
+"gdk/gdkkeynames.c)."
+msgstr "C."
+
+#: ../monster-masher.schemas.in.h:11
+msgid "Use fullscreen"
+msgstr ""

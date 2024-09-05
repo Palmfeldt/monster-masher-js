@@ -1,0 +1,400 @@
+# Danish translation of Monster Masher.
+# Copyright (C) 2003, 04 Free Software Foundation.
+# This file is distributed under the same license as the monster-masher package.
+# Ole Laursen <olau@hardworking.dk>, 2003, 04.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: monster-masher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-10-09 14:35+0200\n"
+"PO-Revision-Date: 2004-07-09 13:11+0200\n"
+"Last-Translator: Ole Laursen <olau@hardworking.dk>\n"
+"Language-Team: Danish <dansk@klid.dk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/game.cpp:108
+msgid "Level %1 cleared for monsters!"
+msgstr "Niveau %1 ryddet for monstre!"
+
+#: ../src/game.cpp:140
+msgid "And the last hero disappeared..."
+msgstr "Og den sidste helt forsvandt..."
+
+#: ../src/game.cpp:151
+msgid "All levels liberated!"
+msgstr "Alle niveauer er befriet!"
+
+#: ../src/game.cpp:383
+msgid "Entering level %1..."
+msgstr "Indtræder på niveau %1..."
+
+#: ../src/helpers.cpp:39
+msgid "Fatal error"
+msgstr "Fatal fejl"
+
+#: ../src/helpers.cpp:52
+msgid ""
+"%1. Check your installation or report the problem to the distributor if you "
+"installed from a package."
+msgstr ""
+"%1. Kontrollér din installation eller rapportér problemet til "
+"pakkedistributøren hvis du installerede fra en pakke."
+
+#: ../src/intro.cpp:79
+msgid ""
+"In the old days, before man entered the world, the gnomes were abundant."
+msgstr ""
+"In gamle dage, før mennesket gik omkring i verden, var gnomerne talrige."
+
+#: ../src/intro.cpp:82
+msgid ""
+"Through centuries of hard labour, only slightly eased by the levitational "
+"powers provided to them by their god, they bored out shafts and caves in the "
+"mountains."
+msgstr ""
+"Gennem århundreders hårdt arbejde der kun var blevet lettet en smule af de "
+"levitationskræfter som deres gud gennem tiderne forsynede dem med, gravede "
+"gnomerne skakter og huler i bjergene."
+
+#: ../src/intro.cpp:88
+msgid "Always seeking the precious stones and valuable ore..."
+msgstr "Altid på jagt efter de ædle stene og den dyrebare malm..."
+
+#: ../src/intro.cpp:91
+msgid ""
+"But one clan dug deeper than the others. Only its wealth was growing quicker "
+"than its greed."
+msgstr ""
+"Men én klan gravede dybere end de andre. Kun rigdommen i klanens skatkamre "
+"voksede hurtigere end dens grådighed."
+
+#: ../src/intro.cpp:95
+msgid ""
+"The years went by. The chief of the clan became the king of the gnomes. "
+"Thousands of men, women and children were sent to work in the deepest, most "
+"profitable mines."
+msgstr ""
+"Årene gik. Overhovedet for klanen blev gnomernes konge. Tusinder af mænd, "
+"kvinder og børn blev sendt ned at arbejde i de dybeste, mest givtige miner."
+
+#: ../src/intro.cpp:101
+msgid "Then one day a large deposit of coal was found. Or so it was thought..."
+msgstr "Så en dag blev et stort forråd af kul fundet. Eller det troede man..."
+
+#: ../src/intro.cpp:104
+msgid "From the black carbon, a strange creature rose!"
+msgstr "En mystisk skabning hævede sig ud af den sorte karbon!"
+
+#: ../src/intro.cpp:107
+msgid ""
+"The first moments of surprise among the workers were replaced with horror as "
+"hundreds of other shapes broke out of the vein, crushing everything and "
+"everybody on their way."
+msgstr ""
+"De første øjeblikkes overraskelse blandt arbejderne blev erstattet af skræk "
+"mens hundrede af andre former brød ud af åren og ødelagde og dræbte alting "
+"på deres vej."
+
+#: ../src/intro.cpp:113
+msgid ""
+"For months, the clan fought the monsters. Only a handful of messengers sent "
+"out to warn the other clans survived."
+msgstr ""
+"I måneder kæmpede klanen mod monstrene. Kun en håndfuld budbringere der var "
+"blevet sendt ud for at advare de andre klaner, overlevede."
+
+#: ../src/intro.cpp:118
+msgid "The world of the gnomes was threatened..."
+msgstr "Gnomernes verden var truet..."
+
+#: ../src/intro.cpp:121
+msgid ""
+"By the black monsters made of carbon harder than steel, mechanical in their "
+"stupidity; but deadly."
+msgstr ""
+"Af de sorte monstre lavet af kulstof hårdere end stål, mekaniske i deres "
+"tanketomhed; men dødbringende."
+
+#: ../src/intro.cpp:125
+msgid ""
+"By the armoured monsters so well-protected that only the bed-rock was hard "
+"enough to slay them."
+msgstr ""
+"Af de rustningsklædte monstre så velbeskyttede at kun grundfjeldet var hårdt "
+"nok til at knuse dem."
+
+#: ../src/intro.cpp:129
+msgid ""
+"By the seekers, sneaky and tricky, red from the gnome blood that their "
+"spikes had spilled."
+msgstr ""
+"Af de listige søgere, røde fra det gnomblod som deres pigge havde udgydt."
+
+#: ../src/intro.cpp:133
+msgid "And by the blue egg layers that multiplied their number by thousands."
+msgstr "Og af de blå æglæggere som forøgede deres antal med tusinder."
+
+#: ../src/intro.cpp:136
+msgid ""
+"The only remaining hope of the gnomes was a humble levitation worker. He had "
+"found a way to mash the monsters against the mountain rocks."
+msgstr ""
+"Det eneste tilbageværende håb for gnomerne var en ydmyg levitationsarbejder. "
+"Han havde fundet en måde at mase monstrene mod bjergets klipper."
+
+#: ../src/intro.cpp:141
+msgid "That hope is you."
+msgstr "Det håb er dig."
+
+#: ../src/intro.cpp:143
+msgid ""
+"You must battle your way deep into the mountains, past each of the levels of "
+"the clan of the kings and clear the way for the rock summoners to block the "
+"vein."
+msgstr ""
+"Du må kæmpe dig vej dybt ind i bjergene, forbi hvert af niveauerne i "
+"kongernes klans rige og rydde vejen så klippemagerne kan blokere åren."
+
+#: ../src/intro.cpp:149
+msgid "Only then can the gnomes survive..."
+msgstr "Kun da kan gnomerne overleve..."
+
+#: ../src/main-window.cpp:72
+msgid "Monster Masher: cannot load the icon \"%1\".\n"
+msgstr "Monster Masher: kan ikke indlæse ikonet \"%1\".\n"
+
+#: ../src/main-window.cpp:158 ../src/ui.glade.h:24
+#, no-c-format
+msgid "Resurrections: %1"
+msgstr "Genoplivninger: %1"
+
+#: ../src/main-window.cpp:164 ../src/ui.glade.h:26
+#, no-c-format
+msgid "Score: %1"
+msgstr "Point: %1"
+
+#: ../src/main-window.cpp:174 ../src/ui.glade.h:18
+#, no-c-format
+msgid "Level: %1"
+msgstr "Niveau: %1"
+
+#: ../src/main-window.cpp:234
+msgid "_New game"
+msgstr "_Nyt spil"
+
+#: ../src/main-window.cpp:237
+msgid "_Introduction"
+msgstr "_Introduction"
+
+#: ../src/main-window.cpp:240
+msgid "_Preferences"
+msgstr "In_dstillinger"
+
+#: ../src/main-window.cpp:243
+msgid "_About"
+msgstr "_Om"
+
+#: ../src/main-window.cpp:246
+msgid "_Quit"
+msgstr "_Afslut"
+
+#: ../src/main-window.cpp:258
+msgid "_Resume game"
+msgstr "_Genoptag spil"
+
+#: ../src/main-window.cpp:261
+msgid "Re_start level"
+msgstr "Start _forfra på niveau"
+
+#: ../src/main-window.cpp:264
+msgid "_End game"
+msgstr "_Afslut spil"
+
+#: ../src/main-window.cpp:407
+msgid ""
+"Fast-paced monster mashing game for GNOME. Splat the monsters before they "
+"roll over you and take over the world of the gnomes!"
+msgstr ""
+"Hjertedunkende monstermosningsspil til Gnome. Splat monstrene før de ruller "
+"over dig og overtager gnomernes verden!"
+
+#: ../src/main-window.cpp:412 ../src/main.cpp:55 ../src/ui.glade.h:19
+#: ../monster-masher.desktop.in.h:2
+msgid "Monster Masher"
+msgstr "Monstermoser"
+
+#. %1 is the copyright symbol
+#: ../src/main-window.cpp:415
+#, fuzzy
+msgid "Copyright %1 2003 Ole Laursen"
+msgstr "Copyright © 2003 Ole Laursen"
+
+#. note to translators: please fill in your names and email addresses
+#: ../src/main-window.cpp:422
+msgid "translator-credits"
+msgstr "Ole Laursen <olau@hardworking.dk>"
+
+#. note to translators: resur. stands for resurrections; resurrections
+#. occur when the player is given life again after having died
+#. (the translation should preferably be short)
+#: ../src/new-game-window.cpp:170
+msgid "(resur.: %1)"
+msgstr "(genopliv.: %1)"
+
+#: ../src/persistent.cpp:160
+msgid ""
+"An error occurred while reading the file \"%1\". This may mean that the "
+"recordings of what levels you have passed are lost."
+msgstr ""
+"En fejl opstod under læsning af filen \"%1\". Dette kan betyde at "
+"oplysningerne om hvilke niveauer du har passeret, er gået tabt."
+
+#: ../src/persistent.cpp:167
+msgid "Load error"
+msgstr "Indlæsningsfejl"
+
+#: ../src/persistent.cpp:235
+msgid ""
+"An error occurred while saving the file \"%1\". This may mean that the "
+"recordings of what levels you have passed are lost."
+msgstr ""
+"En fejl opstod under gemning af filen \"%1\". Dette kan betyde at "
+"oplysningerne om hvilke niveauer du har passeret, er gået tabt."
+
+#: ../src/persistent.cpp:242
+msgid "Save error"
+msgstr "Gemningsfejl"
+
+#: ../src/ui.glade.h:1
+msgid "<b>Difficulty</b>"
+msgstr "<b>Sværhedsgrad</b>"
+
+#: ../src/ui.glade.h:2
+msgid "<b>Fullscreen</b>"
+msgstr "<b>Fuldskærm</b>"
+
+#: ../src/ui.glade.h:3
+msgid "<b>Level</b>"
+msgstr "<b>Niveau</b>"
+
+#: ../src/ui.glade.h:4
+msgid "<b>Moving</b>"
+msgstr "<b>Bevægelser</b>"
+
+#: ../src/ui.glade.h:5
+msgid "<b>Number of Players</b>"
+msgstr "<b>Antal spillere</b>"
+
+#: ../src/ui.glade.h:6
+msgid "<b>Pull block</b>"
+msgstr "<b>Træk blok</b>"
+
+#: ../src/ui.glade.h:7
+msgid "Appearance"
+msgstr "Udseende"
+
+#: ../src/ui.glade.h:8 ../monster-masher.schemas.in.h:1
+msgid "Key for activating pulling of blocks"
+msgstr "Tast for at aktivere trækning af blokke"
+
+#: ../src/ui.glade.h:9 ../monster-masher.schemas.in.h:2
+msgid "Key for moving down"
+msgstr "Tast for bevæge helt nedad"
+
+#: ../src/ui.glade.h:10 ../monster-masher.schemas.in.h:3
+msgid "Key for moving to the left"
+msgstr "Tast for bevæge helt til venstre"
+
+#: ../src/ui.glade.h:11 ../monster-masher.schemas.in.h:4
+msgid "Key for moving to the left and down"
+msgstr "Tast for bevæge helt til venstre og ned"
+
+#: ../src/ui.glade.h:12 ../monster-masher.schemas.in.h:5
+msgid "Key for moving to the left and up"
+msgstr "Tast for bevæge helt til venstre og op"
+
+#: ../src/ui.glade.h:13 ../monster-masher.schemas.in.h:6
+msgid "Key for moving to the right"
+msgstr "Tast for bevæge helt til højre"
+
+#: ../src/ui.glade.h:14 ../monster-masher.schemas.in.h:7
+msgid "Key for moving to the right and down"
+msgstr "Tast for at bevæge helt til højre og ned"
+
+#: ../src/ui.glade.h:15 ../monster-masher.schemas.in.h:8
+msgid "Key for moving to the right and up"
+msgstr "Tast for bevæge helt til højre og op"
+
+#: ../src/ui.glade.h:16 ../monster-masher.schemas.in.h:9
+msgid "Key for moving up"
+msgstr "Tast for bevæge helt opad"
+
+#: ../src/ui.glade.h:20
+msgid "Player 1 keys"
+msgstr "Taster til spiller 1"
+
+#: ../src/ui.glade.h:21
+msgid "Player 2 keys"
+msgstr "Taster til spiller 2"
+
+#: ../src/ui.glade.h:22
+msgid "Preferences"
+msgstr "Indstillinger"
+
+#: ../src/ui.glade.h:27
+msgid "Start Game"
+msgstr "Start spil"
+
+#: ../src/ui.glade.h:28
+msgid "Start at _level:"
+msgstr "Start på _niveau:"
+
+#: ../src/ui.glade.h:29
+msgid "Use _fullscreen mode"
+msgstr "Benyt _fuldskærmstilstand"
+
+#: ../src/ui.glade.h:30
+msgid "_Easy"
+msgstr "_Let"
+
+#: ../src/ui.glade.h:31
+msgid "_Hard"
+msgstr "S_vær"
+
+#: ../src/ui.glade.h:32
+msgid "_Medium"
+msgstr "_Mellem"
+
+#: ../src/ui.glade.h:33
+msgid "_One player"
+msgstr "_En spiller"
+
+#: ../src/ui.glade.h:34
+msgid "_Start"
+msgstr "_Start"
+
+#: ../src/ui.glade.h:35
+msgid "_Two players"
+msgstr "_To spillere"
+
+#: ../monster-masher.desktop.in.h:1
+msgid "Mash monsters and save the gnomes"
+msgstr "Mos monstre og red gnomerne"
+
+#: ../monster-masher.schemas.in.h:10
+msgid ""
+"The string should be the GDK name of the key value to use (can be found in "
+"gdk/gdkkeynames.c)."
+msgstr ""
+"Strengen skal være GDK-navnet for tasteværdien der skal bruges (kan findes i "
+"gdk/gdkkeynames.c)."
+
+#: ../monster-masher.schemas.in.h:11
+msgid "Use fullscreen"
+msgstr "Benyt fuldskærm"
+
+#~ msgid "        "
+#~ msgstr "        "

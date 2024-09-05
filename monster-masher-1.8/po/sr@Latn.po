@@ -1,0 +1,409 @@
+# Serbian translation of monster-masher
+# Courtesy of Prevod.org team (http://www.prevod.org/) -- 2003.
+#
+# This file is distributed under the same license as the monster-masher package.
+#
+# Maintainer: Danilo Šegan <dsegan@gmx.net>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: monster-masher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-10-09 14:35+0200\n"
+"PO-Revision-Date: 2004-09-03 18:00+0200\n"
+"Last-Translator: Danilo Segan <danilo@prevod.org>\n"
+"Language-Team: Serbian (sr) <gnom@prevod.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/game.cpp:108
+msgid "Level %1 cleared for monsters!"
+msgstr "Nivo %1 je očišćen od čudovišta!"
+
+#: ../src/game.cpp:140
+msgid "And the last hero disappeared..."
+msgstr "I poslednji junak je nestao..."
+
+#: ../src/game.cpp:151
+msgid "All levels liberated!"
+msgstr "Svi nivoi oslobođeni!"
+
+#: ../src/game.cpp:383
+msgid "Entering level %1..."
+msgstr "Ulazi na nivo %1..."
+
+#: ../src/helpers.cpp:39
+msgid "Fatal error"
+msgstr "Kobna greška"
+
+#: ../src/helpers.cpp:52
+msgid ""
+"%1. Check your installation or report the problem to the distributor if you "
+"installed from a package."
+msgstr ""
+"%1. Proverite vašu instalaciju i prijavite problem distributeru ukoliko ste "
+"instalirali pomoću pripremljenog paketa."
+
+#: ../src/intro.cpp:79
+msgid ""
+"In the old days, before man entered the world, the gnomes were abundant."
+msgstr ""
+"Nekada davno, pre nego što je čovek kročio na svet, gnoma je bilo u izobilju."
+
+#: ../src/intro.cpp:82
+msgid ""
+"Through centuries of hard labour, only slightly eased by the levitational "
+"powers provided to them by their god, they bored out shafts and caves in the "
+"mountains."
+msgstr ""
+"Kroz vekove mukotrpnog rada, jedva malo olakšan njihovim sposobnostima "
+"lebdenja koje im je podario njihov bog, kopali su rude i pećine u planinama."
+
+#: ../src/intro.cpp:88
+msgid "Always seeking the precious stones and valuable ore..."
+msgstr "Uvek u potrazi za dragocenim kamenjem i vrednim rudama..."
+
+#: ../src/intro.cpp:91
+msgid ""
+"But one clan dug deeper than the others. Only its wealth was growing quicker "
+"than its greed."
+msgstr ""
+"Međutim, jedno pleme je kopalo dublje od ostalih. Jedino je njegovo "
+"bogatstvo raslo brže od njegove pohlepe."
+
+#: ../src/intro.cpp:95
+msgid ""
+"The years went by. The chief of the clan became the king of the gnomes. "
+"Thousands of men, women and children were sent to work in the deepest, most "
+"profitable mines."
+msgstr ""
+"Godine su prolazile. Poglavica plemena je postao kralj gnoma. Hiljade i "
+"hiljade ljudi, žena i dece je poslato da rade u najdubljim, najisplativijim "
+"rudnicima."
+
+#: ../src/intro.cpp:101
+msgid "Then one day a large deposit of coal was found. Or so it was thought..."
+msgstr ""
+"A onda, jednog dana je pronađena velika količina uglja. Bar su tako isprva "
+"mislili..."
+
+#: ../src/intro.cpp:104
+msgid "From the black carbon, a strange creature rose!"
+msgstr "Iz crnog ugljenika, diglo se čudnovato stvorenje!"
+
+#: ../src/intro.cpp:107
+msgid ""
+"The first moments of surprise among the workers were replaced with horror as "
+"hundreds of other shapes broke out of the vein, crushing everything and "
+"everybody on their way."
+msgstr ""
+"Užas je zamenio početno iznenađenje među radnicima kada su stotine drugih "
+"izašle iz kopova, gazeći sve pred sobom."
+
+#: ../src/intro.cpp:113
+msgid ""
+"For months, the clan fought the monsters. Only a handful of messengers sent "
+"out to warn the other clans survived."
+msgstr ""
+"Mesecima se pleme borilo protiv čudovišta. Preživelo je jedva nekoliko "
+"glasnika poslatih da obaveste ostala plemena."
+
+#: ../src/intro.cpp:118
+msgid "The world of the gnomes was threatened..."
+msgstr "Svet gnoma je bio ugrožen..."
+
+#: ../src/intro.cpp:121
+msgid ""
+"By the black monsters made of carbon harder than steel, mechanical in their "
+"stupidity; but deadly."
+msgstr ""
+"Ugrožen od crnih čudovišta napravljenih od ugljenika jačeg od čelika, "
+"mehaničkih u njihovoj gluposti, ali ubitačnih."
+
+#: ../src/intro.cpp:125
+msgid ""
+"By the armoured monsters so well-protected that only the bed-rock was hard "
+"enough to slay them."
+msgstr ""
+"Ugrožen od oklopljenih čudovišta tako dobro zaštićenih da su jedino stene "
+"dovoljno čvrste da ih unište."
+
+#: ../src/intro.cpp:129
+msgid ""
+"By the seekers, sneaky and tricky, red from the gnome blood that their "
+"spikes had spilled."
+msgstr ""
+"Ugrožen od tragača, prikrivenih i prevrtljivih, crvenih od krvi gnoma koju "
+"su prolili njihovi ubodi."
+
+#: ../src/intro.cpp:133
+msgid "And by the blue egg layers that multiplied their number by thousands."
+msgstr ""
+"I ugroženi od plavih legača jaja koji su povećavali njihovu brojnost u "
+"hiljadama."
+
+#: ../src/intro.cpp:136
+msgid ""
+"The only remaining hope of the gnomes was a humble levitation worker. He had "
+"found a way to mash the monsters against the mountain rocks."
+msgstr ""
+"Jedina preostala nada gnomima je bio skromni lebdeći radnik. On je pronašao "
+"način da satre čudovišta o kamenite planine."
+
+#: ../src/intro.cpp:141
+msgid "That hope is you."
+msgstr "Ta nada si ti."
+
+#: ../src/intro.cpp:143
+msgid ""
+"You must battle your way deep into the mountains, past each of the levels of "
+"the clan of the kings and clear the way for the rock summoners to block the "
+"vein."
+msgstr ""
+"Morate se probiti duboko u planine, proći svaki od nivoa kraljeva plemena i "
+"osloboditi put za skupljače kamena da zatvore kopove."
+
+#: ../src/intro.cpp:149
+msgid "Only then can the gnomes survive..."
+msgstr "Jer jedino tako gnomi mogu preživeti..."
+
+#: ../src/main-window.cpp:72
+msgid "Monster Masher: cannot load the icon \"%1\".\n"
+msgstr "Sređivanje čudovišta: ne mogu da učitam ikonu „%1“.\n"
+
+#: ../src/main-window.cpp:158 ../src/ui.glade.h:24
+#, no-c-format
+msgid "Resurrections: %1"
+msgstr "Vaskrsenja: %1"
+
+#: ../src/main-window.cpp:164 ../src/ui.glade.h:26
+#, no-c-format
+msgid "Score: %1"
+msgstr "Uspeh: %1"
+
+#: ../src/main-window.cpp:174 ../src/ui.glade.h:18
+#, no-c-format
+msgid "Level: %1"
+msgstr "Nivo: %1"
+
+#: ../src/main-window.cpp:234
+msgid "_New game"
+msgstr "_Nova igra"
+
+#: ../src/main-window.cpp:237
+msgid "_Introduction"
+msgstr "_Uvod"
+
+#: ../src/main-window.cpp:240
+msgid "_Preferences"
+msgstr "_Postavke"
+
+#: ../src/main-window.cpp:243
+msgid "_About"
+msgstr "_O programu"
+
+#: ../src/main-window.cpp:246
+msgid "_Quit"
+msgstr "_Izađi"
+
+#: ../src/main-window.cpp:258
+msgid "_Resume game"
+msgstr "_Nastavi igru"
+
+#: ../src/main-window.cpp:261
+msgid "Re_start level"
+msgstr "Nivo o_d početka"
+
+#: ../src/main-window.cpp:264
+msgid "_End game"
+msgstr "_Završi igru"
+
+#: ../src/main-window.cpp:407
+msgid ""
+"Fast-paced monster mashing game for GNOME. Splat the monsters before they "
+"roll over you and take over the world of the gnomes!"
+msgstr ""
+"Brza igra sređivanja čudovišta za Gnoma. Spljeskajte čudovišta pre nego što "
+"vas savladaju i osvoje svet gnoma!"
+
+#: ../src/main-window.cpp:412 ../src/main.cpp:55 ../src/ui.glade.h:19
+#: ../monster-masher.desktop.in.h:2
+msgid "Monster Masher"
+msgstr "Sređivanje čudovišta"
+
+#. %1 is the copyright symbol
+#: ../src/main-window.cpp:415
+#, fuzzy
+msgid "Copyright %1 2003 Ole Laursen"
+msgstr "Sva prava zadržana © 2003 Ole Laursen"
+
+#. note to translators: please fill in your names and email addresses
+#: ../src/main-window.cpp:422
+msgid "translator-credits"
+msgstr ""
+"Danilo Šegan <danilo@prevod.org>\n"
+"\n"
+"Prevod.org — prevod na srpski jezik."
+
+#. note to translators: resur. stands for resurrections; resurrections
+#. occur when the player is given life again after having died
+#. (the translation should preferably be short)
+#: ../src/new-game-window.cpp:170
+msgid "(resur.: %1)"
+msgstr "(vaskrs.: %1)"
+
+#: ../src/persistent.cpp:160
+msgid ""
+"An error occurred while reading the file \"%1\". This may mean that the "
+"recordings of what levels you have passed are lost."
+msgstr ""
+"Dogodila se greška pri učitavanju datoteke „%1“. Ovo možda znači da su "
+"izgubljeni zapisi o tome koje ste nivoe prešli."
+
+#: ../src/persistent.cpp:167
+msgid "Load error"
+msgstr "Greška pri učitavanju"
+
+#: ../src/persistent.cpp:235
+msgid ""
+"An error occurred while saving the file \"%1\". This may mean that the "
+"recordings of what levels you have passed are lost."
+msgstr ""
+"Dogodila se greška pri čuvanju datoteke „%1“. Ovo možda znači da su "
+"izgubljeni zapisi o tome koje ste nivoe prešli."
+
+#: ../src/persistent.cpp:242
+msgid "Save error"
+msgstr "Greška pri čuvanju"
+
+#: ../src/ui.glade.h:1
+msgid "<b>Difficulty</b>"
+msgstr "<b>Složenost</b>"
+
+#: ../src/ui.glade.h:2
+msgid "<b>Fullscreen</b>"
+msgstr "<b>Ceo ekran</b>"
+
+#: ../src/ui.glade.h:3
+msgid "<b>Level</b>"
+msgstr "<b>Nivo</b>"
+
+#: ../src/ui.glade.h:4
+msgid "<b>Moving</b>"
+msgstr "<b>Kretanje</b>"
+
+#: ../src/ui.glade.h:5
+msgid "<b>Number of Players</b>"
+msgstr "<b>Broj igrača</b>"
+
+#: ../src/ui.glade.h:6
+msgid "<b>Pull block</b>"
+msgstr "<b>Povucite blok</b>"
+
+#: ../src/ui.glade.h:7
+msgid "Appearance"
+msgstr "Izgled"
+
+#: ../src/ui.glade.h:8 ../monster-masher.schemas.in.h:1
+msgid "Key for activating pulling of blocks"
+msgstr "Taster za povlačenje blokova"
+
+#: ../src/ui.glade.h:9 ../monster-masher.schemas.in.h:2
+msgid "Key for moving down"
+msgstr "Taster za pokret dole"
+
+#: ../src/ui.glade.h:10 ../monster-masher.schemas.in.h:3
+msgid "Key for moving to the left"
+msgstr "Taster za pokret levo"
+
+#: ../src/ui.glade.h:11 ../monster-masher.schemas.in.h:4
+msgid "Key for moving to the left and down"
+msgstr "Taster za pokret levo i desno"
+
+#: ../src/ui.glade.h:12 ../monster-masher.schemas.in.h:5
+msgid "Key for moving to the left and up"
+msgstr "Taster za pokret levo i gore"
+
+#: ../src/ui.glade.h:13 ../monster-masher.schemas.in.h:6
+msgid "Key for moving to the right"
+msgstr "Taster za pokret desno"
+
+#: ../src/ui.glade.h:14 ../monster-masher.schemas.in.h:7
+msgid "Key for moving to the right and down"
+msgstr "Taster za pokret desno i dole"
+
+#: ../src/ui.glade.h:15 ../monster-masher.schemas.in.h:8
+msgid "Key for moving to the right and up"
+msgstr "Taster za pokret desno i gore"
+
+#: ../src/ui.glade.h:16 ../monster-masher.schemas.in.h:9
+msgid "Key for moving up"
+msgstr "Taster za pokret gore"
+
+#: ../src/ui.glade.h:20
+msgid "Player 1 keys"
+msgstr "Tasteri za 1. igrača"
+
+#: ../src/ui.glade.h:21
+msgid "Player 2 keys"
+msgstr "Tasteri za 2. igrača"
+
+#: ../src/ui.glade.h:22
+msgid "Preferences"
+msgstr "Postavke"
+
+#: ../src/ui.glade.h:27
+msgid "Start Game"
+msgstr "Počni igru"
+
+#: ../src/ui.glade.h:28
+msgid "Start at _level:"
+msgstr "Počni na _nivou:"
+
+#: ../src/ui.glade.h:29
+msgid "Use _fullscreen mode"
+msgstr "Preko _celog ekrana"
+
+#: ../src/ui.glade.h:30
+msgid "_Easy"
+msgstr "_lakom"
+
+#: ../src/ui.glade.h:31
+msgid "_Hard"
+msgstr "_teškom"
+
+#: ../src/ui.glade.h:32
+msgid "_Medium"
+msgstr "_srednjem"
+
+#: ../src/ui.glade.h:33
+msgid "_One player"
+msgstr "_Jedan igrač"
+
+#: ../src/ui.glade.h:34
+msgid "_Start"
+msgstr "_Počni"
+
+#: ../src/ui.glade.h:35
+msgid "_Two players"
+msgstr "_Dva igrača"
+
+#: ../monster-masher.desktop.in.h:1
+msgid "Mash monsters and save the gnomes"
+msgstr "Sredite čudovišta i spasite gnome"
+
+#: ../monster-masher.schemas.in.h:10
+msgid ""
+"The string should be the GDK name of the key value to use (can be found in "
+"gdk/gdkkeynames.c)."
+msgstr ""
+"Niska treba da predstavlja Gdk ime za vrednost tastera (može se naći u gdk/"
+"gdkkeynames.c)."
+
+#: ../monster-masher.schemas.in.h:11
+msgid "Use fullscreen"
+msgstr "Prikaži preko celog ekrana"
+
+#~ msgid "        "
+#~ msgstr "        "

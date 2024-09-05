@@ -1,0 +1,426 @@
+# Përkthimi i mesazheve të monster-masher në shqip
+# This file is distributed under the same license as the monster-masher package.
+# Copyright (C) 2004 Free Software Foundation, Inc.
+# Laurent Dhima <laurenti@alblinux.net>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: monster-masher HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-10-09 14:35+0200\n"
+"PO-Revision-Date: 2004-09-03 15:54+0200\n"
+"Last-Translator: Laurent Dhima <laurenti@alblinux.net>\n"
+"Language-Team: Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/game.cpp:108
+msgid "Level %1 cleared for monsters!"
+msgstr "Niveli %1 u pastrua nga monsters!"
+
+#: ../src/game.cpp:140
+msgid "And the last hero disappeared..."
+msgstr "Dhe heroi i fundit u zhduk..."
+
+#: ../src/game.cpp:151
+msgid "All levels liberated!"
+msgstr "Të gjithë nivelet u liruan!"
+
+#: ../src/game.cpp:383
+msgid "Entering level %1..."
+msgstr "Duke filluar nivelin %1..."
+
+#: ../src/helpers.cpp:39
+msgid "Fatal error"
+msgstr "Gabim fatal"
+
+#: ../src/helpers.cpp:52
+msgid ""
+"%1. Check your installation or report the problem to the distributor if you "
+"installed from a package."
+msgstr ""
+"%1. Kontrollo instalimin ose raporto problemin tek shpërndarësi nëse keni "
+"instaluar nga një paketë."
+
+#: ../src/intro.cpp:79
+msgid ""
+"In the old days, before man entered the world, the gnomes were abundant."
+msgstr ""
+"Në ditët e vjetra, para se njeriu të shfaqej në botë, kishte shumë xhuxha."
+
+#: ../src/intro.cpp:82
+#, fuzzy
+msgid ""
+"Through centuries of hard labour, only slightly eased by the levitational "
+"powers provided to them by their god, they bored out shafts and caves in the "
+"mountains."
+msgstr "nga nga nga dhe në."
+
+#: ../src/intro.cpp:88
+#, fuzzy
+msgid "Always seeking the precious stones and valuable ore..."
+msgstr "Gjithmonë dhe."
+
+#: ../src/intro.cpp:91
+#, fuzzy
+msgid ""
+"But one clan dug deeper than the others. Only its wealth was growing quicker "
+"than its greed."
+msgstr "Vetëm."
+
+#: ../src/intro.cpp:95
+#, fuzzy
+msgid ""
+"The years went by. The chief of the clan became the king of the gnomes. "
+"Thousands of men, women and children were sent to work in the deepest, most "
+"profitable mines."
+msgstr "vite nga nga derr nga xhuxha nga dhe punë në."
+
+#: ../src/intro.cpp:101
+#, fuzzy
+msgid "Then one day a large deposit of coal was found. Or so it was thought..."
+msgstr "ditë a nga Or."
+
+#: ../src/intro.cpp:104
+#, fuzzy
+msgid "From the black carbon, a strange creature rose!"
+msgstr "Nga e zezë a!"
+
+#: ../src/intro.cpp:107
+#, fuzzy
+msgid ""
+"The first moments of surprise among the workers were replaced with horror as "
+"hundreds of other shapes broke out of the vein, crushing everything and "
+"everybody on their way."
+msgstr "i pari nga me nga tjetër nga dhe në."
+
+#: ../src/intro.cpp:113
+#, fuzzy
+msgid ""
+"For months, the clan fought the monsters. Only a handful of messengers sent "
+"out to warn the other clans survived."
+msgstr "muaj Vetëm a nga tjetër."
+
+#: ../src/intro.cpp:118
+#, fuzzy
+msgid "The world of the gnomes was threatened..."
+msgstr "nga xhuxha."
+
+#: ../src/intro.cpp:121
+#, fuzzy
+msgid ""
+"By the black monsters made of carbon harder than steel, mechanical in their "
+"stupidity; but deadly."
+msgstr "e zezë nga në."
+
+#: ../src/intro.cpp:125
+msgid ""
+"By the armoured monsters so well-protected that only the bed-rock was hard "
+"enough to slay them."
+msgstr ""
+
+#: ../src/intro.cpp:129
+#, fuzzy
+msgid ""
+"By the seekers, sneaky and tricky, red from the gnome blood that their "
+"spikes had spilled."
+msgstr "dhe e kuqe."
+
+#: ../src/intro.cpp:133
+#, fuzzy
+msgid "And by the blue egg layers that multiplied their number by thousands."
+msgstr "And nga blu nga."
+
+#: ../src/intro.cpp:136
+#, fuzzy
+msgid ""
+"The only remaining hope of the gnomes was a humble levitation worker. He had "
+"found a way to mash the monsters against the mountain rocks."
+msgstr "nga xhuxha a a."
+
+#: ../src/intro.cpp:141
+#, fuzzy
+msgid "That hope is you."
+msgstr "është."
+
+#: ../src/intro.cpp:143
+#, fuzzy
+msgid ""
+"You must battle your way deep into the mountains, past each of the levels of "
+"the clan of the kings and clear the way for the rock summoners to block the "
+"vein."
+msgstr "Ti nga nga nga dhe pastro për bllok."
+
+#: ../src/intro.cpp:149
+#, fuzzy
+msgid "Only then can the gnomes survive..."
+msgstr "Vetëm xhuxha."
+
+#: ../src/main-window.cpp:72
+#, fuzzy
+msgid "Monster Masher: cannot load the icon \"%1\".\n"
+msgstr "ngarkoje ikonë j"
+
+#: ../src/main-window.cpp:158 ../src/ui.glade.h:24
+#, fuzzy, no-c-format
+msgid "Resurrections: %1"
+msgstr "1"
+
+#: ../src/main-window.cpp:164 ../src/ui.glade.h:26
+#, fuzzy, no-c-format
+msgid "Score: %1"
+msgstr "Pikë"
+
+#: ../src/main-window.cpp:174 ../src/ui.glade.h:18
+#, fuzzy, no-c-format
+msgid "Level: %1"
+msgstr "Etiketa"
+
+#: ../src/main-window.cpp:234
+#, fuzzy
+msgid "_New game"
+msgstr "Lojë e _re"
+
+#: ../src/main-window.cpp:237
+msgid "_Introduction"
+msgstr ""
+
+#: ../src/main-window.cpp:240
+#, fuzzy
+msgid "_Preferences"
+msgstr "_Preferimet"
+
+#: ../src/main-window.cpp:243
+#, fuzzy
+msgid "_About"
+msgstr "_Informacione"
+
+#: ../src/main-window.cpp:246
+#, fuzzy
+msgid "_Quit"
+msgstr "_Dalja"
+
+#: ../src/main-window.cpp:258
+#, fuzzy
+msgid "_Resume game"
+msgstr "Vazhdo"
+
+#: ../src/main-window.cpp:261
+#, fuzzy
+msgid "Re_start level"
+msgstr "nisje niveli"
+
+#: ../src/main-window.cpp:264
+#, fuzzy
+msgid "_End game"
+msgstr "_Fundi i lojës"
+
+#: ../src/main-window.cpp:407
+#, fuzzy
+msgid ""
+"Fast-paced monster mashing game for GNOME. Splat the monsters before they "
+"roll over you and take over the world of the gnomes!"
+msgstr "Shpejt për GNOME përpara dhe nga xhuxha!"
+
+#: ../src/main-window.cpp:412 ../src/main.cpp:55 ../src/ui.glade.h:19
+#: ../monster-masher.desktop.in.h:2
+msgid "Monster Masher"
+msgstr ""
+
+#. %1 is the copyright symbol
+#: ../src/main-window.cpp:415
+#, fuzzy
+msgid "Copyright %1 2003 Ole Laursen"
+msgstr "Copyright"
+
+#. note to translators: please fill in your names and email addresses
+#: ../src/main-window.cpp:422
+#, fuzzy
+msgid "translator-credits"
+msgstr "Laurent Dhima <laurenti@alblinux.net>"
+
+#. note to translators: resur. stands for resurrections; resurrections
+#. occur when the player is given life again after having died
+#. (the translation should preferably be short)
+#: ../src/new-game-window.cpp:170
+msgid "(resur.: %1)"
+msgstr ""
+
+#: ../src/persistent.cpp:160
+#, fuzzy
+msgid ""
+"An error occurred while reading the file \"%1\". This may mean that the "
+"recordings of what levels you have passed are lost."
+msgstr "gabim nga."
+
+#: ../src/persistent.cpp:167
+#, fuzzy
+msgid "Load error"
+msgstr "Ngarko gabim"
+
+#: ../src/persistent.cpp:235
+#, fuzzy
+msgid ""
+"An error occurred while saving the file \"%1\". This may mean that the "
+"recordings of what levels you have passed are lost."
+msgstr "gabim nga."
+
+#: ../src/persistent.cpp:242
+#, fuzzy
+msgid "Save error"
+msgstr "Ruaj gabim"
+
+#: ../src/ui.glade.h:1
+msgid "<b>Difficulty</b>"
+msgstr ""
+
+#: ../src/ui.glade.h:2
+#, fuzzy
+msgid "<b>Fullscreen</b>"
+msgstr "<b> Ekran të plotë</b>"
+
+#: ../src/ui.glade.h:3
+#, fuzzy
+msgid "<b>Level</b>"
+msgstr "<b> Etiketa</b>"
+
+#: ../src/ui.glade.h:4
+#, fuzzy
+msgid "<b>Moving</b>"
+msgstr "<b> Duke lëvizur </b>"
+
+#: ../src/ui.glade.h:5
+#, fuzzy
+msgid "<b>Number of Players</b>"
+msgstr "<b> Numri nga</b>"
+
+#: ../src/ui.glade.h:6
+#, fuzzy
+msgid "<b>Pull block</b>"
+msgstr "<b> bllok</b>"
+
+#: ../src/ui.glade.h:7
+#, fuzzy
+msgid "Appearance"
+msgstr "Paraqitja"
+
+#: ../src/ui.glade.h:8 ../monster-masher.schemas.in.h:1
+#, fuzzy
+msgid "Key for activating pulling of blocks"
+msgstr "Kyçi për nga blloqet"
+
+#: ../src/ui.glade.h:9 ../monster-masher.schemas.in.h:2
+#, fuzzy
+msgid "Key for moving down"
+msgstr "Kyçi për poshtë"
+
+#: ../src/ui.glade.h:10 ../monster-masher.schemas.in.h:3
+#, fuzzy
+msgid "Key for moving to the left"
+msgstr "Kyçi për majtas"
+
+#: ../src/ui.glade.h:11 ../monster-masher.schemas.in.h:4
+#, fuzzy
+msgid "Key for moving to the left and down"
+msgstr "Kyçi për majtas dhe poshtë"
+
+#: ../src/ui.glade.h:12 ../monster-masher.schemas.in.h:5
+#, fuzzy
+msgid "Key for moving to the left and up"
+msgstr "Kyçi për majtas dhe sipër"
+
+#: ../src/ui.glade.h:13 ../monster-masher.schemas.in.h:6
+#, fuzzy
+msgid "Key for moving to the right"
+msgstr "Kyçi për djathtas"
+
+#: ../src/ui.glade.h:14 ../monster-masher.schemas.in.h:7
+#, fuzzy
+msgid "Key for moving to the right and down"
+msgstr "Kyçi për djathtas dhe poshtë"
+
+#: ../src/ui.glade.h:15 ../monster-masher.schemas.in.h:8
+#, fuzzy
+msgid "Key for moving to the right and up"
+msgstr "Kyçi për djathtas dhe sipër"
+
+#: ../src/ui.glade.h:16 ../monster-masher.schemas.in.h:9
+#, fuzzy
+msgid "Key for moving up"
+msgstr "Kyçi për sipër"
+
+#: ../src/ui.glade.h:20
+#, fuzzy
+msgid "Player 1 keys"
+msgstr "Lojtari"
+
+#: ../src/ui.glade.h:21
+#, fuzzy
+msgid "Player 2 keys"
+msgstr "Lojtari"
+
+#: ../src/ui.glade.h:22
+#, fuzzy
+msgid "Preferences"
+msgstr "Preferimet"
+
+#: ../src/ui.glade.h:27
+#, fuzzy
+msgid "Start Game"
+msgstr "Fillo Loja"
+
+#: ../src/ui.glade.h:28
+#, fuzzy
+msgid "Start at _level:"
+msgstr "Fillo niveli:"
+
+#: ../src/ui.glade.h:29
+#, fuzzy
+msgid "Use _fullscreen mode"
+msgstr "modaliteti"
+
+#: ../src/ui.glade.h:30
+#, fuzzy
+msgid "_Easy"
+msgstr "I Lehtë"
+
+#: ../src/ui.glade.h:31
+#, fuzzy
+msgid "_Hard"
+msgstr "Vështirë"
+
+#: ../src/ui.glade.h:32
+#, fuzzy
+msgid "_Medium"
+msgstr "_Mesatar"
+
+#: ../src/ui.glade.h:33
+#, fuzzy
+msgid "_One player"
+msgstr "Një"
+
+#: ../src/ui.glade.h:34
+#, fuzzy
+msgid "_Start"
+msgstr "_Nisja"
+
+#: ../src/ui.glade.h:35
+msgid "_Two players"
+msgstr ""
+
+#: ../monster-masher.desktop.in.h:1
+#, fuzzy
+msgid "Mash monsters and save the gnomes"
+msgstr "dhe ruaj xhuxha"
+
+#: ../monster-masher.schemas.in.h:10
+#, fuzzy
+msgid ""
+"The string should be the GDK name of the key value to use (can be found in "
+"gdk/gdkkeynames.c)."
+msgstr "emri nga në."
+
+#: ../monster-masher.schemas.in.h:11
+msgid "Use fullscreen"
+msgstr ""

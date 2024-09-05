@@ -1,0 +1,31 @@
+Gameplay:
+
+* Too many monsters make one explode and kill the adjacent ones plus
+   any walls?
+
+Sounds:
+
+* Hero is killed
+
+* Gem taken (explosion, freezing, invisibility)
+
+* Egg crackles
+
+* Additional resurrection granted
+
+* Foot steps
+
+GUI:
+
+* Fix the resurrection string in new game window - it causes the
+   window to resize
+
+* Add help
+
+* Add "Revert to factory settings" button to preferences
+
+Graphics:
+   
+* Feedback for gems
+
+   - Explode: expanding wave?

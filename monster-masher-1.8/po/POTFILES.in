@@ -1,0 +1,12 @@
+src/game.cpp
+src/helpers.cpp
+src/intro.cpp
+src/main-window.cpp
+src/main.cpp
+src/new-game-window.cpp
+src/persistent.cpp
+src/preferences-window.cpp
+src/ui.glade
+
+monster-masher.desktop.in
+monster-masher.schemas.in

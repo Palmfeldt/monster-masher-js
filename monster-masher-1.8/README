@@ -1,0 +1,87 @@
+Monster Masher
+--------------
+
+Monster Masher is an action game for Gnome. The gnome world is falling
+apart from the attack of the evil mineral monsters, and you, a humble
+levitation worker, is the only remaining hope for the gnomes. The goal
+is to mash all monsters to clear the road for the rock summoners to
+block the monsters' entrance to the gnome world.
+
+The homepage (with screenshots and more information) is:
+
+  http://www.cs.aau.dk/~olau/monster-masher/
+
+The game is licensed under the GNU GPL.
+
+
+Requirements
+------------
+
+You need a modern Gnome desktop (i.e. at least Gnome 2.6) with the
+related libraries and the C++ wrappers for GTK+ and Gnome libraries,
+gtkmm, libgnomecanvasmm, gconfmm and libglademm. These can be fetched
+from http://www.gtkmm.org, or are alternatively probably available as
+packages from your distributor.
+
+
+How to play
+-----------
+
+At each level, there are a number of rounded blocks which can be
+pushed around. There are also some wall squares (blocks in another
+color) which are fixed; they are the bedrock. When a monster is
+between two blocks, pushing one of the blocks so that it hits the
+other causes the monster to be mashed. The armoured monsters require
+the other block to be the bedrock.
+
+By pressing the pull key you can also pull a single block, provided
+there are no monsters around it. You are not allowed to both push
+blocks and pull one at the same time, though.
+
+At the first levels, there are only the ordinary black monsters (the
+scouting troops). At the deeper levels, you will encounter other types
+of monsters. If you fight your way deep enough, you will even meet the
+egg layers. The eggs themselves are not dangerous and can easily be
+squashed by pushing blocks over them. However, linger for too long and
+the eggs will crackle...
+
+Mashing monsters and passing levels earns you points. For each 50
+points you earn, the god of the gnomes (it is the same guy who gives
+you your magical levitational powers) will grant you one more
+resurrection of your life. The red gems are full of holy anger and
+will kill all monsters near them when picked up, whereas the blue gems
+possess divine cold and freeze all monsters for a short period of
+time. The pink gems, the gems of love, make you invisible so you can
+see to your affairs untested.
+
+
+Some tips for how to reach the deepest level (level 30):
+
+  - Be very careful when entering a new level; the monsters are
+    scattered and it is difficult to escape.
+
+  - Try to build "castles" by placing the blocks in rows with the
+    monsters on one side and you on the other; then you can diminish
+    the space for the monsters untested by gradually enlarging the
+    castle.
+  
+  - Learn how to control the hero well; diagonal pushes are often good
+    for safely enlarging castles.
+
+  - Beware of the red seeker monsters; if there is a hole in your
+    defence, they will find it.
+
+  - Appreciate the usefulness of pulling, sometimes a true monster
+    trap can be maintained by pushing and pulling the same block
+    repeatedly.
+
+
+Contact
+-------
+
+Report bugs and suggestions to the maintainer:
+
+  $ cat MAINTAINERS
+
+If you enjoyed playing the game, he would very much like to hear about
+it!

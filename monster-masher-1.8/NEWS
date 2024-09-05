@@ -1,0 +1,79 @@
+Version 1.8 (October 10 2005)
+-----------------------------
+
+Take advantage of new API in gtkmm 2.6 to avoid dependency on
+libgnomeuimm and libgnomemm. Lots of updated translation.
+
+
+Version 1.7 (July 6 2004)
+-------------------------
+
+Ported to gtkmm 2.4. Fixed a crash that occurs on certain locales.
+
+
+Version 1.6.1 (May 28 2004)
+---------------------------
+
+Fixed a stupid bug where "splash.png" was used instead of
+"splash.jpg".
+
+
+Version 1.6 (May 27 2004)
+-------------------------
+
+Added a splash background image for the menus and the introduction.
+Fixed a long-standing bug where two monsters could occupy the same
+tile. Fixed an anti-aliasing bug with GTK+ 2.4. Revised Portuguese
+translation.
+
+
+Version 1.5.2 (April 22 2004)
+-----------------------------
+
+Regenerated the intltool files. It seems they were broken.
+
+
+Version 1.5.1 (April 17 2004)
+-----------------------------
+
+Some bugfixes. New and updated translations.
+
+
+Version 1.5 (January 7 2004)
+----------------------------
+
+Support for fullscreen mode has been added and is now the default. The
+point power-up has been replaced with a much more funny invisibility
+power-up. Some bugfixes. New and updated translations.
+
+
+Version 1.4 (November 4 2003)
+-----------------------------
+
+Added much neater block movement animation (on blocks instead of the
+player). Added support for multiple tile sizes. Tiles of size 32x32
+may now be choosed (instead of 24x24) automatically based on the
+screen size. Cleaned up some of the code.
+
+
+Version 1.3 (September 25 2003)
+-------------------------------
+
+Improved the look of the power-ups. Improved handling of freeze bonus
+and added special effect to frozen monsters. Fixed the menus to don't
+require Alt + key. Rendered an icon and made the various windows use
+it. New and updated translations.
+
+
+Version 1.2 (August 27 2003)
+----------------------------
+
+Fixed a couple of minor bugs. Added a new sound for when a block hits
+a wall or another block.
+
+
+Version 1.1 (August 24 2003)
+----------------------------
+
+Minor code cleanup and some other fixes. Should build without
+implicitly needing Bonobo-stuff.

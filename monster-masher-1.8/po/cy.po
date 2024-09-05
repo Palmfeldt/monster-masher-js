@@ -1,0 +1,406 @@
+# monster-masher yn Gymraeg.
+# This file is distributed under the same license as the monster-masher
+# package.
+# Dafydd Harries <daf@parnassus.ath.cx>, 2003.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: monster-masher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-10-09 14:35+0200\n"
+"PO-Revision-Date: 2003-09-20 20:09+0100\n"
+"Last-Translator: Dafydd Harries <daf@parnassus.ath.cx>\n"
+"Language-Team: Cymraeg <gnome-cy@pengwyn.linux.org.uk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/game.cpp:108
+msgid "Level %1 cleared for monsters!"
+msgstr "Lefel %1 yn glîr o fwystfilod!"
+
+#: ../src/game.cpp:140
+msgid "And the last hero disappeared..."
+msgstr "A diflannodd yr arwr olaf..."
+
+#: ../src/game.cpp:151
+msgid "All levels liberated!"
+msgstr "Rhyddhawyd pob lefel!"
+
+#: ../src/game.cpp:383
+msgid "Entering level %1..."
+msgstr "Yn mynd i fewn i lefel %1..."
+
+#: ../src/helpers.cpp:39
+msgid "Fatal error"
+msgstr "Gwall farwol"
+
+#: ../src/helpers.cpp:52
+msgid ""
+"%1. Check your installation or report the problem to the distributor if you "
+"installed from a package."
+msgstr ""
+"%1, Gwiriwch eich ymsefydliad neu adroddwch y broblem i'r darparwr os "
+"ymsefydloch o becyn."
+
+#: ../src/intro.cpp:79
+msgid ""
+"In the old days, before man entered the world, the gnomes were abundant."
+msgstr ""
+"Yn yr hen ddyddiau, cyn daeth dyn i'r byd, roedd y corrachod yn niferus."
+
+#: ../src/intro.cpp:82
+msgid ""
+"Through centuries of hard labour, only slightly eased by the levitational "
+"powers provided to them by their god, they bored out shafts and caves in the "
+"mountains."
+msgstr ""
+"Drwy ganrifoedd o waith caled, wedi eu cynorthwyo ond ychydig gan y pŵerau "
+"ymddyrchafol a rhoddwyd iddynt gan eu duw, fe balon nhw siaftau ac ogofâu yn "
+"y mynyddoedd."
+
+#: ../src/intro.cpp:88
+msgid "Always seeking the precious stones and valuable ore..."
+msgstr "O hyd yn chwilio am y gemau a'r mwyni gwerthfawr..."
+
+#: ../src/intro.cpp:91
+msgid ""
+"But one clan dug deeper than the others. Only its wealth was growing quicker "
+"than its greed."
+msgstr ""
+"Ond fe balodd un llwyth un ddyfnach na'r lleill. Dim ond ei gyfoeth oedd yn "
+"tyfu'n gyflymach na'i drachwant."
+
+#: ../src/intro.cpp:95
+msgid ""
+"The years went by. The chief of the clan became the king of the gnomes. "
+"Thousands of men, women and children were sent to work in the deepest, most "
+"profitable mines."
+msgstr ""
+"Fe aeth y blynyddoedd heibio. Fe ddaeth pen y llwyth yn frenin y corrachod. "
+"Danfonwyd miloedd o ddynion, menywod a phlat i weithrio yn y cloddiau "
+"dyfnaf, mwyaf gwerthfawr."
+
+#: ../src/intro.cpp:101
+msgid "Then one day a large deposit of coal was found. Or so it was thought..."
+msgstr "Yna, un diwrnod, canfuwyd cramen fawr o lo. Neu felly myddyliwyd..."
+
+#: ../src/intro.cpp:104
+msgid "From the black carbon, a strange creature rose!"
+msgstr "O'r carbon du, cododd greadur rhyfedd!"
+
+#: ../src/intro.cpp:107
+msgid ""
+"The first moments of surprise among the workers were replaced with horror as "
+"hundreds of other shapes broke out of the vein, crushing everything and "
+"everybody on their way."
+msgstr ""
+"Newidodd y momentau cyntaf o syfrdan i arswyd ymysg y gweithwyr wrth i "
+"gannoedd o siapau eraill ymddangos o'r wythïen, yn mathru pawb a phopeth yn "
+"eu ffordd."
+
+#: ../src/intro.cpp:113
+msgid ""
+"For months, the clan fought the monsters. Only a handful of messengers sent "
+"out to warn the other clans survived."
+msgstr ""
+"Am fisoedd, ymladdodd y llwyth y bwystfilod. Dim ond llond dyrnaid o "
+"negeswyr a ddanfonwyd i rhybuddio'r llwythi eraill a oroesodd."
+
+#: ../src/intro.cpp:118
+#, fuzzy
+msgid "The world of the gnomes was threatened..."
+msgstr "Bygythwyd byd y corrachod."
+
+#: ../src/intro.cpp:121
+msgid ""
+"By the black monsters made of carbon harder than steel, mechanical in their "
+"stupidity; but deadly."
+msgstr ""
+"Gan y bwystfilod duon o garbon caletach na dur, yn fecanyddol yn eu twpdra; "
+"ond yn farwol."
+
+#: ../src/intro.cpp:125
+msgid ""
+"By the armoured monsters so well-protected that only the bed-rock was hard "
+"enough to slay them."
+msgstr ""
+"Gan y bwystfilod arfogedig wedi ei amddiffyn mor dda mai dim ond y craigwely "
+"oedd ddigon caled i'w llad."
+
+#: ../src/intro.cpp:129
+msgid ""
+"By the seekers, sneaky and tricky, red from the gnome blood that their "
+"spikes had spilled."
+msgstr ""
+"Gan y chwilwyr, cyfrwys a slei, yn goch o waed  y corrachod roedd eu pigau "
+"wedi sarnu."
+
+#: ../src/intro.cpp:133
+msgid "And by the blue egg layers that multiplied their number by thousands."
+msgstr "A gan y dodwyr wyau glas a luosodd eu rhifau gan filoedd."
+
+#: ../src/intro.cpp:136
+msgid ""
+"The only remaining hope of the gnomes was a humble levitation worker. He had "
+"found a way to mash the monsters against the mountain rocks."
+msgstr ""
+"Yr unig obaith oedd gan y corrachod ar ôl oedd gweithwr ymddyrchafu "
+"diymhongar. Roedd e wedi darganfod fforff o falu'r bwystfilod yn erbyn "
+"creigiau'r mynydd."
+
+#: ../src/intro.cpp:141
+msgid "That hope is you."
+msgstr "Chi yw'r gobaith hwnnw."
+
+#: ../src/intro.cpp:143
+msgid ""
+"You must battle your way deep into the mountains, past each of the levels of "
+"the clan of the kings and clear the way for the rock summoners to block the "
+"vein."
+msgstr ""
+"Mae'n rhaid i chi ymladd eich ffordd yn ddwfn i fewn i'r mynyddoedd, heibio "
+"pob un o lefelau llwyth y brenhinoedd a chlirio'r ffordd i'r gwyswyr craig "
+"flocio'r wythïen."
+
+#: ../src/intro.cpp:149
+msgid "Only then can the gnomes survive..."
+msgstr "Dim ond felly all y corrachod oroesi..."
+
+#: ../src/main-window.cpp:72
+msgid "Monster Masher: cannot load the icon \"%1\".\n"
+msgstr "Monster Masher: ni ellir llwytho'r eicon \"%1\".\n"
+
+#: ../src/main-window.cpp:158 ../src/ui.glade.h:24
+#, no-c-format
+msgid "Resurrections: %1"
+msgstr "Atgyfodiadau: %1"
+
+#: ../src/main-window.cpp:164 ../src/ui.glade.h:26
+#, no-c-format
+msgid "Score: %1"
+msgstr "Sgôr: %1"
+
+#: ../src/main-window.cpp:174 ../src/ui.glade.h:18
+#, no-c-format
+msgid "Level: %1"
+msgstr "Lefel: %1"
+
+#: ../src/main-window.cpp:234
+msgid "_New game"
+msgstr "Gêm _newydd"
+
+#: ../src/main-window.cpp:237
+msgid "_Introduction"
+msgstr "_Cyflwyniad"
+
+#: ../src/main-window.cpp:240
+msgid "_Preferences"
+msgstr "_Hoffterau"
+
+#: ../src/main-window.cpp:243
+msgid "_About"
+msgstr "_Ynghylch"
+
+#: ../src/main-window.cpp:246
+msgid "_Quit"
+msgstr "_Gadael"
+
+#: ../src/main-window.cpp:258
+msgid "_Resume game"
+msgstr "_Adfer y gêm"
+
+#: ../src/main-window.cpp:261
+msgid "Re_start level"
+msgstr "Ail_gychwyn y lefel"
+
+#: ../src/main-window.cpp:264
+msgid "_End game"
+msgstr "_Gorffen y gêm"
+
+#: ../src/main-window.cpp:407
+msgid ""
+"Fast-paced monster mashing game for GNOME. Splat the monsters before they "
+"roll over you and take over the world of the gnomes!"
+msgstr ""
+"Gêm malu bwystfilod cyflym ar gyfer GNOME. Sblatio'r bwystfilod cyn eu bod "
+"nhw rholio drostoch chi a cymryd drosodd byd y corrachod!"
+
+#: ../src/main-window.cpp:412 ../src/main.cpp:55 ../src/ui.glade.h:19
+#: ../monster-masher.desktop.in.h:2
+msgid "Monster Masher"
+msgstr "Mathrwr Bwystfilod"
+
+#. %1 is the copyright symbol
+#: ../src/main-window.cpp:415
+#, fuzzy
+msgid "Copyright %1 2003 Ole Laursen"
+msgstr "Hawlfraint (c) 2003 Ole Laursen"
+
+#. note to translators: please fill in your names and email addresses
+#: ../src/main-window.cpp:422
+msgid "translator-credits"
+msgstr "Dafydd Harries <daf@parnassus.ath.cx>"
+
+#. note to translators: resur. stands for resurrections; resurrections
+#. occur when the player is given life again after having died
+#. (the translation should preferably be short)
+#: ../src/new-game-window.cpp:170
+msgid "(resur.: %1)"
+msgstr "(atgyfodiadau: %1)"
+
+#: ../src/persistent.cpp:160
+msgid ""
+"An error occurred while reading the file \"%1\". This may mean that the "
+"recordings of what levels you have passed are lost."
+msgstr ""
+"Digwyddod gwall wrth ddarllen y ffeil \"%1\". Fe all hyn olygu fod y cofnod "
+"o ba lefelau rydych chi wedi eu pasio wedi eu colli."
+
+#: ../src/persistent.cpp:167
+msgid "Load error"
+msgstr "Gwall llwytho"
+
+#: ../src/persistent.cpp:235
+msgid ""
+"An error occurred while saving the file \"%1\". This may mean that the "
+"recordings of what levels you have passed are lost."
+msgstr ""
+"Digwyddod gwall wrth gadw'r ffeil \"%1\". Fe all hyn olygu fod y cofnod o ba "
+"lefelau rydych chi wedi pasio wedi eu colli."
+
+#: ../src/persistent.cpp:242
+msgid "Save error"
+msgstr "Gwall cadw"
+
+#: ../src/ui.glade.h:1
+msgid "<b>Difficulty</b>"
+msgstr "<b>Anhawster</b>"
+
+#: ../src/ui.glade.h:2
+#, fuzzy
+msgid "<b>Fullscreen</b>"
+msgstr "<b>Tynnu bloc</b>"
+
+#: ../src/ui.glade.h:3
+msgid "<b>Level</b>"
+msgstr "<b>Lefel</b>"
+
+#: ../src/ui.glade.h:4
+msgid "<b>Moving</b>"
+msgstr "<b>Symud</b>"
+
+#: ../src/ui.glade.h:5
+msgid "<b>Number of Players</b>"
+msgstr "<b>Nifer o Chwaraewyr</b>"
+
+#: ../src/ui.glade.h:6
+msgid "<b>Pull block</b>"
+msgstr "<b>Tynnu bloc</b>"
+
+#: ../src/ui.glade.h:7
+msgid "Appearance"
+msgstr ""
+
+#: ../src/ui.glade.h:8 ../monster-masher.schemas.in.h:1
+msgid "Key for activating pulling of blocks"
+msgstr "Y bysell ar gyfer gweithredu tynnu blociau"
+
+#: ../src/ui.glade.h:9 ../monster-masher.schemas.in.h:2
+msgid "Key for moving down"
+msgstr "Y bysell ar gyfer symud i lawr"
+
+#: ../src/ui.glade.h:10 ../monster-masher.schemas.in.h:3
+msgid "Key for moving to the left"
+msgstr "Y bysell ar gyfer symud i'r chiwth"
+
+#: ../src/ui.glade.h:11 ../monster-masher.schemas.in.h:4
+msgid "Key for moving to the left and down"
+msgstr "Y bysell ar gyfer sumud i'r chwith ac i lawr"
+
+#: ../src/ui.glade.h:12 ../monster-masher.schemas.in.h:5
+msgid "Key for moving to the left and up"
+msgstr "Y bysell ar gyfer symud i'r chwith ac i fyny"
+
+#: ../src/ui.glade.h:13 ../monster-masher.schemas.in.h:6
+msgid "Key for moving to the right"
+msgstr "Y bysell ar gyfer symud i'r dde"
+
+#: ../src/ui.glade.h:14 ../monster-masher.schemas.in.h:7
+msgid "Key for moving to the right and down"
+msgstr "Y bysell ar gyfer sumud i'r dde ac i lawr"
+
+#: ../src/ui.glade.h:15 ../monster-masher.schemas.in.h:8
+msgid "Key for moving to the right and up"
+msgstr "Y bysell ar gyfer symud i'r dde ac i fyny"
+
+#: ../src/ui.glade.h:16 ../monster-masher.schemas.in.h:9
+msgid "Key for moving up"
+msgstr "Y bysell ar gyfer sumud i fyny"
+
+#: ../src/ui.glade.h:20
+msgid "Player 1 keys"
+msgstr "Bysellau Chwaraewr 1"
+
+#: ../src/ui.glade.h:21
+msgid "Player 2 keys"
+msgstr "Bysellau Chwaraewr 2"
+
+#: ../src/ui.glade.h:22
+msgid "Preferences"
+msgstr "Hoffterau"
+
+#: ../src/ui.glade.h:27
+msgid "Start Game"
+msgstr "Cychwyn Gêm"
+
+#: ../src/ui.glade.h:28
+msgid "Start at _level:"
+msgstr "Cychwyn ar _lefel:"
+
+#: ../src/ui.glade.h:29
+msgid "Use _fullscreen mode"
+msgstr ""
+
+#: ../src/ui.glade.h:30
+msgid "_Easy"
+msgstr "_Hawdd"
+
+#: ../src/ui.glade.h:31
+msgid "_Hard"
+msgstr "_Caled"
+
+#: ../src/ui.glade.h:32
+msgid "_Medium"
+msgstr "C_anolig"
+
+#: ../src/ui.glade.h:33
+msgid "_One player"
+msgstr "_Un chwaraewr"
+
+#: ../src/ui.glade.h:34
+msgid "_Start"
+msgstr "_Cychwyn"
+
+#: ../src/ui.glade.h:35
+msgid "_Two players"
+msgstr "_Dau chwaraewr"
+
+#: ../monster-masher.desktop.in.h:1
+msgid "Mash monsters and save the gnomes"
+msgstr "Malu bwystfilod ac arbed y corrachod"
+
+#: ../monster-masher.schemas.in.h:10
+msgid ""
+"The string should be the GDK name of the key value to use (can be found in "
+"gdk/gdkkeynames.c)."
+msgstr ""
+"Dylai'r bysell fod yn enw GDK y gwerth bysell i'w ddefnyddio (gellir eu "
+"canfod yn gdk/gdkkeynames.c)."
+
+#: ../monster-masher.schemas.in.h:11
+msgid "Use fullscreen"
+msgstr ""
+
+#~ msgid "        "
+#~ msgstr "        "

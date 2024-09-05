@@ -1,0 +1,407 @@
+# Georgian translation of monster-masher.
+# Copyright (C) 2004 Aiet Kolkhi
+# This file is distributed under the same license as the monster-masher package.
+# Aiet Kolkhi <aiet@qartuli.net>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-10-09 14:35+0200\n"
+"PO-Revision-Date: 2004-05-18 00:51+0400\n"
+"Last-Translator: Aiet Kolkhi <aiet@qartuli.net>\n"
+"Language-Team: Georgian <aiet@qartuli.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/game.cpp:108
+msgid "Level %1 cleared for monsters!"
+msgstr "დონე %1 მონსტრებისაგან გათავისუფლდა!"
+
+#: ../src/game.cpp:140
+msgid "And the last hero disappeared..."
+msgstr "და ბოლო გმირიც გაუჩინარდა..."
+
+#: ../src/game.cpp:151
+msgid "All levels liberated!"
+msgstr "ყველა დონე გაიწმინდა!"
+
+#: ../src/game.cpp:383
+msgid "Entering level %1..."
+msgstr "შევდივარ დონე %1-ზე..."
+
+#: ../src/helpers.cpp:39
+msgid "Fatal error"
+msgstr "გამოუსწორებელი შეცდომა"
+
+#: ../src/helpers.cpp:52
+msgid ""
+"%1. Check your installation or report the problem to the distributor if you "
+"installed from a package."
+msgstr ""
+"%1. გადაამოწმეთ ინსტალაცია, ან შეატყობინეთ პრობლემა დისტრიბუტორს, თუ "
+"პაკეტისაგან მოახდინეთ ინსტალირება."
+
+#: ../src/intro.cpp:79
+msgid ""
+"In the old days, before man entered the world, the gnomes were abundant."
+msgstr ""
+"უხსოვარ დროს, სანამ ადამიანი დედამიწაზე ფეხს დადგამდა, იქ გნომები სახლობდნენ."
+
+#: ../src/intro.cpp:82
+msgid ""
+"Through centuries of hard labour, only slightly eased by the levitational "
+"powers provided to them by their god, they bored out shafts and caves in the "
+"mountains."
+msgstr ""
+"საუკუნეების განმავლობაში მძიმე მუშაობით, რომელსაც მხოლოდ მათი ღმერთის მიერ "
+"მინიჭებული ფრენის ნიჭი თუ ამსუბუქებდა, ისინი თხრიდნენ მთებსა და "
+"გამოქვაბულებს."
+
+#: ../src/intro.cpp:88
+msgid "Always seeking the precious stones and valuable ore..."
+msgstr "და გულდასმით ეძებდნენ ძვირფას ქვებსა და მადანს..."
+
+#: ../src/intro.cpp:91
+msgid ""
+"But one clan dug deeper than the others. Only its wealth was growing quicker "
+"than its greed."
+msgstr ""
+"მაგრამ ერთმა კლანმა მოახერხა და სხვებზე უფრო ღრმად ამოთხარა. მათი სიმდიდრეც "
+"თვალის დახამხამებაში გაიზარდა, მაგრამ ამან მათი სიხარბე არ დააკმაყოფილა და "
+"ისინი მუხჩაუხრელად განაგრძობდნენ შრომას."
+
+#: ../src/intro.cpp:95
+msgid ""
+"The years went by. The chief of the clan became the king of the gnomes. "
+"Thousands of men, women and children were sent to work in the deepest, most "
+"profitable mines."
+msgstr ""
+"ჩაიარა წლებმა. კლანის მეთაური გნომთა მეფე გახდა. ათასობით კაცი, ქალი და "
+"ბავშვი იგზავნებოდა ყველაზე ღრმა, შორეულ მაგრამ მომგებიან საბადოებში სამუშაოდ."
+
+#: ../src/intro.cpp:101
+msgid "Then one day a large deposit of coal was found. Or so it was thought..."
+msgstr ""
+"ერთ დღესაც დიდი ნახშირის ზოდი აღმოაჩინეს. ყოველ შემთხვევაში გნომებმა ასე "
+"ჩათვალეს..."
+
+#: ../src/intro.cpp:104
+#, fuzzy
+msgid "From the black carbon, a strange creature rose!"
+msgstr "შავი ნახშირბადიდან კი უცნაური არსება ამოხტა!"
+
+#: ../src/intro.cpp:107
+#, fuzzy
+msgid ""
+"The first moments of surprise among the workers were replaced with horror as "
+"hundreds of other shapes broke out of the vein, crushing everything and "
+"everybody on their way."
+msgstr ""
+"მუშებმა განცვიფრებისაგან პირი დააღეს, მაგრამ გაკვირვება შიშით ტერორით "
+"შეეცვალათ. ზვინიდან უთვალავი სხეული ამოფრინდა და ყველას დაერია."
+
+#: ../src/intro.cpp:113
+msgid ""
+"For months, the clan fought the monsters. Only a handful of messengers sent "
+"out to warn the other clans survived."
+msgstr ""
+"თვეების განმავლობაში, კლანი შეუპოვრად ებრძოდა მონსტრებს. სამწუხაროდ მხოლოდ "
+"რამდენიმე შიკრიკი გადარჩა, რომლებმაც მოახერხეს და საშინელების შესახებ სხვა "
+"კლანებს შეატყობინეს."
+
+#: ../src/intro.cpp:118
+#, fuzzy
+msgid "The world of the gnomes was threatened..."
+msgstr "დადგა გნომების ყოფნა-არყოფნის საკითხი. მათ არსებობას წინ აღუდგნენ..."
+
+#: ../src/intro.cpp:121
+msgid ""
+"By the black monsters made of carbon harder than steel, mechanical in their "
+"stupidity; but deadly."
+msgstr ""
+"შავი მონსტრები, რომლებიც ნახშირბადისაგან იყვნენ შექმნილები. ისინი მართალია "
+"დიდი გამჭრიახობით და ენამოსწრებულობით არ გამოირჩეოდნენ, მაგრამ ნამდვილი "
+"ქილერები გახლდნენ."
+
+#: ../src/intro.cpp:125
+msgid ""
+"By the armoured monsters so well-protected that only the bed-rock was hard "
+"enough to slay them."
+msgstr ""
+"ასევე ჯავშნიანი მონსტრები, როემლთა განგმირვა მხოლოდ სალი კლდის ნატეხით იყო "
+"შესაძლებელი."
+
+#: ../src/intro.cpp:129
+msgid ""
+"By the seekers, sneaky and tricky, red from the gnome blood that their "
+"spikes had spilled."
+msgstr "ასვე მოუხელთებელი, სისხლისფერი სიქერები."
+
+#: ../src/intro.cpp:133
+msgid "And by the blue egg layers that multiplied their number by thousands."
+msgstr "ასევე ლურჯი კვერცხის მდებელები, რომლებიც ათასობით მრავდებოდნენ."
+
+#: ../src/intro.cpp:136
+msgid ""
+"The only remaining hope of the gnomes was a humble levitation worker. He had "
+"found a way to mash the monsters against the mountain rocks."
+msgstr ""
+"გნომებს ერთადერთი იმედიღა დარჩათ - უცნობი მფრინავი. მან გამონახა მონსტრების "
+"დამარცხების გზა: იგი მონსტრებს სალ კლდეზე მინარცხებით მუსრავდა."
+
+#: ../src/intro.cpp:141
+msgid "That hope is you."
+msgstr "ეს იმედი თქვენ ხართ!"
+
+#: ../src/intro.cpp:143
+msgid ""
+"You must battle your way deep into the mountains, past each of the levels of "
+"the clan of the kings and clear the way for the rock summoners to block the "
+"vein."
+msgstr ""
+"თქვენ უნდა შეხვიდეთ მთებში, ბრძოლით გაიკაფოთ გზა, გაწმინდოთ ყოველი დონე "
+"მეფეთა კლანებისაგან და გზა გაუხსნათ დანარჩენ მებრძოლებს."
+
+#: ../src/intro.cpp:149
+msgid "Only then can the gnomes survive..."
+msgstr "მხოლოდ ესღა თუ გადაარჩენ გნომებს..."
+
+#: ../src/main-window.cpp:72
+msgid "Monster Masher: cannot load the icon \"%1\".\n"
+msgstr "Monster Masher: ვერ ვიძახებ სურათს \"%1\".\n"
+
+#: ../src/main-window.cpp:158 ../src/ui.glade.h:24
+#, no-c-format
+msgid "Resurrections: %1"
+msgstr "სიცოხლე: %1"
+
+#: ../src/main-window.cpp:164 ../src/ui.glade.h:26
+#, no-c-format
+msgid "Score: %1"
+msgstr "ქულა: %1"
+
+#: ../src/main-window.cpp:174 ../src/ui.glade.h:18
+#, no-c-format
+msgid "Level: %1"
+msgstr "დონე: %1"
+
+#: ../src/main-window.cpp:234
+msgid "_New game"
+msgstr "_ახალი თამაში"
+
+#: ../src/main-window.cpp:237
+msgid "_Introduction"
+msgstr "_შესავალი"
+
+#: ../src/main-window.cpp:240
+msgid "_Preferences"
+msgstr "_პარამეტრები"
+
+#: ../src/main-window.cpp:243
+msgid "_About"
+msgstr "_შესახებ"
+
+#: ../src/main-window.cpp:246
+msgid "_Quit"
+msgstr "_დამთავრება"
+
+#: ../src/main-window.cpp:258
+msgid "_Resume game"
+msgstr "_თამაშის გაგრძელება"
+
+#: ../src/main-window.cpp:261
+msgid "Re_start level"
+msgstr "დონის თ_ავიდან დაწყება"
+
+#: ../src/main-window.cpp:264
+msgid "_End game"
+msgstr "თამაშის _დასრულება"
+
+#: ../src/main-window.cpp:407
+msgid ""
+"Fast-paced monster mashing game for GNOME. Splat the monsters before they "
+"roll over you and take over the world of the gnomes!"
+msgstr ""
+"მძაფრსიუჟეტიანი მონსტრების მმუსვრელი თამაში GNOME–სათვის. გაანადგურეთ "
+"მონსტრები, სანამ ისინი დაეპატრონებოდნენ გნომთა სამყაროს!"
+
+#: ../src/main-window.cpp:412 ../src/main.cpp:55 ../src/ui.glade.h:19
+#: ../monster-masher.desktop.in.h:2
+msgid "Monster Masher"
+msgstr "Monster Masher – მონსტრთა მმუსვრელი"
+
+#. %1 is the copyright symbol
+#: ../src/main-window.cpp:415
+#, fuzzy
+msgid "Copyright %1 2003 Ole Laursen"
+msgstr "საავტორო უფლებები (c) 2003 ოლე ლორსენ (Ole Laursen)"
+
+#  add documenters here
+#  note to translators: please fill in your names and email addresses
+#. note to translators: please fill in your names and email addresses
+#: ../src/main-window.cpp:422
+msgid "translator-credits"
+msgstr ""
+"ქართული თარგმანი: აიეტ კოლხი <aiet@qartuli.com>   http://aiet.qartuli.net"
+
+#. note to translators: resur. stands for resurrections; resurrections
+#. occur when the player is given life again after having died
+#. (the translation should preferably be short)
+#: ../src/new-game-window.cpp:170
+msgid "(resur.: %1)"
+msgstr "(სიცოც.: %1)"
+
+#: ../src/persistent.cpp:160
+msgid ""
+"An error occurred while reading the file \"%1\". This may mean that the "
+"recordings of what levels you have passed are lost."
+msgstr ""
+"შეცდომა ფაილ \"%1\"-ის გამოძახებისას. ეს შესაძლოა ნიშნავდეს, რომ თქვენს მიერ "
+"დამახსორებული დონეები დაიკარგოს."
+
+#: ../src/persistent.cpp:167
+msgid "Load error"
+msgstr "შეცდომა გამოძახებისას"
+
+#: ../src/persistent.cpp:235
+msgid ""
+"An error occurred while saving the file \"%1\". This may mean that the "
+"recordings of what levels you have passed are lost."
+msgstr ""
+"შეცდომა ფაილ \"%1\"-ის დამახსოვრებისას. ეს შესაძლოა ნიშნავდეს, რომ თქვენს "
+"მიერ დამახსორებული დონეები დაიკარგოს."
+
+#: ../src/persistent.cpp:242
+msgid "Save error"
+msgstr "შეცდომის დამახსოვრებისას"
+
+#: ../src/ui.glade.h:1
+msgid "<b>Difficulty</b>"
+msgstr "<b>სირთულე</b>"
+
+#: ../src/ui.glade.h:2
+msgid "<b>Fullscreen</b>"
+msgstr "<b>მთელ ეკრანზე</b>"
+
+#: ../src/ui.glade.h:3
+msgid "<b>Level</b>"
+msgstr "<b>დონე</b>"
+
+#: ../src/ui.glade.h:4
+msgid "<b>Moving</b>"
+msgstr "<b>მოძრაობა</b>"
+
+#: ../src/ui.glade.h:5
+msgid "<b>Number of Players</b>"
+msgstr "<b>მოთამაშეთა რიცხვი</b>"
+
+#: ../src/ui.glade.h:6
+msgid "<b>Pull block</b>"
+msgstr "<b>ბლოკის გამოთრევა</b>"
+
+#: ../src/ui.glade.h:7
+msgid "Appearance"
+msgstr "წარმოჩენა"
+
+#: ../src/ui.glade.h:8 ../monster-masher.schemas.in.h:1
+msgid "Key for activating pulling of blocks"
+msgstr "ბლოკების გამოსათრევი ღილაკი"
+
+#: ../src/ui.glade.h:9 ../monster-masher.schemas.in.h:2
+msgid "Key for moving down"
+msgstr "ქვემოთ ჩამოსასვლელი ღილაკი"
+
+#: ../src/ui.glade.h:10 ../monster-masher.schemas.in.h:3
+msgid "Key for moving to the left"
+msgstr "მარცხნივ წასასვლელი ღილაკი"
+
+#: ../src/ui.glade.h:11 ../monster-masher.schemas.in.h:4
+msgid "Key for moving to the left and down"
+msgstr "მარცხნივ და ქვემოთ წასასლვლელი ღილაკი"
+
+#: ../src/ui.glade.h:12 ../monster-masher.schemas.in.h:5
+msgid "Key for moving to the left and up"
+msgstr "მარცხნივ და ზემოთ ასასვლელი ღილაკი"
+
+#: ../src/ui.glade.h:13 ../monster-masher.schemas.in.h:6
+msgid "Key for moving to the right"
+msgstr "მარჯვნივ წასასვლელი ღილაკი"
+
+#: ../src/ui.glade.h:14 ../monster-masher.schemas.in.h:7
+msgid "Key for moving to the right and down"
+msgstr "მარჯვნივ და ქვემოთ წასასვლელი ღილაკი"
+
+#: ../src/ui.glade.h:15 ../monster-masher.schemas.in.h:8
+msgid "Key for moving to the right and up"
+msgstr "მარჯვნივ და ზემოთ ასასვლელი ღილაკი"
+
+#: ../src/ui.glade.h:16 ../monster-masher.schemas.in.h:9
+msgid "Key for moving up"
+msgstr "ზემოთ ასასვლელი ღილაკი"
+
+#: ../src/ui.glade.h:20
+msgid "Player 1 keys"
+msgstr "პირველი მოთამაშის ღილაკები"
+
+#: ../src/ui.glade.h:21
+msgid "Player 2 keys"
+msgstr "მეორე მოთამაშის ღილაკები"
+
+#: ../src/ui.glade.h:22
+msgid "Preferences"
+msgstr "პარამეტრები"
+
+#: ../src/ui.glade.h:27
+msgid "Start Game"
+msgstr "თამაშის დაწყება"
+
+#: ../src/ui.glade.h:28
+msgid "Start at _level:"
+msgstr "დაიწყე _დონიდან:"
+
+#: ../src/ui.glade.h:29
+msgid "Use _fullscreen mode"
+msgstr "გამოიყენე მთელ-ეკრანიანი რეჟიმი"
+
+#: ../src/ui.glade.h:30
+msgid "_Easy"
+msgstr "_ადვილი"
+
+#: ../src/ui.glade.h:31
+msgid "_Hard"
+msgstr "_რთული"
+
+#: ../src/ui.glade.h:32
+msgid "_Medium"
+msgstr "_საშუალო"
+
+#: ../src/ui.glade.h:33
+msgid "_One player"
+msgstr "_ერთი მოთამაშე"
+
+#: ../src/ui.glade.h:34
+msgid "_Start"
+msgstr "_დასაწყისი"
+
+#: ../src/ui.glade.h:35
+msgid "_Two players"
+msgstr "_ორი მოთამაშე"
+
+#: ../monster-masher.desktop.in.h:1
+msgid "Mash monsters and save the gnomes"
+msgstr "მუსრი გაავლეთ მონსტრებს და დაიხსენით კეთილი გნომები"
+
+#: ../monster-masher.schemas.in.h:10
+msgid ""
+"The string should be the GDK name of the key value to use (can be found in "
+"gdk/gdkkeynames.c)."
+msgstr ""
+
+#: ../monster-masher.schemas.in.h:11
+msgid "Use fullscreen"
+msgstr "მთელ ეკრანზე"
+
+#~ msgid "        "
+#~ msgstr "        "
